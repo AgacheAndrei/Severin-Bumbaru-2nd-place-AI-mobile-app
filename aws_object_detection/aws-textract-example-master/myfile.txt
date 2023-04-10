@@ -1,0 +1,13560 @@
+This is frame counter 0
+Person 0.97
+on
+0.
+Coat-0.68
+posable Cup 0.67
+
+This is frame counter 1
+Person 0.98
+on
+0.8
+0.95
+posable Cup 0168
+
+This is frame counter 2
+erson 0,97
+rson
+0,96
+posable Cup C 55
+
+This is frame counter 3
+Person 0.98
+odie
+0.94
+
+This is frame counter 4
+erson 0,90
+rson
+0.91
+
+This is frame counter 5
+erson 0.97
+erson
+0.88
+Person
+o.
+
+This is frame counter 6
+erson 0.96
+60
+Person 0.93
+Per
+
+This is frame counter 7
+erson 0.94
+erson 0.92
+
+This is frame counter 8
+erson 0.97
+erson
+0.96
+h_0,62
+
+This is frame counter 9
+erson 0.98
+Person 0.95
+
+This is frame counter 10
+erson 0.98
+posable Cup
+1 -
+
+This is frame counter 11
+erson 0.97
+Person
+0.94
+0.03
+Dis
+posable Cup 0
+
+This is frame counter 12
+erson 0.93
+erson 0.94
+b6331e Cup 016B
+
+This is frame counter 13
+Person 0,94
+Person
+0.94
+0.83
+L0.70
+
+This is frame counter 14
+erson 0.98
+0.67
+Ho
+dbag 0.49
+
+This is frame counter 15
+erson 0.98
+0.91
+0.83
+
+This is frame counter 16
+erson 0.98
+0.98
+0.88
+
+This is frame counter 17
+erson 0.97
+0.9
+5
+0.71
+
+This is frame counter 18
+erson 198
+on
+0.95
+0.62
+
+This is frame counter 19
+erson 0.97
+1,00
+0.72
+
+This is frame counter 20
+erson 0.98
+0.99
+
+This is frame counter 21
+erson 0,97
+0.96
+posable
+
+This is frame counter 22
+Person 0,97
+0.99
+posable
+
+This is frame counter 23
+Perso
+0,96
+6B
+1.00
+posable
+
+This is frame counter 24
+rson 0.96
+0,96
+posable
+
+This is frame counter 25
+Perso
+0,97
+8
+Perso
+1
+0.97
+posable (11/16)
+
+This is frame counter 26
+Pers
+0.97
+3
+0.94
+posable
+-
+413
+
+This is frame counter 27
+Pers
+0,95
+0.93
+posable
+I
+
+This is frame counter 28
+0,97
+0.94
+0.6
+posable THE
+
+This is frame counter 29
+0.68
+0.98
+87
+0,98
+posable
+LTRN
+
+This is frame counter 30
+Per
+on
+.98
+0.63
+1.00
+posable
+1920
+(
+
+This is frame counter 31
+on
+a
+98
+78
+1.00
+4
+posable
+I
+(
+
+This is frame counter 32
+en
+0.98
+1.00
+posable
+
+This is frame counter 33
+on 0.98
+0.99
+posable
+
+This is frame counter 34
+Pen on 0.95
+96
+posable
+
+This is frame counter 35
+Per on 0,97
+posable
+
+This is frame counter 36
+Per on 0.97
+posable
+
+This is frame counter 37
+Per on 0.98
+posable
+
+This is frame counter 38
+Per on 0.98
+posable
+OR
+
+This is frame counter 39
+erson 0.98
+0.68
+posable
+
+This is frame counter 40
+erson 0,97
+1100
+Boot
+0.76
+DI
+posable 7
+
+This is frame counter 41
+100
+D
+posable
+
+This is frame counter 42
+0.98
+on
+1:00
+D
+posable QUZ the
+
+This is frame counter 43
+0.95
+1.00
+P
+posable
+
+This is frame counter 44
+0,93
+rson 0.99
+TER
+posable Cup .
+
+This is frame counter 45
+0.56
+rson 0.99
+posable Cup
+I
+
+This is frame counter 46
+0.63
+rson 0.99
+0,74
+posable Cup
+
+This is frame counter 47
+0.74
+son
+0.98
+posable Cup
+
+This is frame counter 48
+on
+0.99
+posable Cup 0
+
+This is frame counter 49
+on 0.99
+posable Cup I
+
+This is frame counter 50
+Personaple
+OOL
+1.00
+posable (
+
+This is frame counter 51
+erson
+en on 0.99
+posable Cub
+
+This is frame counter 52
+erson
+posable Cub
+
+This is frame counter 53
+erson
+Perso
+1.00
+posable Cu
+
+This is frame counter 54
+erson
+1.00
+posable Cu
+
+This is frame counter 55
+erson
+Soot
+rson
+.00
+
+This is frame counter 56
+erson
+Coat
+rson
+1.00
+posable Cu
+
+This is frame counter 57
+rson
+0
+Coat
+0.
+posable C
+
+This is frame counter 58
+-
+rson O.
+Coat
+0.00
+Person 0.98
+posable C
+
+This is frame counter 59
+on O.
+Person 0.
+THE
+posable a
+
+This is frame counter 60
+on
+O.
+Person 0.9
+bosable O
+
+This is frame counter 61
+on 0.9
+Per on 0.96
+bosable
+
+This is frame counter 62
+on
+0.9
+on O.
+5
+bosable
+
+This is frame counter 63
+on
+0.9
+O.
+bosable
+
+This is frame counter 64
+on 0.9
+Person 0.91
+
+This is frame counter 65
+on O.S
+babble
+0.97
+bosable
+
+This is frame counter 66
+on 0.9
+0.90
+0.98
+bosable
+
+This is frame counter 67
+on 0.9
+er 0.85
+oaabl
+
+This is frame counter 68
+0.94
+bosable
+
+This is frame counter 69
+0,93
+0.91
+boaat
+
+This is frame counter 70
+erson 0.94
+snd 0.88
+bosab
+
+This is frame counter 71
+0.97
+0.94
+osabl
+
+This is frame counter 72
+Person 0,94
+er
+0.74
+bosabl
+
+This is frame counter 73
+erson 0.9
+hiker 0.73
+OSO
+
+This is frame counter 74
+Person 0,93
+Coat 0.74
+OSO
+
+This is frame counter 75
+Braon 0.9
+bosa
+
+This is frame counter 76
+Person 0.9
+0.98
+osabi
+
+This is frame counter 77
+oaable
+.
+E
+osable
+
+This is frame counter 78
+Person O.
+on 0.95
+F
+osable
+
+This is frame counter 79
+Person O..
+on 0.9
+
+This is frame counter 80
+Person O.
+on 0.97
+Wall 0.6
+
+This is frame counter 81
+Person OS
+on 0.96
+osable O
+
+This is frame counter 82
+Person One
+on 0.97
+Wall 0.64
+osable C
+
+This is frame counter 83
+Person
+On
+0.98
+C
+
+This is frame counter 84
+0.96
+osable C
+
+This is frame counter 85
+Person 0.98
+98
+bosable &
+
+This is frame counter 86
+Person 0.96
+Wall 0.66
+
+This is frame counter 87
+Person 0.96
+0.74
+
+This is frame counter 88
+Person 0.97
+KMAG
+0.55
+Wall 0.
+
+This is frame counter 89
+Person 0.96
+
+This is frame counter 90
+Person 0.96
+
+This is frame counter 91
+Person 0.94
+96
+0.72
+
+This is frame counter 92
+Person 0.95
+.97
+Disposable Cu
+
+This is frame counter 93
+Person 0.97
+0.97
+Billissaable E
+
+This is frame counter 94
+Person 0.97
+Perso
+0.95
+KPM
+Diabosable Cu
+
+This is frame counter 95
+Person 0.96
+0.94
+
+This is frame counter 96
+Person 0.97
+0.88
+Disposable Cu
+
+This is frame counter 97
+Person 0.93
+0.93
+Cu
+
+This is frame counter 98
+Person 0.96
+0.90
+Backpack 0.55
+able Cu
+
+This is frame counter 99
+Person 0.97
+Pen n 0.97
+reportable Cu
+
+This is frame counter 100
+Person 0.97
+Person 0.94
+posable Cu
+
+This is frame counter 101
+Person 0.97
+Person .91
+KPM
+osable Cu
+
+This is frame counter 102
+Person 0.96
+Person 0.91
+osable Cu
+
+This is frame counter 103
+Person 0.96
+Person 0.90
+osable Cu
+
+This is frame counter 104
+Person 0.97
+Person 0.94
+osable Cu
+
+This is frame counter 105
+Person 0.96
+Person 0.94
+osable Cup
+
+This is frame counter 106
+Person 0.97
+Person 0.92
+osable Cup
+
+This is frame counter 107
+Person 0.97
+Person 0.93
+Backpack 058
+Dis
+bosable Cup
+
+This is frame counter 108
+Person 0.97
+Person 0.97
+osable Cup
+
+This is frame counter 109
+Person 0.94
+Person
+osable Cup
+[
+
+This is frame counter 110
+Person 0.91
+Person
+Dis
+osable Cup 0
+
+This is frame counter 111
+Person 0.93
+Person
+Disposable Cup 0
+
+This is frame counter 112
+Person 0.97
+Person
+bosable Cup O.
+
+This is frame counter 113
+Person 0.98
+Person
+posable Cup 0.8
+
+This is frame counter 114
+Person 0.93
+Person
+posable Cup 0.7
+
+This is frame counter 115
+Person 0.98
+Person
+posable Cup 0.79
+
+This is frame counter 116
+Person 0.96
+Person
+
+This is frame counter 117
+Person 0.99
+Person
+
+This is frame counter 118
+Person 0.97
+Person
+
+This is frame counter 119
+Person 0.08 Person 0.99
+
+This is frame counter 120
+Person
+on 0.99
+
+This is frame counter 121
+Person
+on 0.98
+
+This is frame counter 122
+on 0.98
+
+This is frame counter 123
+on 0.95
+Person
+
+This is frame counter 124
+on 0.96
+Person
+
+This is frame counter 125
+on 0.97
+Perso
+
+This is frame counter 126
+on 0.97
+Perso
+
+This is frame counter 127
+on 0.90
+Perso
+-
+
+This is frame counter 128
+on 0.95
+Person
+0.73
+0.62
+-
+
+This is frame counter 129
+on 0.93
+
+This is frame counter 130
+Person 0.96
+!
+
+This is frame counter 131
+on 0.96
+
+This is frame counter 132
+Pers on 0.9
+
+This is frame counter 133
+
+This is frame counter 134
+Person 0,98
+
+This is frame counter 135
+Person 0.98
+
+This is frame counter 136
+Person 0.98
+Coat 0.63
+
+This is frame counter 137
+Person 0.9
+Coat 0.63
+
+This is frame counter 138
+O.
+
+This is frame counter 139
+Person O.
+
+This is frame counter 140
+Person
+
+This is frame counter 141
+Person
+
+This is frame counter 142
+Person
+
+This is frame counter 143
+Person
+
+This is frame counter 144
+:
+
+This is frame counter 145
+
+This is frame counter 146
+
+This is frame counter 147
+Pers
+
+This is frame counter 148
+Pers
+
+This is frame counter 149
+=
+!
+
+This is frame counter 150
+a
+Person
+
+This is frame counter 151
+0.90
+
+This is frame counter 152
+0.9
+
+This is frame counter 153
+0.83
+
+This is frame counter 154
+Person 0.88
+
+This is frame counter 155
+
+This is frame counter 156
+
+This is frame counter 157
+a
+
+This is frame counter 158
+
+This is frame counter 159
+
+This is frame counter 160
+
+This is frame counter 161
+a
+Person 0.74
+
+This is frame counter 162
+to
+Person
+
+This is frame counter 163
+
+This is frame counter 164
+
+This is frame counter 165
+
+This is frame counter 166
+
+This is frame counter 167
+
+This is frame counter 168
+
+This is frame counter 169
+
+This is frame counter 170
+
+This is frame counter 171
+
+This is frame counter 172
+
+This is frame counter 173
+
+This is frame counter 174
+
+This is frame counter 175
+0.71
+
+This is frame counter 176
+711
+
+This is frame counter 177
+
+This is frame counter 178
+Wall . 0.61
+-
+
+This is frame counter 179
+Wall 0,62
+Wall-0.61
+
+This is frame counter 180
+Wall 0,62
+
+This is frame counter 181
+Wall 0.57
+11
+
+This is frame counter 182
+Wall
+0.77
+
+This is frame counter 183
+wall 0.57
+
+This is frame counter 184
+IN
+
+This is frame counter 185
+0.62
+Ass
+
+This is frame counter 186
+0.62
+
+This is frame counter 187
+Cabinet 0.27
+⑉
+62
+IN
+
+This is frame counter 188
+
+This is frame counter 189
+
+This is frame counter 190
+0.79
+
+This is frame counter 191
+en
+
+This is frame counter 192
+erson
+
+This is frame counter 193
+Cobi
+0.64
+erson OK
+
+This is frame counter 194
+Person 0.85
+
+This is frame counter 195
+b8.9494
+
+This is frame counter 196
+
+This is frame counter 197
+0.93
+
+This is frame counter 198
+
+This is frame counter 199
+
+This is frame counter 200
+roon
+
+This is frame counter 201
+
+This is frame counter 202
+
+This is frame counter 203
+
+This is frame counter 204
+
+This is frame counter 205
+
+This is frame counter 206
+
+This is frame counter 207
+1⑉
+CO
+
+This is frame counter 208
+E
+Cafeet
+ORKING
+⑉
+SCO
+
+This is frame counter 209
+EEE
+the
+WORKING
+unand
+-
+SCO
+
+This is frame counter 210
++EEE
+State Coffee
+WORKING
+stipmand Read
+Intelle
+cisco
+is
+25
+
+This is frame counter 211
+Can 0.62
++EEE
+Enter Coffee
+TWORKING
+calor and Research
+3
+L October
+cisco
+a
+
+This is frame counter 212
+AM
++EEE
+Conférence
+ETWORKING
+lucation and Research
+= Creative IF 2014
+and
+cisco
+and
+
+This is frame counter 213
+0.64
++EEE
+You Cafeenz
+ETWORKING
+Education and Research
+in Grade
+alain
+cisco
+
+This is frame counter 214
+Glapp
+L0.82
++EE
+If
+NETWORKING
+Education and leave
+Great Grate 12-22
+and
+CISCO
+-
+
+This is frame counter 215
++E
+in Coffee
+NETWORKING
+Education and Research
+State Creative
+⑉4⑉
+CISCO
+H
+(6)
+
+This is frame counter 216
++-EEE
+If RoEdulle Cafere
+NETWORKING
+Education THE Research
+Date Create I 205
+and
+cisco
+
+This is frame counter 217
++-EEE
+If Rotule Career
+NETWORKING
+Education END Research
+Sam Diction
+464
+CISCO
+Z
+R
+
+This is frame counter 218
+HEE
+If
+NETWORKING
+Education and Research
+Director $2.305
+and
+CISCO
+R
+
+This is frame counter 219
+HE
+in Care
+NETWORKING
+Education and Research
+Sant $2.20
+CISCO
+-
+
+This is frame counter 220
+NEW
+If internal
+NETWORKING
+Education and
+East Transite -
+e
+CISCO
+State
+
+This is frame counter 221
+NEW
+I
+NETWORK
+inconclusive in
+/
+CISCO
+
+This is frame counter 222
+WE
+I REDUE The
+NETWORK
+100 I -
+cisco
+
+This is frame counter 223
+NEW
+If
+METAOO
+Expiration 200
+100 Imper
+cisca
+of
+
+This is frame counter 224
+Can
+@
+-
+If
+NETWO
+cisca
+
+This is frame counter 225
+Con
+D.
+TREAT
+
+This is frame counter 226
+Can
+0.
+(If
+THE
+H
+Pill 0.63
+
+This is frame counter 227
+Con on
+an
+S
+0.63
+
+This is frame counter 228
+Can 0
+oor 0.64
+<
+Pill 0.70
+
+This is frame counter 229
+Door 0.64
+I
+I
+
+This is frame counter 230
+H
+<<
+
+This is frame counter 231
+Wall 0.70
+<0
+S
+-
+
+This is frame counter 232
+--
+
+This is frame counter 233
+Wall 0.95
+Tape 0.67
+
+This is frame counter 234
+Wall 0.85
+0.60
+
+This is frame counter 235
+Wall 0,96
+O
+
+This is frame counter 236
+Wall 0.96
+
+This is frame counter 237
+Wall 0.91
+
+This is frame counter 238
+Wall 0.89
+
+This is frame counter 239
+Wall 0.88
+
+This is frame counter 240
+Wall 0.68
+
+This is frame counter 241
+(all 0,06
+
+This is frame counter 242
+
+This is frame counter 243
+
+This is frame counter 244
+
+This is frame counter 245
+Railing 0.68
+
+This is frame counter 246
+8:38
+
+This is frame counter 247
+0.75
+
+This is frame counter 248
+tailing 0.71
+
+This is frame counter 249
+Railing 0.61
+
+This is frame counter 250
+filing 0.62
+calling 0.61
+
+This is frame counter 251
+Railing 0.62
+Railing 0.65
+
+This is frame counter 252
+Railing, 0.65
+Railing 0.65
+
+This is frame counter 253
+I -
+
+This is frame counter 254
+
+This is frame counter 255
+
+This is frame counter 256
+Roiling U.S.
+
+This is frame counter 257
+Roiling U.S
+
+This is frame counter 258
+Railing 0.73
+
+This is frame counter 259
+Railing 0.73
+
+This is frame counter 260
+Railing 0.73
+
+This is frame counter 261
+Railing 0.73
+
+This is frame counter 262
+Railing 0.73
+Staircase 0.70
+
+This is frame counter 263
+Staircase 0.76
+
+This is frame counter 264
+States 0.70
+
+This is frame counter 265
+
+This is frame counter 266
+Staircase 0.08
+
+This is frame counter 267
+Staircose
+
+This is frame counter 268
+Staircase
+JO
+
+This is frame counter 269
+taircose 0.01
+
+This is frame counter 270
+S aircose 0.01
+
+This is frame counter 271
+8.84
+
+This is frame counter 272
+0.88
+
+This is frame counter 273
+R.RA
+
+This is frame counter 274
+
+This is frame counter 275
+0.99
+
+This is frame counter 276
+
+This is frame counter 277
+
+This is frame counter 278
+
+This is frame counter 279
+
+This is frame counter 280
+
+This is frame counter 281
+
+This is frame counter 282
+
+This is frame counter 283
+
+This is frame counter 284
+
+This is frame counter 285
+
+This is frame counter 286
+Stoingus
+0.68
+
+This is frame counter 287
+0.68
+
+This is frame counter 288
+
+This is frame counter 289
+8.33
+
+This is frame counter 290
+Staimase 0.65
+
+This is frame counter 291
+0.95
+
+This is frame counter 292
+Staincase 0.58
+
+This is frame counter 293
+Staircase 0.76
+
+This is frame counter 294
+Staircase 0.76
+
+This is frame counter 295
+dircase
+0.64
+Sto ircase 0.76
+
+This is frame counter 296
+0.62
+
+This is frame counter 297
+Staircase 0.62
+
+This is frame counter 298
+Staircase 0.62
+
+This is frame counter 299
+Staircase 0.62
+
+This is frame counter 300
+Staircase 0.62
+
+This is frame counter 301
+Staircase 0.62
+
+This is frame counter 302
+aircase 0.62
+
+This is frame counter 303
+gircose 0.62
+
+This is frame counter 304
+aircase 0.62
+
+This is frame counter 305
+S aircose 0.62
+
+This is frame counter 306
+Staircase 0.62
+
+This is frame counter 307
+taircose 0.62
+
+This is frame counter 308
+0.62
+
+This is frame counter 309
+aircase 0.64
+
+This is frame counter 310
+case 0.68
+
+This is frame counter 311
+0.52
+
+This is frame counter 312
+aircose 0.62
+
+This is frame counter 313
+0.62
+
+This is frame counter 314
+0.62
+
+This is frame counter 315
+Staircose 0.62
+
+This is frame counter 316
+Staircase 0.62
+
+This is frame counter 317
+0.62
+
+This is frame counter 318
+0.73
+
+This is frame counter 319
+0.73
+
+This is frame counter 320
+0.73
+
+This is frame counter 321
+0.73
+
+This is frame counter 322
+Stoircose 0.73
+
+This is frame counter 323
+0.63
+
+This is frame counter 324
+stoircase 0.63
+
+This is frame counter 325
+staircase 0.63
+
+This is frame counter 326
+0.63
+
+This is frame counter 327
+0.68
+
+This is frame counter 328
+Staircase 0.60
+
+This is frame counter 329
+stowcase 0.60
+
+This is frame counter 330
+Staircase 0.60
+
+This is frame counter 331
+taircase 0.66
+
+This is frame counter 332
+taircase 0.65
+
+This is frame counter 333
+-
+
+This is frame counter 334
+staircase 0.62
+
+This is frame counter 335
+Staircase 0.62
+
+This is frame counter 336
+Staircase 0.62
+
+This is frame counter 337
+Staircase 0.62
+
+This is frame counter 338
+Staircase 0.62
+
+This is frame counter 339
+Staircase 0.62
+
+This is frame counter 340
+Staircase 0.62
+
+This is frame counter 341
+Staircase 0.00
+
+This is frame counter 342
+Staircase 0.59
+
+This is frame counter 343
+Staircose 0.59
+Staircase 0.63
+
+This is frame counter 344
+Staircase 0.63
+
+This is frame counter 345
+Staircase 0.61
+Staircase 0.63
+
+This is frame counter 346
+Staircase 0.61
+
+This is frame counter 347
+
+This is frame counter 348
+adidas 0.04
+
+This is frame counter 349
+
+This is frame counter 350
+
+This is frame counter 351
+Staircase 0.64
+
+This is frame counter 352
+Staircase 0.64
+
+This is frame counter 353
+Draircose 0.64
+
+This is frame counter 354
+Staircase 0.64
+
+This is frame counter 355
+
+This is frame counter 356
+
+This is frame counter 357
+
+This is frame counter 358
+Staircase 0.59
+
+This is frame counter 359
+Staircase 0.59
+
+This is frame counter 360
+Staircase 0.59
+
+This is frame counter 361
+
+This is frame counter 362
+
+This is frame counter 363
+Staircase 0.61
+Staircuse 0.56
+
+This is frame counter 364
+
+This is frame counter 365
+
+This is frame counter 366
+
+This is frame counter 367
+
+This is frame counter 368
+
+This is frame counter 369
+
+This is frame counter 370
+0.66
+
+This is frame counter 371
+
+This is frame counter 372
+
+This is frame counter 373
+.89
+
+This is frame counter 374
+Staircase 0.62
+
+This is frame counter 375
+Staircase 0.62
+
+This is frame counter 376
+Plan
+58
+
+This is frame counter 377
+
+This is frame counter 378
+96
+
+This is frame counter 379
+£58
+
+This is frame counter 380
+1.76
+
+This is frame counter 381
+FL92
+
+This is frame counter 382
+
+This is frame counter 383
+0.61
+
+This is frame counter 384
+
+This is frame counter 385
+
+This is frame counter 386
+
+This is frame counter 387
+
+This is frame counter 388
+
+This is frame counter 389
+
+This is frame counter 390
+
+This is frame counter 391
+
+This is frame counter 392
+
+This is frame counter 393
+
+This is frame counter 394
+
+This is frame counter 395
+
+This is frame counter 396
+
+This is frame counter 397
+
+This is frame counter 398
+
+This is frame counter 399
+
+This is frame counter 400
+
+This is frame counter 401
+
+This is frame counter 402
+
+This is frame counter 403
+
+This is frame counter 404
+
+This is frame counter 405
+
+This is frame counter 406
+
+This is frame counter 407
+
+This is frame counter 408
+
+This is frame counter 409
+
+This is frame counter 410
+
+This is frame counter 411
+
+This is frame counter 412
+
+This is frame counter 413
+
+This is frame counter 414
+
+This is frame counter 415
+
+This is frame counter 416
+
+This is frame counter 417
+
+This is frame counter 418
+
+This is frame counter 419
+
+This is frame counter 420
+
+This is frame counter 421
+
+This is frame counter 422
+
+This is frame counter 423
+b.7
+
+This is frame counter 424
+
+This is frame counter 425
+
+This is frame counter 426
+
+This is frame counter 427
+
+This is frame counter 428
+
+This is frame counter 429
+
+This is frame counter 430
+
+This is frame counter 431
+0.58
+
+This is frame counter 432
+
+This is frame counter 433
+
+This is frame counter 434
+
+This is frame counter 435
+
+This is frame counter 436
+Plant 0.64
+
+This is frame counter 437
+Plant 0.64
+0.6
+
+This is frame counter 438
+
+This is frame counter 439
+
+This is frame counter 440
+0.60
+
+This is frame counter 441
+
+This is frame counter 442
+Plant
+
+This is frame counter 443
+
+This is frame counter 444
+0.60
+
+This is frame counter 445
+
+This is frame counter 446
+
+This is frame counter 447
+Plan 0.57
+
+This is frame counter 448
+0.57
+
+This is frame counter 449
+lant 0.
+
+This is frame counter 450
+
+This is frame counter 451
+
+This is frame counter 452
+Plant O.
+0.69
+
+This is frame counter 453
+Plant
+
+This is frame counter 454
+Plant 0,
+
+This is frame counter 455
+Plant 0.
+
+This is frame counter 456
+
+This is frame counter 457
+Plant 0.714
+
+This is frame counter 458
+Plan 0.61
+
+This is frame counter 459
+8.95
+
+This is frame counter 460
+10.56
+
+This is frame counter 461
+10.56
+
+This is frame counter 462
+
+This is frame counter 463
+
+This is frame counter 464
+Plant
+Plant 0.59
+
+This is frame counter 465
+fall 0.63
+Plant 0.59
+
+This is frame counter 466
+DABIT
+
+This is frame counter 467
+0.87
+
+This is frame counter 468
+WaN 0.00
+
+This is frame counter 469
+of 0.72
+Plant 0.80
+
+This is frame counter 470
+toll 0.25
+Plant 0.63
+0.82
+
+This is frame counter 471
+all 0.51
+Plant 0,70
+
+This is frame counter 472
+
+This is frame counter 473
+Wall 0.66
+
+This is frame counter 474
+Wall 0,65
+
+This is frame counter 475
+
+This is frame counter 476
+
+This is frame counter 477
+ant
+
+This is frame counter 478
+
+This is frame counter 479
+
+This is frame counter 480
+Wall 0.75
+
+This is frame counter 481
+Wall 0.35
+
+This is frame counter 482
+Wall 0.88
+
+This is frame counter 483
+0.86
+
+This is frame counter 484
+Vall D. .70
+
+This is frame counter 485
+
+This is frame counter 486
+
+This is frame counter 487
+Wall 0.65
+
+This is frame counter 488
+II 0.69
+
+This is frame counter 489
+fall
+0.81
+098
+
+This is frame counter 490
+Wall 0.74
+
+This is frame counter 491
+0.28
+Plant
+
+This is frame counter 492
+all 0.08
+Plant
+1
+
+This is frame counter 493
+Wall 0.59
+Plant
+an
+
+This is frame counter 494
+fall
+0.78
+Plant 0.56
+
+This is frame counter 495
+0.52
+Plant 0.55
+
+This is frame counter 496
+o#10.62
+0.70
+
+This is frame counter 497
+all 0.62
+0.69
+
+This is frame counter 498
+
+This is frame counter 499
+
+This is frame counter 500
+
+This is frame counter 501
+
+This is frame counter 502
+
+This is frame counter 503
+IN
+
+This is frame counter 504
+TI
+
+This is frame counter 505
+all-0.62
+CT
+
+This is frame counter 506
+
+This is frame counter 507
+0.69
+
+This is frame counter 508
+all
+0,69
+DIX
+
+This is frame counter 509
+0.30
+
+This is frame counter 510
+all 0,85
+
+This is frame counter 511
+all 0,89
+IT
+
+This is frame counter 512
+all
+0.94
+
+This is frame counter 513
+0,08
+n
+
+This is frame counter 514
+0.68
+DD
+
+This is frame counter 515
+fall 0,68
+
+This is frame counter 516
+
+This is frame counter 517
+LED
+
+This is frame counter 518
+LE
+
+This is frame counter 519
+LED
+lant
+
+This is frame counter 520
+III
+
+This is frame counter 521
+LET
+Plant
+
+This is frame counter 522
+NET
+
+This is frame counter 523
+LT
+
+This is frame counter 524
+LET
+
+This is frame counter 525
+ET
+lant
+
+This is frame counter 526
+in
+ant
+0
+
+This is frame counter 527
+NET
+Plant
+
+This is frame counter 528
+
+This is frame counter 529
+THE
+Plentien
+
+This is frame counter 530
+I'D
+lant
+
+This is frame counter 531
+THE
+Plant
+Plant
+
+This is frame counter 532
+I'm
+
+This is frame counter 533
+HIT
+
+This is frame counter 534
+Him
+
+This is frame counter 535
+HIT
+
+This is frame counter 536
+
+This is frame counter 537
+Woll(0.97
+RIOALOG
+rson
+0.87
+Person
+0.59
+
+This is frame counter 538
+ALT
+
+This is frame counter 539
+Plant 0.68
+
+This is frame counter 540
+Holl-O:
+Wall
+
+This is frame counter 541
+Wall 0.85
+
+This is frame counter 542
+Wall 0.8
+=
+
+This is frame counter 543
+Wall 0.86
+
+This is frame counter 544
+.
+
+This is frame counter 545
+-
+Plant 0.-
+Person
+O
+
+This is frame counter 546
+r
+-
+WH
+
+This is frame counter 547
+1
+WHO
+
+This is frame counter 548
+all
+HET
+
+This is frame counter 549
+I'L
+
+This is frame counter 550
+someto
+0.62
+
+This is frame counter 551
+0.73
+0.62
+I'm
+
+This is frame counter 552
+0.6
+
+This is frame counter 553
+0.66
+
+This is frame counter 554
+Railion
+Railing 0.63
+
+This is frame counter 555
+I Wall 0,73
+Railing 0.63
+Pereon OF
+
+This is frame counter 556
+Wall 0,75
+PrappoR
+
+This is frame counter 557
+Wall 0.75
+Ceiling Fan 0.58
+
+This is frame counter 558
+Wall 0.60
+Purson 0.82
+Eeiling
+FGR
+0.00
+
+This is frame counter 559
+Wall 0.60
+Pers o,
+0,76
+Ceiling Fan 0.65
+
+This is frame counter 560
+Wall 0.72
+Person, pai
+Ceiling Fan 0.81
+
+This is frame counter 561
+celling
+rom
+
+This is frame counter 562
+Woll 0.69
+www.fon.or
+
+This is frame counter 563
+Wall 0.61
+China
+
+This is frame counter 564
+Wall 0.58
+
+This is frame counter 565
+Woll 0.58
+
+This is frame counter 566
+Wall 0,64
+
+This is frame counter 567
+sun
+
+This is frame counter 568
+0.66
+
+This is frame counter 569
+Rail
+
+This is frame counter 570
+Railir
+
+This is frame counter 571
+Railing
+
+This is frame counter 572
+filing
+0.6
+
+This is frame counter 573
+0.64
+
+This is frame counter 574
+0.64
+
+This is frame counter 575
+
+This is frame counter 576
+
+This is frame counter 577
+
+This is frame counter 578
+
+This is frame counter 579
+aiii
+
+This is frame counter 580
+
+This is frame counter 581
+
+This is frame counter 582
+
+This is frame counter 583
+
+This is frame counter 584
+
+This is frame counter 585
+
+This is frame counter 586
+
+This is frame counter 587
+
+This is frame counter 588
+L
+
+This is frame counter 589
+
+This is frame counter 590
+
+This is frame counter 591
+
+This is frame counter 592
+I
+
+This is frame counter 593
+<<<
+
+This is frame counter 594
+0.68
+
+This is frame counter 595
+
+This is frame counter 596
+
+This is frame counter 597
+III
+
+This is frame counter 598
+
+This is frame counter 599
+Wall
+
+This is frame counter 600
+Wall
+Q.
+III
+-
+
+This is frame counter 601
+If
+
+This is frame counter 602
+If
+
+This is frame counter 603
+D
+
+This is frame counter 604
+in
+
+This is frame counter 605
+I
+
+This is frame counter 606
+II
+
+This is frame counter 607
+Ib
+
+This is frame counter 608
+Ih
+
+This is frame counter 609
+III
+
+This is frame counter 610
+01
+
+This is frame counter 611
+-
+1
+
+This is frame counter 612
+th
+
+This is frame counter 613
+I
+1
+
+This is frame counter 614
+Circos
+so
+of
+
+This is frame counter 615
+taincose
+0.56
+B
+
+This is frame counter 616
+Staircose
+.56
+Y
+
+This is frame counter 617
+
+This is frame counter 618
+$
+
+This is frame counter 619
+N
+
+This is frame counter 620
+
+This is frame counter 621
+
+This is frame counter 622
+
+This is frame counter 623
+
+This is frame counter 624
+
+This is frame counter 625
+
+This is frame counter 626
+
+This is frame counter 627
+0.57
+
+This is frame counter 628
+Wall
+0.57
+
+This is frame counter 629
+
+This is frame counter 630
+
+This is frame counter 631
+
+This is frame counter 632
+
+This is frame counter 633
+
+This is frame counter 634
+
+This is frame counter 635
+
+This is frame counter 636
+
+This is frame counter 637
+0.65
+
+This is frame counter 638
+(all
+0.65
+
+This is frame counter 639
+
+This is frame counter 640
+
+This is frame counter 641
+
+This is frame counter 642
+I
+$
+
+This is frame counter 643
+1
+
+This is frame counter 644
+0,56
+
+This is frame counter 645
+all 0,56
+
+This is frame counter 646
+all
+,56
+
+This is frame counter 647
+Wall
+56
+
+This is frame counter 648
+Wall 5.56
+
+This is frame counter 649
+
+This is frame counter 650
+
+This is frame counter 651
+
+This is frame counter 652
+
+This is frame counter 653
+
+This is frame counter 654
+
+This is frame counter 655
+I
+
+This is frame counter 656
+
+This is frame counter 657
+U
+
+This is frame counter 658
+
+This is frame counter 659
+
+This is frame counter 660
+
+This is frame counter 661
+1
+
+This is frame counter 662
+
+This is frame counter 663
+
+This is frame counter 664
+
+This is frame counter 665
+
+This is frame counter 666
+(
+
+This is frame counter 667
+1
+(
+
+This is frame counter 668
+
+This is frame counter 669
+I
+
+This is frame counter 670
+
+This is frame counter 671
+I
+
+This is frame counter 672
+
+This is frame counter 673
+
+This is frame counter 674
+
+This is frame counter 675
+
+This is frame counter 676
+we
+
+This is frame counter 677
+
+This is frame counter 678
+
+This is frame counter 679
+A
+
+This is frame counter 680
+
+This is frame counter 681
+-
+
+This is frame counter 682
+
+This is frame counter 683
+
+This is frame counter 684
+
+This is frame counter 685
+
+This is frame counter 686
+
+This is frame counter 687
+
+This is frame counter 688
+
+This is frame counter 689
+0.93
+
+This is frame counter 690
+
+This is frame counter 691
+
+This is frame counter 692
+
+This is frame counter 693
+
+This is frame counter 694
+
+This is frame counter 695
+
+This is frame counter 696
+
+This is frame counter 697
+0.98
+
+This is frame counter 698
+0.96
+
+This is frame counter 699
+
+This is frame counter 700
+
+This is frame counter 701
+
+This is frame counter 702
+
+This is frame counter 703
+
+This is frame counter 704
+
+This is frame counter 705
+
+This is frame counter 706
+
+This is frame counter 707
+0.97
+
+This is frame counter 708
+-
+
+This is frame counter 709
+
+This is frame counter 710
+0.95
+
+This is frame counter 711
+0.97
+
+This is frame counter 712
+
+This is frame counter 713
+
+This is frame counter 714
+
+This is frame counter 715
+wall 0,9B
+100
+
+This is frame counter 716
+0.96
+
+This is frame counter 717
+0.98
+
+This is frame counter 718
+Wall 0.98
+
+This is frame counter 719
+Wall 0.97
+
+This is frame counter 720
+Wall 0.98
+
+This is frame counter 721
+Wall 0,95
+a
+
+This is frame counter 722
+Wall 0.95
+
+This is frame counter 723
+-
+Wall 0.98
+B
+
+This is frame counter 724
+Wall 0.98
+
+This is frame counter 725
+Wall 0.98
+
+This is frame counter 726
+Wall 0.97
+
+This is frame counter 727
+Wall 0.98
+
+This is frame counter 728
+Wall 0.95
+
+This is frame counter 729
+Wall 0.96
+
+This is frame counter 730
+Woll 0.98
+.
+
+This is frame counter 731
+all 0,93
+
+This is frame counter 732
+Wall 0.91
+
+This is frame counter 733
+all 0.94
+
+This is frame counter 734
+Wall 0.98
+
+This is frame counter 735
+all 0.98
+
+This is frame counter 736
+Wall 0.98
+
+This is frame counter 737
+all 0.95
+
+This is frame counter 738
+Wall 0.95
+
+This is frame counter 739
+0.95
+
+This is frame counter 740
+
+This is frame counter 741
+
+This is frame counter 742
+
+This is frame counter 743
+
+This is frame counter 744
+
+This is frame counter 745
+
+This is frame counter 746
+
+This is frame counter 747
+
+This is frame counter 748
+
+This is frame counter 749
+
+This is frame counter 750
+
+This is frame counter 751
+
+This is frame counter 752
+0.85
+
+This is frame counter 753
+
+This is frame counter 754
+
+This is frame counter 755
+.
+
+This is frame counter 756
+
+This is frame counter 757
+
+This is frame counter 758
+
+This is frame counter 759
+0.95
+
+This is frame counter 760
+-
+0.95
+
+This is frame counter 761
+0,95
+
+This is frame counter 762
+-
+0.96
+-
+
+This is frame counter 763
+-
+Wall 0,98
+
+This is frame counter 764
+1
+Vall 0,85
+
+This is frame counter 765
+-
+Wall 0,95
+
+This is frame counter 766
+all 0.92
+
+This is frame counter 767
+Wall 0.92
+
+This is frame counter 768
+Wall 0.93
+
+This is frame counter 769
+0,93
+
+This is frame counter 770
+Wat 0.95
+
+This is frame counter 771
+0.95
+
+This is frame counter 772
+Wall 0.90
+
+This is frame counter 773
+Wall 0.95
+
+This is frame counter 774
+fall 0.95
+
+This is frame counter 775
+0.00
+
+This is frame counter 776
+
+This is frame counter 777
+II 0.98
+
+This is frame counter 778
+0.98
+
+This is frame counter 779
+
+This is frame counter 780
+
+This is frame counter 781
+
+This is frame counter 782
+
+This is frame counter 783
+
+This is frame counter 784
+
+This is frame counter 785
+
+This is frame counter 786
+
+This is frame counter 787
+
+This is frame counter 788
+
+This is frame counter 789
+
+This is frame counter 790
+
+This is frame counter 791
+
+This is frame counter 792
+
+This is frame counter 793
+
+This is frame counter 794
+
+This is frame counter 795
+i
+
+This is frame counter 796
+
+This is frame counter 797
+
+This is frame counter 798
+
+This is frame counter 799
+
+This is frame counter 800
+1
+
+This is frame counter 801
+
+This is frame counter 802
+
+This is frame counter 803
+
+This is frame counter 804
+
+This is frame counter 805
+i
+
+This is frame counter 806
+
+This is frame counter 807
+
+This is frame counter 808
+
+This is frame counter 809
+
+This is frame counter 810
+DWV
+the
+
+This is frame counter 811
+tch 0.83
+
+This is frame counter 812
+0,85
+tch 0.83
+
+This is frame counter 813
+i
+
+This is frame counter 814
+
+This is frame counter 815
+itch 0.56
+
+This is frame counter 816
+tch 0.56
+
+This is frame counter 817
+itch 0.66
+
+This is frame counter 818
+itch 0.66
+
+This is frame counter 819
+0.78
+
+This is frame counter 820
+
+This is frame counter 821
+
+This is frame counter 822
+0.63
+
+This is frame counter 823
+
+This is frame counter 824
+0.63
+
+This is frame counter 825
+0.63
+
+This is frame counter 826
+0.63
+
+This is frame counter 827
+
+This is frame counter 828
+
+This is frame counter 829
+
+This is frame counter 830
+
+This is frame counter 831
+Wall
+
+This is frame counter 832
+0
+
+This is frame counter 833
+
+This is frame counter 834
+
+This is frame counter 835
+
+This is frame counter 836
+tch 0.69
+
+This is frame counter 837
+0.00
+
+This is frame counter 838
+ch 0.80
+
+This is frame counter 839
+s
+0.80
+
+This is frame counter 840
+S
+0.80
+
+This is frame counter 841
+S
+0.80
+
+This is frame counter 842
+St
+0.80
+
+This is frame counter 843
+St
+ton
+0.80
+
+This is frame counter 844
+Sw tch 0.80
+
+This is frame counter 845
+Sw tch 0,80
+
+This is frame counter 846
+Sw tch 0.80
+
+This is frame counter 847
+Sw tch 0.80
+
+This is frame counter 848
+Sw itch 0.80
+
+This is frame counter 849
+Switch 0.80
+
+This is frame counter 850
+Switch 0.80
+
+This is frame counter 851
+0.56
+tch 0.80
+
+This is frame counter 852
+0.56
+
+This is frame counter 853
+0.56
+
+This is frame counter 854
+0.56
+
+This is frame counter 855
+y 0.56
+
+This is frame counter 856
+0.56
+
+This is frame counter 857
+8
+0.56
+
+This is frame counter 858
+6
+0.00
+
+This is frame counter 859
+8
+0.50
+
+This is frame counter 860
+w e
+
+This is frame counter 861
+- -
+
+This is frame counter 862
+0.08
+
+This is frame counter 863
+
+This is frame counter 864
+die was
+
+This is frame counter 865
+te 0.86
+
+This is frame counter 866
+
+This is frame counter 867
+
+This is frame counter 868
+to
+ass
+
+This is frame counter 869
+e00966
+I
+
+This is frame counter 870
+e
+0.91
+
+This is frame counter 871
+)
+0.56
+I
+
+This is frame counter 872
+0.86
+
+This is frame counter 873
+0.80
+
+This is frame counter 874
+0.86
+
+This is frame counter 875
+0.56
+
+This is frame counter 876
+0.88
+
+This is frame counter 877
+0.85
+
+This is frame counter 878
+an
+
+This is frame counter 879
+an
+
+This is frame counter 880
+e 0.91
+
+This is frame counter 881
+RSB
+
+This is frame counter 882
+0.52
+
+This is frame counter 883
+0.61
+
+This is frame counter 884
+) 0.54
+
+This is frame counter 885
+e 0.76
+
+This is frame counter 886
+b are
+
+This is frame counter 887
+e 0.56
+
+This is frame counter 888
+to 0.55
+
+This is frame counter 889
+w 0.88
+
+This is frame counter 890
+e
+0.56
+
+This is frame counter 891
+0.56
+
+This is frame counter 892
+0.08
+
+This is frame counter 893
+0.88
+
+This is frame counter 894
+0.68
+
+This is frame counter 895
+0.68
+
+This is frame counter 896
+Cote 0.94
+
+This is frame counter 897
+0.98
+
+This is frame counter 898
+0.15
+
+This is frame counter 899
+0.70
+
+This is frame counter 900
+0.74
+
+This is frame counter 901
+0.74
+
+This is frame counter 902
+0.74
+
+This is frame counter 903
+0.74
+
+This is frame counter 904
+I 0.74
+
+This is frame counter 905
+0.74
+
+This is frame counter 906
+0.74
+
+This is frame counter 907
+)
+0.76
+
+This is frame counter 908
+0.70
+
+This is frame counter 909
+0.70
+
+This is frame counter 910
+0.70
+
+This is frame counter 911
+0.70
+
+This is frame counter 912
+, 0.70
+
+This is frame counter 913
+e 0.70
+
+This is frame counter 914
+0.70
+
+This is frame counter 915
+0.70
+
+This is frame counter 916
+I 0.70
+
+This is frame counter 917
+8:69
+
+This is frame counter 918
+0.63
+
+This is frame counter 919
+0.88
+
+This is frame counter 920
+e 0.68
+
+This is frame counter 921
+e
+0.65
+
+This is frame counter 922
+8
+8.93
+
+This is frame counter 923
+to 0.58
+
+This is frame counter 924
+e 0.56
+
+This is frame counter 925
+)
+0.99
+
+This is frame counter 926
+e
+0.98
+
+This is frame counter 927
+e
+0.00
+
+This is frame counter 928
+to 0.95
+
+This is frame counter 929
+to 0.08
+
+This is frame counter 930
+te 0.98
+
+This is frame counter 931
+te 0.98
+<
+
+This is frame counter 932
+to 0.98
+
+This is frame counter 933
+its 8.99
+
+This is frame counter 934
+te 0.95
+
+This is frame counter 935
+@ 0.98
+
+This is frame counter 936
+te 0.97
+
+This is frame counter 937
+e 0.94
+
+This is frame counter 938
+e 0.94
+
+This is frame counter 939
+e 0.97
+
+This is frame counter 940
+le 0.98
+
+This is frame counter 941
+e 0.98
+
+This is frame counter 942
+to 0.98
+
+This is frame counter 943
+to 0.08
+
+This is frame counter 944
+. 0.00
+
+This is frame counter 945
+te 0.99
+
+This is frame counter 946
+to 0.08
+
+This is frame counter 947
+te 0.99
+
+This is frame counter 948
+ats 0.99
+
+This is frame counter 949
+ats 0.99
+
+This is frame counter 950
+to 0.99
+
+This is frame counter 951
+ote 0.99
+
+This is frame counter 952
+ete 0.00
+
+This is frame counter 953
+ste 1.00
+
+This is frame counter 954
+etc 1:00
+
+This is frame counter 955
+to 1.00
+
+This is frame counter 956
+to 1.00
+
+This is frame counter 957
+ate 0.00
+
+This is frame counter 958
+te 0.99
+
+This is frame counter 959
+to 0.00
+
+This is frame counter 960
+te 1.00
+
+This is frame counter 961
+ate 1.00
+
+This is frame counter 962
+ste 0.00
+
+This is frame counter 963
+te 0.99
+
+This is frame counter 964
+to 0.00
+
+This is frame counter 965
+te 0.99
+
+This is frame counter 966
+ate 0.00
+
+This is frame counter 967
+ets 0.00
+
+This is frame counter 968
+ate 0.99
+
+This is frame counter 969
+ats 0.99
+
+This is frame counter 970
+lete 0.96
+
+This is frame counter 971
+lete 0.88
+
+This is frame counter 972
+sate 8:82
+
+This is frame counter 973
+Dote 0.90
+
+This is frame counter 974
+Date 0.89
+
+This is frame counter 975
+late 0.86
+
+This is frame counter 976
+ate 0.88
+
+This is frame counter 977
+lets 0.54
+
+This is frame counter 978
+ete 0.84
+
+This is frame counter 979
+ete 0.80
+
+This is frame counter 980
+ete 0.86
+
+This is frame counter 981
+ate 0.88
+
+This is frame counter 982
+te 0.36
+
+This is frame counter 983
+ste 0.7%
+
+This is frame counter 984
+n an
+
+This is frame counter 985
+e
+0.75
+
+This is frame counter 986
+0.95
+
+This is frame counter 987
+$ 0.59
+
+This is frame counter 988
+Gate 0.59
+
+This is frame counter 989
+0.86
+
+This is frame counter 990
+Gate 0.85
+
+This is frame counter 991
+Gate 0.75
+
+This is frame counter 992
+Date 0.09
+
+This is frame counter 993
+Gate 0.69
+
+This is frame counter 994
+Gate 0.65
+
+This is frame counter 995
+Date 0.75
+
+This is frame counter 996
+sote 0.59
+
+This is frame counter 997
+Gate 0.59
+
+This is frame counter 998
+Gate 0.59
+
+This is frame counter 999
+Gate 0.59
+
+This is frame counter 1000
+Gate 0.59
+
+This is frame counter 1001
+Gate 0.59
+
+This is frame counter 1002
+Gate 0.59
+
+This is frame counter 1003
+Gate 0.59
+
+This is frame counter 1004
+Gate 0.59
+
+This is frame counter 1005
+Gate 0.59
+
+This is frame counter 1006
+Gate 0.59
+1
+
+This is frame counter 1007
+Gate 0.59
+1
+
+This is frame counter 1008
+Gote 0.59
+
+This is frame counter 1009
+Gate 0.59
+
+This is frame counter 1010
+Gate 0.59
+
+This is frame counter 1011
+Gate 0.59
+
+This is frame counter 1012
+Gate 0.59
+
+This is frame counter 1013
+Gate 0.59
+
+This is frame counter 1014
+Gate 0.59
+
+This is frame counter 1015
+Gote 0.59
+
+This is frame counter 1016
+Gate 0.59
+
+This is frame counter 1017
+Gate 0.59
+
+This is frame counter 1018
+Gate 0.59
+
+This is frame counter 1019
+Gate 0.59
+
+This is frame counter 1020
+Gate 0.59
+I
+
+This is frame counter 1021
+Gate 0.59
+
+This is frame counter 1022
+Gote 0.59
+1
+
+This is frame counter 1023
+Gote 0.59
+il
+
+This is frame counter 1024
+Gate 0.59
+1
+
+This is frame counter 1025
+Gate 0.59
+1
+
+This is frame counter 1026
+Gate 0.59
+
+This is frame counter 1027
+Gate 0.59
+
+This is frame counter 1028
+Gate 0.59
+
+This is frame counter 1029
+Gate 0.59
+
+This is frame counter 1030
+Gate 0.59
+1
+
+This is frame counter 1031
+Gate 0.59
+I
+
+This is frame counter 1032
+Gate 0.59
+I
+
+This is frame counter 1033
+Gate 0.59
+
+This is frame counter 1034
+Gate 0.59
+
+This is frame counter 1035
+Gate 0.59
+I
+
+This is frame counter 1036
+Gate 0.59
+1
+
+This is frame counter 1037
+Gate 0.59
+
+This is frame counter 1038
+Gate 0.59
+
+This is frame counter 1039
+Gate 0.59
+
+This is frame counter 1040
+Gate 0.59
+
+This is frame counter 1041
+Gate 0.59
+
+This is frame counter 1042
+Gate 0.59
+
+This is frame counter 1043
+Gate 0.59
+
+This is frame counter 1044
+Gate 0.59
+Door 0.71
+
+This is frame counter 1045
+
+This is frame counter 1046
+Door 0.65
+1
+
+This is frame counter 1047
+Door 0.65
+into
+
+This is frame counter 1048
+Door 0.65
+1
+
+This is frame counter 1049
+I
+Door 0.57
+IN
+1
+
+This is frame counter 1050
+Door 0.57
+on
+1
+
+This is frame counter 1051
+1
+Boor
+Door 0.6
+1
+
+This is frame counter 1052
+888F 0.6
+1
+
+This is frame counter 1053
+Door 0.6
+
+This is frame counter 1054
+Door 0.6฿
+il
+
+This is frame counter 1055
+Door 0.63 T
+
+This is frame counter 1056
+Door 0.6.
+E
+
+This is frame counter 1057
+Door 0.6 E
+
+This is frame counter 1058
+Door 0.6
+E
+E
+
+This is frame counter 1059
+Door
+0.6
+E
+e
+
+This is frame counter 1060
+Door
+0.
+E
+G
+
+This is frame counter 1061
+Door
+D
+
+This is frame counter 1062
+DOO
+
+This is frame counter 1063
+Door
+
+This is frame counter 1064
+Door
+0
+
+This is frame counter 1065
+Door
+0
+
+This is frame counter 1066
+Door
+0.
+33
+
+This is frame counter 1067
+Door
+6
+L
+
+This is frame counter 1068
+F
+Door
+:
+
+This is frame counter 1069
+Door
+L
+
+This is frame counter 1070
+L
+:
+
+This is frame counter 1071
+:
+:-
+
+This is frame counter 1072
+:
+0.6
+PI
+:
+
+This is frame counter 1073
+0.6.
+E
+P
+:-
+
+This is frame counter 1074
+or
+0.6.
+E
+1
+
+This is frame counter 1075
+oor 0.6.
+E
+
+This is frame counter 1076
+oor 0.68
+E
+
+This is frame counter 1077
+Door 0.6$
+E
+
+This is frame counter 1078
+Door 0.6$
+E
+
+This is frame counter 1079
+Door 0.6
+
+This is frame counter 1080
+Door 0.6.
+:
+an
+
+This is frame counter 1081
+Door 0.65
+
+This is frame counter 1082
+Door 0.
+:-
+<<<
+
+This is frame counter 1083
+Door 0.6฿
+6
+
+This is frame counter 1084
+D.OO
+Door 0.6฿
+E
+
+This is frame counter 1085
+not
+1
+E
+:-
+
+This is frame counter 1086
+E
+1
+
+This is frame counter 1087
+E
+
+This is frame counter 1088
+E
+!
+:
+
+This is frame counter 1089
+E
+:
+
+This is frame counter 1090
+E
+I
+:
+
+This is frame counter 1091
+E
+1
+:-
+
+This is frame counter 1092
+E
+:-
+
+This is frame counter 1093
+T
+:
+
+This is frame counter 1094
+:-
+
+This is frame counter 1095
+
+This is frame counter 1096
+poor
+0.06
+
+This is frame counter 1097
+poor 0.92
+I
+
+This is frame counter 1098
+
+This is frame counter 1099
+!
+:
+
+This is frame counter 1100
+a
+I
+
+This is frame counter 1101
+:
+I
+
+This is frame counter 1102
+:
+I
+
+This is frame counter 1103
+:-
+
+This is frame counter 1104
+Door
+0.02
+:
+
+This is frame counter 1105
+0482
+
+This is frame counter 1106
+Door
+OH
+2
+I
+:
+
+This is frame counter 1107
+388F 0.87
+:-
+
+This is frame counter 1108
+:-
+
+This is frame counter 1109
+B88F G.JG CARS
+:
+
+This is frame counter 1110
+Door 0.90
+
+This is frame counter 1111
+B88F 8.87
+1
+:-
+
+This is frame counter 1112
+Door 0.82
+GAIN
+:
+
+This is frame counter 1113
+wan
+GAME
+:
+
+This is frame counter 1114
+bodr 0.86
+:
+
+This is frame counter 1115
+BOOF 0.95
+5488
+:
+
+This is frame counter 1116
+Egg
+GAME
+G406
+:
+
+This is frame counter 1117
+Door
+O.BA
+GAME
+G406
+-
+:
+
+This is frame counter 1118
+Door 0.86
+GAME
+G406
+:
+
+This is frame counter 1119
+6.83
+G416
+G406
+
+This is frame counter 1120
+eer 0.69
+G406
+-
+:
+
+This is frame counter 1121
+Door 0.70
+G406
+
+This is frame counter 1122
+oor O.PE
+G406
+
+This is frame counter 1123
+WBS
+0400
+G406
+
+This is frame counter 1124
+Dear 6.59
+943
+G406
+:
+
+This is frame counter 1125
+Deer 0.66
+(443)
+G406
+
+This is frame counter 1126
+88F 8:68
+G406
+
+This is frame counter 1127
+Boof &.73
+G406
+
+This is frame counter 1128
+Beef 9.72
+G406
+
+This is frame counter 1129
+G406
+
+This is frame counter 1130
+G406
+
+This is frame counter 1131
+poor 0.66
+G406
+
+This is frame counter 1132
+0.65
+0406
+G406
+
+This is frame counter 1133
+Door 0.85
+G406
+G406
+F
+
+This is frame counter 1134
+LOS 0.70
+GASS
+G406
+F
+
+This is frame counter 1135
+an
+G405
+G406
+
+This is frame counter 1136
+G400
+G406
+1
+
+This is frame counter 1137
+BOOF 0.78
+G409
+G406
+1
+
+This is frame counter 1138
+Door 0.87
+G405
+G406
+1
+
+This is frame counter 1139
+P
+was
+G406
+a
+
+This is frame counter 1140
+Reen
+00683
+G406
+a
+
+This is frame counter 1141
+Door 0.72
+G406
+a
+
+This is frame counter 1142
+Door 0.64
+G400
+G406
+a
+
+This is frame counter 1143
+Door 0.64
+G406
+a
+
+This is frame counter 1144
+GAL
+Door 0.64
+G406
+a
+
+This is frame counter 1145
+G4
+Door 0.64
+G406
+a
+
+This is frame counter 1146
+G4
+Door 0.64
+G406
+
+This is frame counter 1147
+G
+Door 0.64
+G406
+a
+:
+
+This is frame counter 1148
+G
+Door 0.64
+G406
+a
+
+This is frame counter 1149
+G
+Door 0.64
+G406
+a
+
+This is frame counter 1150
+L
+Door 0.64
+G406
+a
+
+This is frame counter 1151
+L
+Door 0.64
+G406
+
+This is frame counter 1152
+L
+Door 0.64
+G406
+Switch 0.63
+
+This is frame counter 1153
+L
+G406
+Switc 0.63
+
+This is frame counter 1154
+I
+G406
+Swi
+ch
+0.63
+
+This is frame counter 1155
+G406
+Swit
+0.63
+
+This is frame counter 1156
+G406
+Swit
+0.63
+:
+
+This is frame counter 1157
+G406
+Swife 0.63
+:
+
+This is frame counter 1158
+G406
+Swit
+0.63
+I
+:
+
+This is frame counter 1159
+G406
+Swit
+0.63
+o
+
+This is frame counter 1160
+G406
+Swit
+0.63
+:
+
+This is frame counter 1161
+G406
+Swit
+0.63
+:
+
+This is frame counter 1162
+G406
+Swit
+0.63
+:
+
+This is frame counter 1163
+G406
+L
+0.53
+:
+
+This is frame counter 1164
+G406
+Swif
+0.83
+:
+
+This is frame counter 1165
+G406
+SYMI
+:
+
+This is frame counter 1166
+G406
+O
+
+This is frame counter 1167
+I
+G406
+o
+
+This is frame counter 1168
+G406
+
+This is frame counter 1169
+L
+G406
+
+This is frame counter 1170
+Door 0.62
+G406
+
+This is frame counter 1171
+G406
+
+This is frame counter 1172
+Door 0.58
+G406
+
+This is frame counter 1173
+G406
+
+This is frame counter 1174
+adidas
+G406
+
+This is frame counter 1175
+G
+oor 0.71
+G406
+
+This is frame counter 1176
+E
+4
+Joor 0.71
+G406
+
+This is frame counter 1177
+G
+Door 0.71
+G406
+
+This is frame counter 1178
+=
+See 0.77
+G406
+
+This is frame counter 1179
+Dodr 0.99
+G406
+
+This is frame counter 1180
+G4
+G406
+
+This is frame counter 1181
+Door 0.79
+G40
+G406
+
+This is frame counter 1182
+8.74
+G40
+G406
+
+This is frame counter 1183
+G40
+G406
+
+This is frame counter 1184
+Door 0.80
+G405
+G406
+the
+
+This is frame counter 1185
+Door 0.83
+G406
+G406
+
+This is frame counter 1186
+DOOR 0.90
+G406
+G406
+
+This is frame counter 1187
+Door 0.85
+G406
+G406
+
+This is frame counter 1188
+Don
+diez
+G406
+G406
+
+This is frame counter 1189
+BOOF 8:56
+G406
+G406
+onel 0.
+
+This is frame counter 1190
+Door 0.90
+G406
+G406
+anel 0.
+
+This is frame counter 1191
+100
+G406
+G406
+A
+
+This is frame counter 1192
+deer d!8A3
+G406
+G406
+
+This is frame counter 1193
+eer 0.86
+G406
+G406
+
+This is frame counter 1194
+Door 0.88
+G406
+G406
+
+This is frame counter 1195
+G406
+G406
+
+This is frame counter 1196
+Door 0.88
+G406
+G406
+
+This is frame counter 1197
+Door 0.80
+G406
+G406
+
+This is frame counter 1198
+Door 0.78
+G406
+G406
+
+This is frame counter 1199
+Door 0.76
+G406
+G406
+
+This is frame counter 1200
+bar 8.73
+G406
+G406
+G406
+
+This is frame counter 1201
+17.77
+G406
+G406
+Ponel 0.
+
+This is frame counter 1202
+Door 0.66
+G406
+G406
+0.
+
+This is frame counter 1203
+loor
+0.68
+G406
+G406
+0.5
+LARGE
+
+This is frame counter 1204
+Door 0.83
+G406
+G406
+0.9
+LARIE
+
+This is frame counter 1205
+oor 0.85
+G406
+G406
+0.
+LARDAI
+
+This is frame counter 1206
+Door 0.62
+G406
+G406
+0.
+LABOR
+
+This is frame counter 1207
+Door 0.62
+G406
+G406
+0.
+
+This is frame counter 1208
+Joor 0.80
+G406
+G406
+Pone 0.
+
+This is frame counter 1209
+Door 0.60
+G406
+G406
+G406
+
+This is frame counter 1210
+Door 0.88
+G406
+G406
+0.
+
+This is frame counter 1211
+Door 0.58
+G406
+G406
+
+This is frame counter 1212
+Door 0.75
+G406
+G406
+
+This is frame counter 1213
+Door 0.66
+G406
+G406
+CARDA
+
+This is frame counter 1214
+Door 0.64
+G406
+G406
+
+This is frame counter 1215
+Door 0.58
+G406
+G406
+G406
+LABORAT
+
+This is frame counter 1216
+Door 0.68
+G406
+G406
+
+This is frame counter 1217
+Beer 0.65
+G406
+G406
+-
+
+This is frame counter 1218
+Door 0.66
+G406
+G406
+SARDER
+
+This is frame counter 1219
+Door 0.85
+G406
+G406
+
+This is frame counter 1220
+Door 0.71
+G406
+G406
+LABORA
+
+This is frame counter 1221
+G406
+G406
+Ponel 0.7
+LABORA
+
+This is frame counter 1222
+Door 0.73
+G406
+G406
+Text Panel 0.6
+
+This is frame counter 1223
+Door 0.63
+G406
+G406
+
+This is frame counter 1224
+Door 0.63
+G406
+G406
+LABOA
+
+This is frame counter 1225
+Door 0.68
+G406
+G406
+
+This is frame counter 1226
+G406
+G406
+
+This is frame counter 1227
+17785
+G406
+G406
+
+This is frame counter 1228
+Door 0.76
+G406
+G406
+
+This is frame counter 1229
+Reen
+OVBU
+G406
+G406
+
+This is frame counter 1230
+Door 0.81
+G406
+G406
+
+This is frame counter 1231
+Door 0.82
+G406
+G406
+
+This is frame counter 1232
+Joor 0.82
+G406
+G406
+
+This is frame counter 1233
+Door 0.77
+G406
+G406
+ext
+
+This is frame counter 1234
+Door 0.72
+G406
+G406
+text
+
+This is frame counter 1235
+Door 0.02
+G406
+G406
+
+This is frame counter 1236
+Deer 0.03
+G406
+G406
+jext
+
+This is frame counter 1237
+Door 0.63
+G406
+G406
+text Princes
+
+This is frame counter 1238
+Door 0.55
+G406
+G406
+
+This is frame counter 1239
+Deer 0.88
+G406
+G406
+Text
+Printed
+
+This is frame counter 1240
+Door 0.59
+G406
+G406
+text
+
+This is frame counter 1241
+Door 0.59
+G406
+G406
+
+This is frame counter 1242
+Door 0.57
+G406
+G406
+Unxt
+
+This is frame counter 1243
+G406
+G406
+ext
+P
+
+This is frame counter 1244
+G406
+G406
+Text
+-
+
+This is frame counter 1245
+G406
+G406
+-
+
+This is frame counter 1246
+G406
+G406
+E
+1
+III
+-
+1
+
+This is frame counter 1247
+Door 0.62
+G406
+G406
+0.64
+
+This is frame counter 1248
+BeeF 0.97
+G406
+G406
+
+This is frame counter 1249
+BeeF 8:79
+G406
+406
+-
+
+This is frame counter 1250
+Door 0.76
+G406
+406
+<<
+
+This is frame counter 1251
+Door 0.76
+G406
+406
+F
+
+This is frame counter 1252
+Door 0.76
+G406
+406
+:
+
+This is frame counter 1253
+Door 0.76
+G406
+406
+:
+
+This is frame counter 1254
+Door 0.76
+G406
+406
+-
+
+This is frame counter 1255
+Door 0.76
+G406
+406
+1
+:
+
+This is frame counter 1256
+Door 0.76
+G406
+406
+-
+
+This is frame counter 1257
+Door 0.76
+G406
+406
+
+This is frame counter 1258
+Boor 8:9g
+G406
+406
+
+This is frame counter 1259
+Door 0.68
+G406
+406
+
+This is frame counter 1260
+Door 0.68
+G406
+406
+
+This is frame counter 1261
+Door 0.68
+G406
+106
+1
+-
+
+This is frame counter 1262
+Door 0.68
+G406
+06
+
+This is frame counter 1263
+Door 0.68
+G406
+06
+
+This is frame counter 1264
+Door 0.68 G406
+06
+
+This is frame counter 1265
+Door 0.68G406
+06
+
+This is frame counter 1266
+Door 0.68 G406
+06
+:
+
+This is frame counter 1267
+Door 0.68 G406
+06
+:
+
+This is frame counter 1268
+Door 0.68
+106
+
+This is frame counter 1269
+Door 0.66
+G400
+Door 0.68
+406
+
+This is frame counter 1270
+Door 0.66
+G406
+406
+
+This is frame counter 1271
+Door 0.66
+G406
+406
+
+This is frame counter 1272
+Door ⑉
+G406
+Door 0.66
+G406
+-
+
+This is frame counter 1273
+BeeF 0.79
+G406
+G406
+
+This is frame counter 1274
+Door 0.00
+G406
+G406
+
+This is frame counter 1275
+Door 0.68
+G406
+| G406
+E
+D
+
+This is frame counter 1276
+Door 0.62
+G406
+:
+I
+|
+G406
+C
+
+This is frame counter 1277
+Door 0.61
+G406
+:
+G406
+
+This is frame counter 1278
+B88F 8:64
+G406
+G406
+
+This is frame counter 1279
+Door 0.70
+G406
+G406
+
+This is frame counter 1280
+Door 0.70
+G406
+G406
+
+This is frame counter 1281
+Door 0.70
+G406
+G406
+
+This is frame counter 1282
+G406
+Door 0.70
+G406
+
+This is frame counter 1283
+G406
+Door 0.70
+G406
+
+This is frame counter 1284
+YOU
+Door 0.70
+G406
+GIOG
+C
+
+This is frame counter 1285
+GARO
+Door 0.70
+G406
+G406
+
+This is frame counter 1286
+CANA
+Door 0.70
+G406
+
+This is frame counter 1287
+GADO
+Door 0.70
+G406
+0.62
+
+This is frame counter 1288
+G406
+G406
+182
+
+This is frame counter 1289
+G406
+G406
+7.71
+
+This is frame counter 1290
+G406
+G406
+0.71
+
+This is frame counter 1291
+G406
+G406
+71
+
+This is frame counter 1292
+406
+G406
+171
+
+This is frame counter 1293
+G406
+Panel
+71
+
+This is frame counter 1294
+G406
+Panel
+71
+
+This is frame counter 1295
+G406
+
+This is frame counter 1296
+G406
+
+This is frame counter 1297
+G406
+57
+
+This is frame counter 1298
+G406
+0.57
+
+This is frame counter 1299
+G406
+0.57
+
+This is frame counter 1300
+0406
+G406
+0.57
+
+This is frame counter 1301
+G406
+0.57
+9
+
+This is frame counter 1302
+00
+G406
+0.57
+0
+
+This is frame counter 1303
+G406
+0.57
+8
+
+This is frame counter 1304
+G406
+Pone
+0.57
+
+This is frame counter 1305
+G406
+Pane
+0.57
+
+This is frame counter 1306
+G406
+0.57
+
+This is frame counter 1307
+G406
+Pan
+0.57
+C
+1
+
+This is frame counter 1308
+9406
+G406
+0.57
+C
+-
+of
+
+This is frame counter 1309
+oor 0.04
+G406
+0.57
+C
+8
+
+This is frame counter 1310
+G406
+Door 0.85
+G406
+C
+8
+
+This is frame counter 1311
+Deef 0.88
+G406
+G406
+C
+8
+
+This is frame counter 1312
+Door 0.68
+G406
+G406
+C
+8
+
+This is frame counter 1313
+Door 0.88
+G406
+G406
+:
+
+This is frame counter 1314
+net
+6.00
+G406
+:-
+
+This is frame counter 1315
+Beef 8.51
+G406
+G406
+
+This is frame counter 1316
+Door
+0.69
+G406
+G406
+
+This is frame counter 1317
+Door 0.69
+G416
+I
+G406
+
+This is frame counter 1318
+Door 0.69
+G406
+G406
+
+This is frame counter 1319
+Door 0.69 G406
+G406
+
+This is frame counter 1320
+Door 0.69
+G406
+G406
+
+This is frame counter 1321
+Door 0.69
+Door 0.77
+5406
+G406
+:-
+
+This is frame counter 1322
+Boor
+Door 0.7
+G406
+C
+
+This is frame counter 1323
+Deer
+8.PT
+G406
+
+This is frame counter 1324
+Door 0.77
+G406
+C
+0
+
+This is frame counter 1325
+G4ne
+Door 0.77
+G406
+C
+
+This is frame counter 1326
+G406
+Peer 9.62
+Door 0.77
+G406
+
+This is frame counter 1327
+G406
+Door 0.63
+G406
+
+This is frame counter 1328
+Door 0.63
+G406
+G406
+G
+
+This is frame counter 1329
+Door 0.63
+G406
+G406
+
+This is frame counter 1330
+G408
+Door 0.63
+G406
+
+This is frame counter 1331
+G406
+
+This is frame counter 1332
+G406
+Door 0.60
+G406
+
+This is frame counter 1333
+G406
+Door 0.60
+G406
+
+This is frame counter 1334
+406
+Door 0.60
+G406
+
+This is frame counter 1335
+G406
+Door 0.60
+G406
+
+This is frame counter 1336
+Door 0.60
+G406
+G406
+
+This is frame counter 1337
+G406
+Door 0.60
+G406
+
+This is frame counter 1338
+G406
+Door 0.60
+G406
+
+This is frame counter 1339
+G406
+Door 0.60
+G406
+
+This is frame counter 1340
+406
+Door 0.60
+G406
+
+This is frame counter 1341
+406
+Door 0.60
+G406
+
+This is frame counter 1342
+G406
+WEEB
+G406
+
+This is frame counter 1343
+Door 0.58
+G406
+G406
+
+This is frame counter 1344
+G406
+Door 0.58
+G406
+
+This is frame counter 1345
+G406
+Door 0.58
+G406
+
+This is frame counter 1346
+G406
+Door 0.58
+G406
+
+This is frame counter 1347
+G406
+Door
+0.58
+G406
+
+This is frame counter 1348
+Door 0.58
+G406
+G406
+
+This is frame counter 1349
+G406
+Door 0.58
+G406
+
+This is frame counter 1350
+G406
+Door
+0.58
+G406
+
+This is frame counter 1351
+G406
+Door 0.58
+G406
+C
+
+This is frame counter 1352
+Door
+0.58
+G406
+G406
+
+This is frame counter 1353
+Door 0.58
+G406
+C
+
+This is frame counter 1354
+Door 0.58
+G406
+G406
+
+This is frame counter 1355
+Door 0.58
+G406
+G406
+
+This is frame counter 1356
+Door 0.58
+G406
+G406
+C
+
+This is frame counter 1357
+oor 0.58
+G408
+G406
+C
+
+This is frame counter 1358
+Door 0.58
+G406
+G406
+
+This is frame counter 1359
+oor 0.58
+DAYA
+G406
+
+This is frame counter 1360
+Door 0.58
+GAME
+G406
+
+This is frame counter 1361
+Door 0.58
+0406
+G406
+
+This is frame counter 1362
+G406
+Door 0.58
+G406
+
+This is frame counter 1363
+oor 0.58
+GADE
+G406
+
+This is frame counter 1364
+or 0.58
+G406
+G406
+
+This is frame counter 1365
+or 0.58
+G406
+G406
+
+This is frame counter 1366
+G406
+r
+0.58
+G406
+
+This is frame counter 1367
+G406
+0.58
+G406
+
+This is frame counter 1368
+G406
+Doo
+0.58
+G406
+MA
+
+This is frame counter 1369
+G406
+Doo
+0.58
+G406
+
+This is frame counter 1370
+G406
+0.58
+G406
+
+This is frame counter 1371
+G408
+r 0.58
+G406
+
+This is frame counter 1372
+PO.5663
+GA
+G406
+
+This is frame counter 1373
+CARD
+G406
+
+This is frame counter 1374
+or 0.57
+SHAR
+G406
+
+This is frame counter 1375
+Door U
+with
+C406
+
+This is frame counter 1376
+G406
+
+This is frame counter 1377
+
+This is frame counter 1378
+
+This is frame counter 1379
+
+This is frame counter 1380
+0. 70
+
+This is frame counter 1381
+F 75
+
+This is frame counter 1382
+0.75
+e
+
+This is frame counter 1383
+Door 0.75
+
+This is frame counter 1384
+Door 0.75
+
+This is frame counter 1385
+Door 0.75
+
+This is frame counter 1386
+Door 0.75
+
+This is frame counter 1387
+Door 0.75
+
+This is frame counter 1388
+r 0.75
+
+This is frame counter 1389
+r 0.75
+
+This is frame counter 1390
+or 0.75
+
+This is frame counter 1391
+oor 0.75
+
+This is frame counter 1392
+or 0.75
+
+This is frame counter 1393
+loor 0.75
+
+This is frame counter 1394
+or 0.70
+
+This is frame counter 1395
+Door 0.75
+
+This is frame counter 1396
+Door 0.79
+
+This is frame counter 1397
+
+This is frame counter 1398
+0,
+I
+
+This is frame counter 1399
+Door
+F
+
+This is frame counter 1400
+
+This is frame counter 1401
+
+This is frame counter 1402
+
+This is frame counter 1403
+
+This is frame counter 1404
+
+This is frame counter 1405
+
+This is frame counter 1406
+7
+
+This is frame counter 1407
+0.75
+
+This is frame counter 1408
+0.75
+
+This is frame counter 1409
+0.75
+Door 0.56
+
+This is frame counter 1410
+Door 0.56
+
+This is frame counter 1411
+6
+
+This is frame counter 1412
+
+This is frame counter 1413
+
+This is frame counter 1414
+Door
+
+This is frame counter 1415
+Door 0.62
+
+This is frame counter 1416
+
+This is frame counter 1417
+Door 0.
+
+This is frame counter 1418
+Door 0.68
+
+This is frame counter 1419
+Door
+
+This is frame counter 1420
+POOF
+9.58
+
+This is frame counter 1421
+Door
+OF
+
+This is frame counter 1422
+Door
+
+This is frame counter 1423
+Door 0.58
+
+This is frame counter 1424
+Door 0.58
+
+This is frame counter 1425
+Door 0.58
+
+This is frame counter 1426
+Door 0.58
+
+This is frame counter 1427
+Do
+
+This is frame counter 1428
+:
+
+This is frame counter 1429
+Door 0.58
+
+This is frame counter 1430
+Door
+
+This is frame counter 1431
+
+This is frame counter 1432
+Door
+
+This is frame counter 1433
+
+This is frame counter 1434
+Door 0.89
+
+This is frame counter 1435
+Door 0.80
+G441
+
+This is frame counter 1436
+88F
+
+This is frame counter 1437
+Door 0.55
+
+This is frame counter 1438
+Door 0.55
+
+This is frame counter 1439
+Door 0.55
+Gold
+
+This is frame counter 1440
+
+This is frame counter 1441
+Door 0.56
+
+This is frame counter 1442
+
+This is frame counter 1443
+
+This is frame counter 1444
+Door 0.62
+G401
+
+This is frame counter 1445
+
+This is frame counter 1446
+Door 0.85
+
+This is frame counter 1447
+Door 0.83
+
+This is frame counter 1448
+Door 0.68
+
+This is frame counter 1449
+poor
+a
+
+This is frame counter 1450
+Door 0.78
+
+This is frame counter 1451
+Door 0.88
+
+This is frame counter 1452
+Door 0.68
+Gaul
+
+This is frame counter 1453
+Door 0.58
+G401
+
+This is frame counter 1454
+
+This is frame counter 1455
+Door 0.82
+
+This is frame counter 1456
+
+This is frame counter 1457
+Door 0.89
+G401
+
+This is frame counter 1458
+
+This is frame counter 1459
+
+This is frame counter 1460
+388F
+
+This is frame counter 1461
+DBC
+
+This is frame counter 1462
+0.34
+
+This is frame counter 1463
+Door
+I
+
+This is frame counter 1464
+
+This is frame counter 1465
+
+This is frame counter 1466
+
+This is frame counter 1467
+pour
+been
+
+This is frame counter 1468
+Poor
+a
+
+This is frame counter 1469
+Door 0.98
+
+This is frame counter 1470
+Door 0.98
+
+This is frame counter 1471
+Joor
+0.88
+
+This is frame counter 1472
+eer
+0.66
+
+This is frame counter 1473
+Door
+0.89
+-
+
+This is frame counter 1474
+Deer
+0.09
+
+This is frame counter 1475
+poor
+0.66
+
+This is frame counter 1476
+Door 0.86
+
+This is frame counter 1477
+Beef
+0.31
+
+This is frame counter 1478
+Door 0.86
+I
+-
+
+This is frame counter 1479
+Door
+0.88
+G401
+
+This is frame counter 1480
+OOOF 0.84
+
+This is frame counter 1481
+DARS
+Door 0.62
+
+This is frame counter 1482
+Beer 0.02
+G401
+
+This is frame counter 1483
+eer 0.80
+
+This is frame counter 1484
+Refr b.bt
+
+This is frame counter 1485
+Door 0.86
+G401
+
+This is frame counter 1486
+Door 0.92
+-
+
+This is frame counter 1487
+Door 0.92
+G401
+
+This is frame counter 1488
+poor 0.09
+
+This is frame counter 1489
+Door 0.88
+
+This is frame counter 1490
+
+This is frame counter 1491
+G401
+
+This is frame counter 1492
+Door 0.93
+G401
+
+This is frame counter 1493
+bear DEAP
+
+This is frame counter 1494
+Door 0.00
+
+This is frame counter 1495
+poor 0.99
+G401
+
+This is frame counter 1496
+Door 0.90
+
+This is frame counter 1497
+Door 0.90
+
+This is frame counter 1498
+Door 0.90
+G403
+
+This is frame counter 1499
+Deerd!74
+G401
+
+This is frame counter 1500
+Door 0.77
+G401
+
+This is frame counter 1501
+Door 0.77
+G401
+
+This is frame counter 1502
+G4021G401
+Door 0.77
+G401
+
+This is frame counter 1503
+14441
+Door00007
+G40
+
+This is frame counter 1504
+GAB G401
+Door 0.56
+G401
+II
+
+This is frame counter 1505
+G402 GADE
+Door 0.56
+G401
+
+This is frame counter 1506
+G401
+-
+
+This is frame counter 1507
+Door 0.78
+G401
+
+This is frame counter 1508
+bear
+Res
+401
+G401
+
+This is frame counter 1509
+G401
+
+This is frame counter 1510
+nur 0401
+08.39
+G4011
+
+This is frame counter 1511
+G401
+Deer
+0.9$
+G4011
+
+This is frame counter 1512
+G401
+peer 0.45
+G401
+
+This is frame counter 1513
+G401
+poor 0.86
+G401
+
+This is frame counter 1514
+Beer 0.86
+G401
+
+This is frame counter 1515
+Door 0.64
+G401
+
+This is frame counter 1516
+9492 G401
+poor 0.07
+G401
+
+This is frame counter 1517
+2
+G401
+Beef
+6.66
+G401
+
+This is frame counter 1518
+02 G401
+Door 0.68
+G401
+
+This is frame counter 1519
+Door 0.84
+G401
+G401
+
+This is frame counter 1520
+G'92 G401
+Door 0.84
+G401
+
+This is frame counter 1521
+G'02 G401
+Door 0.88
+G401
+I
+:
+T
+
+This is frame counter 1522
+02 G401
+Door 0.88
+G401
+I
+I
+
+This is frame counter 1523
+02 G401
+G401
+
+This is frame counter 1524
+02 G401
+Door 0.80
+G401
+
+This is frame counter 1525
+02 G401
+Dear
+G401
+
+This is frame counter 1526
+Door 0.80
+02 G401
+G401
+1
+
+This is frame counter 1527
+loor
+0.03
+02 G401
+G401
+
+This is frame counter 1528
+Door 0.68
+02 G401
+G401
+
+This is frame counter 1529
+Dear diet
+02 G401
+G401
+1
+
+This is frame counter 1530
+Bear
+102 G401
+G401
+
+This is frame counter 1531
+Door
+O.F.
+402 G401
+G401
+I
+1
+
+This is frame counter 1532
+Door
+0.78
+3402 G401
+G401
+F
+
+This is frame counter 1533
+402 G401
+G401
+r
+
+This is frame counter 1534
+BOOK
+0.85
+3402 G401
+G401
+
+This is frame counter 1535
+G402 G401
+Door 0.93
+G401
+1
+
+This is frame counter 1536
+G402
+G401
+Danger Ret
+G401
+as
+
+This is frame counter 1537
+G402
+G401
+
+This is frame counter 1538
+G402 G401
+peer
+est
+G401
+
+This is frame counter 1539
+0.69
+G402 G401
+G401
+
+This is frame counter 1540
+Door 0.94
+G402 G401
+G401
+F
+
+This is frame counter 1541
+Door 0.84
+G402 G401
+G401
+
+This is frame counter 1542
+Door 0.81
+G402 G401
+G401
+
+This is frame counter 1543
+Door 0.81
+G402
+G401
+G401
+
+This is frame counter 1544
+BeeF 0.8'
+3402 G401
+G401
+
+This is frame counter 1545
+Door 0.81
+402
+G401
+G401
+
+This is frame counter 1546
+Door 0.00
+402 G401
+G401
+
+This is frame counter 1547
+Door 0.0
+402 G401
+G401
+
+This is frame counter 1548
+Door 0.88
+402 G401
+G401
+1
+
+This is frame counter 1549
+Door 0.63
+402 G401
+G401
+
+This is frame counter 1550
+Door 0.67
+102
+G401
+G401
+
+This is frame counter 1551
+Door
+02 G401
+G401
+
+This is frame counter 1552
+BeeF 0.96
+02 G401
+G401
+ST
+
+This is frame counter 1553
+BeeF 0.56
+12
+G401
+G401
+
+This is frame counter 1554
+Door 0.68 2 G401
+G401
+
+This is frame counter 1555
+Door 0.86 2 G401
+G401
+
+This is frame counter 1556
+Door 0.912 G401
+G401
+E
+
+This is frame counter 1557
+Door 0.94 G401
+G401
+
+This is frame counter 1558
+Door 0.88 G401
+G401
+
+This is frame counter 1559
+Door 0.88
+G401
+G401
+=
+1
+
+This is frame counter 1560
+Door 0.86
+G401
+G401
+
+This is frame counter 1561
+Door 0.81
+G401
+G401
+
+This is frame counter 1562
+Door 0.92 G401
+G401
+W
+
+This is frame counter 1563
+Door`0.81 G401
+G401
+28
+
+This is frame counter 1564
+BeeF 0.84 G401
+G401
+"
+
+This is frame counter 1565
+Door 0.73 G401
+G401
+SS
+
+This is frame counter 1566
+Door 0882 401
+G401
+SS
+
+This is frame counter 1567
+poor 0.81 G401
+G401
+SS
+
+This is frame counter 1568
+Door 0.6W 401
+G401
+SS
+
+This is frame counter 1569
+Door CAR 0.70 1
+G401
+SS
+
+This is frame counter 1570
+Deer 0.60
+G401
+SS
+
+This is frame counter 1571
+Door 0.641
+G401
+SS
+
+This is frame counter 1572
+Door 0.601
+G401
+SS
+
+This is frame counter 1573
+Door 0.601
+G401
+SS
+
+This is frame counter 1574
+DRAN 8.602 1
+G401
+SS
+
+This is frame counter 1575
+Dear
+172
+G401
+
+This is frame counter 1576
+Door 0.681
+G401
+ext Panel 0.63
+SS
+
+This is frame counter 1577
+Door 0.621
+G401
+ext Panel 0.63
+an
+
+This is frame counter 1578
+Door 0.62
+G401
+Text Panel 0.63
+SS
+
+This is frame counter 1579
+G402 G401
+G401
+Text Panel 0.70
+"
+
+This is frame counter 1580
+G402 G401
+G401
+ext Ponel 0.70
+ee
+
+This is frame counter 1581
+402 G401
+G401
+Can POHLAN P
+CACAS
+on
+
+This is frame counter 1582
+Door 0.62
+G401
+%
+
+This is frame counter 1583
+B88F 0.62
+G401
+Text Panel 0.80
+LOATES
+%
+-
+
+This is frame counter 1584
+Doorc0.72
+G401
+Text Panel 0.80
+DESACTION
+88
+
+This is frame counter 1585
+Deer 0,00
+G401
+Text Panel 0.78
+STATION
+$8
+
+This is frame counter 1586
+Door 0.66
+G401
+Text Panel 0.59
+was
+18
+
+This is frame counter 1587
+Door 0.74
+G401
+Text Panel 0.58
+83
+
+This is frame counter 1588
+G401
+G401
+Prival OX
+100 CAT CATTER
+:
+
+This is frame counter 1589
+Furniture 0.61
+G401
+KOREAN
+
+This is frame counter 1590
+G401
+T
+G401
+Text Panel 0.87
+80
+
+This is frame counter 1591
+G401
+91
+G401
+not Ponel 0,88
+adidas TA CALTICE
+:
+
+This is frame counter 1592
+Door 0.60
+G40 I
+#
+G401
+Text Panel 0.85
+CHINCTION
+:
+
+This is frame counter 1593
+Door 0.56
+G40
+I
+#
+G401
+Text Panel 0.79
+INSURANCE EXPACTION
+00
+
+This is frame counter 1594
+Door 0.56
+#
+G401
+Text Panel 0.76
+new Letter EXACTION
+%
+
+This is frame counter 1595
+Door GNL 0.56
+I
+#
+G401
+Fext Panel 0.73
+TREACTION
+
+This is frame counter 1596
+888F 8:38
+#
+G401
+Text Panel 0.79
+HER CASH
+
+This is frame counter 1597
+G40
+#
+G401
+Text Panel 0.83
+BIROU CATAL CHACTICE
+:
+
+This is frame counter 1598
+G401
+G401
+Text Panel 0.63
+STATE CASES DECACTION
+
+This is frame counter 1599
+Door 0.62
+G401
+G401
+Text Panel 0.84
+FACT CAUSE PRACTICE
+os
+
+This is frame counter 1600
+Door 0.56
+G401
+G401
+FRavel
+of
+
+This is frame counter 1601
+ee B.S
+G401
+I
+G401
+Text Panel 0.90
+
+This is frame counter 1602
+Door 0.65
+2 G401
+Text Panel 0.00
+G401
+Text Panel 0.85
+as
+40
+
+This is frame counter 1603
+Door 0.73
+02 G401
+Text Panel 0.69
+G401
+Text Panel 0.75
+
+This is frame counter 1604
+Door 0.73
+102 G401
+I
+G401
+Text Panel 0.86
+28
+
+This is frame counter 1605
+402 G401
+I
+G401
+tt From 11682
+os
+
+This is frame counter 1606
+G402 G401
+G401
+I
+Text Panel 0.86
+SS
+
+This is frame counter 1607
+G402 G401
+G401 I
+28
+
+This is frame counter 1608
+G402 G401
+G401
+TEXPS to 00.83
+no.
+00
+
+This is frame counter 1609
+Door 0.56
+G402 G401
+G401
+I
+bine POSTAN dt&
+
+This is frame counter 1610
+Door 0.56
+G402 G401
+Door 0.71
+G401
+
+This is frame counter 1611
+G402 G401
+Door 0.71
+G401
+Text Panel 0.66
+
+This is frame counter 1612
+G402 G401
+G401
+Tarty BABP01667
+on
+00
+
+This is frame counter 1613
+Door 0.59
+G402 G401
+G401
+Test Punel 0.07
+
+This is frame counter 1614
+Door 0.59
+G402 G401
+Door 0.66
+G401
+Text Panel 0.72
+
+This is frame counter 1615
+Door 0.72
+G402 G401
+Door 0.66
+G401
+
+This is frame counter 1616
+Door 0.68
+G402 G401
+G401
+
+This is frame counter 1617
+Door 0.66
+G402 G401
+G401
+Text-Panel 0.60
+%
+
+This is frame counter 1618
+G402 G401
+G401
+-
+
+This is frame counter 1619
+G402 G401
+G401
+take 8.88
+%
+1
+
+This is frame counter 1620
+G402 G401
+G401
+Text-Panel 0.60
+-
+
+This is frame counter 1621
+G402 G401
+G401
+Text-Panel 0.60
+
+This is frame counter 1622
+GAT2 G401
+G401
+Text Panel 0.60
+
+This is frame counter 1623
+G401
+Text Panel 0.60
+
+This is frame counter 1624
+G40
+Text Panel 0.60
+
+This is frame counter 1625
+GAT
+G4
+Text Ponel 0.60
+
+This is frame counter 1626
+GAT
+GA
+Text Panel 0.60
+
+This is frame counter 1627
+Door 0.63
+Text Panel 0.60
+
+This is frame counter 1628
+Depro!-59
+
+This is frame counter 1629
+Door 0.59
+GALE
+
+This is frame counter 1630
+Door 0.59
+
+This is frame counter 1631
+Door 0.59
+CAN
+
+This is frame counter 1632
+Door 0.08
+
+This is frame counter 1633
+Door 0.59
+GIN
+
+This is frame counter 1634
+Door 0.59
+GM
+
+This is frame counter 1635
+Door 0.59
+G
+
+This is frame counter 1636
+Door 0.59
+
+This is frame counter 1637
+Door 0.59
+
+This is frame counter 1638
+Door 0.59
+
+This is frame counter 1639
+Door 0.59
+
+This is frame counter 1640
+Door 0.59
+
+This is frame counter 1641
+Door 0.59
+
+This is frame counter 1642
+Door 0.59
+
+This is frame counter 1643
+Door 0.59
+
+This is frame counter 1644
+Door 0.59
+
+This is frame counter 1645
+Wall 0 or 0.59
+
+This is frame counter 1646
+Wall 0.82
+
+This is frame counter 1647
+2000 0 83
+
+This is frame counter 1648
+
+This is frame counter 1649
+460
+
+This is frame counter 1650
+3.60
+
+This is frame counter 1651
+
+This is frame counter 1652
+
+This is frame counter 1653
+
+This is frame counter 1654
+
+This is frame counter 1655
+YOU 10.00
+
+This is frame counter 1656
+.
+CC
+
+This is frame counter 1657
+0.82
+
+This is frame counter 1658
+tell 0.83
+
+This is frame counter 1659
+Wall D.RU
+
+This is frame counter 1660
+all 0.77
+
+This is frame counter 1661
+: of(0.78
+
+This is frame counter 1662
+@
+Well 0.08
+
+This is frame counter 1663
+Wall 0.88
+
+This is frame counter 1664
+Wall 0.88
+
+This is frame counter 1665
+fall 0.64
+
+This is frame counter 1666
+fall 0 .KS
+
+This is frame counter 1667
+Wall 0.68
+
+This is frame counter 1668
+all OR
+
+This is frame counter 1669
+fall
+
+This is frame counter 1670
+Wall 0.84
+
+This is frame counter 1671
+fall D. 30
+
+This is frame counter 1672
+-
+Wall 0.00
+
+This is frame counter 1673
+Wall 0.70
+
+This is frame counter 1674
+in 3.70
+
+This is frame counter 1675
+110
+
+This is frame counter 1676
+$8 810
+
+This is frame counter 1677
+
+This is frame counter 1678
+in
+
+This is frame counter 1679
+
+This is frame counter 1680
+-
+-
+PAUL 0.00
+
+This is frame counter 1681
+11
+
+This is frame counter 1682
+I
+
+This is frame counter 1683
+-
+roll 0.00
+
+This is frame counter 1684
+
+This is frame counter 1685
+-
+I Vall 0,83
+
+This is frame counter 1686
+Wall 0,82
+
+This is frame counter 1687
+-
+Wall 0,78
+
+This is frame counter 1688
+-
+Wall 0,78
+
+This is frame counter 1689
+Wall 0,79
+
+This is frame counter 1690
+Wall 0.80
+
+This is frame counter 1691
+Wall 0.82
+
+This is frame counter 1692
+Well 0.88
+
+This is frame counter 1693
+W8H 8:69
+1
+F
+
+This is frame counter 1694
+0.75
+1
+I
+
+This is frame counter 1695
+wall
+0.75
+To
+
+This is frame counter 1696
+all 0.75
+j
+
+This is frame counter 1697
+all 0.75
+1
+
+This is frame counter 1698
+all 0.75
+1
+
+This is frame counter 1699
+all 0.75
+
+This is frame counter 1700
+all 0.75
+
+This is frame counter 1701
+all 0.75
+
+This is frame counter 1702
+all 0.75
+
+This is frame counter 1703
+all 0.75
+
+This is frame counter 1704
+and
+all 0.75
+)
+
+This is frame counter 1705
+and
+II 0.75
+P
+
+This is frame counter 1706
+all 0.75
+.
+
+This is frame counter 1707
+fall 0.75
+
+This is frame counter 1708
+oll 0.75
+4
+
+This is frame counter 1709
+all 0.75
+
+This is frame counter 1710
+OIL e
+
+This is frame counter 1711
+TOW 0.70
+
+This is frame counter 1712
+¥all 0.75
+
+This is frame counter 1713
+woll 0.75
+
+This is frame counter 1714
+-
+-
+⑉
+Door-0.58
+
+This is frame counter 1715
+
+This is frame counter 1716
+Doo
+0.70
+
+This is frame counter 1717
+
+This is frame counter 1718
+
+This is frame counter 1719
+Doo
+0.83
+!
+
+This is frame counter 1720
+
+This is frame counter 1721
+
+This is frame counter 1722
+
+This is frame counter 1723
+Door
+
+This is frame counter 1724
+#14
+
+This is frame counter 1725
+
+This is frame counter 1726
+Doon-0.00
+
+This is frame counter 1727
+Door
+I
+
+This is frame counter 1728
+Door
+2
+
+This is frame counter 1729
+
+This is frame counter 1730
+Door
+
+This is frame counter 1731
+Door
+0.03
+
+This is frame counter 1732
+0.00
+
+This is frame counter 1733
+Door 0.83
+I
+
+This is frame counter 1734
+SSA
+Lea
+
+This is frame counter 1735
+116
+Door
+0.89
+!
+
+This is frame counter 1736
+
+This is frame counter 1737
+Door
+
+This is frame counter 1738
+Door
+
+This is frame counter 1739
+Door
+
+This is frame counter 1740
+
+This is frame counter 1741
+Door
+0.84
+I
+T
+
+This is frame counter 1742
+Door
+0.8
+
+This is frame counter 1743
+Door 0.84
+1
+
+This is frame counter 1744
+Door 0.84
+
+This is frame counter 1745
+DOG
+8:34
+
+This is frame counter 1746
+Door 0.66
+
+This is frame counter 1747
+Door 0.58
+I
+
+This is frame counter 1748
+Door 0.58
+I
+
+This is frame counter 1749
+Door 0.58
+I
+
+This is frame counter 1750
+Door 0.58
+I
+
+This is frame counter 1751
+Door 0.58
+I
+
+This is frame counter 1752
+.
+oor 0.58
+
+This is frame counter 1753
+oor 0 58
+
+This is frame counter 1754
+o
+oor 58
+
+This is frame counter 1755
+o
+oor 0.3 8
+THE
+
+This is frame counter 1756
+erson 0.71
+.
+Door 0.58
+STATE
+
+This is frame counter 1757
+Person 0.71
+.
+erash 0.68
+SHIP
+
+This is frame counter 1758
+Penney of
+Person 0.68
+
+This is frame counter 1759
+Person 0.69
+Penjoi
+0.7
+
+This is frame counter 1760
+Person 0.69
+o
+Person 0.8
+
+This is frame counter 1761
+Person 0,77
+.
+Person 0.85
+
+This is frame counter 1762
+Person 0.77
+o
+Perso n 0.8
+
+This is frame counter 1763
+Train 0.59
+.
+Pera on 0.56
+Pers n 0.80
+
+This is frame counter 1764
+Train 0.58
+I
+o
+Pers in 0.56
+I
+
+This is frame counter 1765
+Train 0.58
+EL
+
+This is frame counter 1766
+Train 0.58
+
+This is frame counter 1767
+Train 0.58
+Door 0.78
+I
+
+This is frame counter 1768
+
+This is frame counter 1769
+
+This is frame counter 1770
+
+This is frame counter 1771
+
+This is frame counter 1772
+Door O
+
+This is frame counter 1773
+88F
+
+This is frame counter 1774
+
+This is frame counter 1775
+
+This is frame counter 1776
+
+This is frame counter 1777
+
+This is frame counter 1778
+a
+
+This is frame counter 1779
+Door
+O.
+
+This is frame counter 1780
+Door 0.
+
+This is frame counter 1781
+
+This is frame counter 1782
+Deer
+OR
+
+This is frame counter 1783
+O
+
+This is frame counter 1784
+Beer
+0.2
+
+This is frame counter 1785
+Door
+O.
+
+This is frame counter 1786
+
+This is frame counter 1787
+coro!
+
+This is frame counter 1788
+0.
+
+This is frame counter 1789
+@
+
+This is frame counter 1790
+Dear
+did
+
+This is frame counter 1791
+Door 0.8
+
+This is frame counter 1792
+
+This is frame counter 1793
+¥
+
+This is frame counter 1794
+Door 0.83
+0
+
+This is frame counter 1795
+0.83
+
+This is frame counter 1796
+a
+
+This is frame counter 1797
+DIEP
+
+This is frame counter 1798
+
+This is frame counter 1799
+
+This is frame counter 1800
+
+This is frame counter 1801
+
+This is frame counter 1802
+RU' 0.62
+
+This is frame counter 1803
+
+This is frame counter 1804
+
+This is frame counter 1805
+
+This is frame counter 1806
+oor 0.7
+B
+
+This is frame counter 1807
+Door
+O.
+
+This is frame counter 1808
+
+This is frame counter 1809
+or 0.7
+LIFE
+
+This is frame counter 1810
+or 0.7
+POP
+
+This is frame counter 1811
+111
+or
+0.7
+I
+
+This is frame counter 1812
+or
+0.7
+
+This is frame counter 1813
+928
+or
+0.7
+
+This is frame counter 1814
+0.7
+
+This is frame counter 1815
+0.7
+
+This is frame counter 1816
+0.7
+ERF
+
+This is frame counter 1817
+
+This is frame counter 1818
+E
+
+This is frame counter 1819
+
+This is frame counter 1820
+
+This is frame counter 1821
+
+This is frame counter 1822
+
+This is frame counter 1823
+
+This is frame counter 1824
+
+This is frame counter 1825
+
+This is frame counter 1826
+
+This is frame counter 1827
+
+This is frame counter 1828
+
+This is frame counter 1829
+
+This is frame counter 1830
+
+This is frame counter 1831
+
+This is frame counter 1832
+
+This is frame counter 1833
+H
+
+This is frame counter 1834
+H
+
+This is frame counter 1835
+
+This is frame counter 1836
+
+This is frame counter 1837
+
+This is frame counter 1838
+
+This is frame counter 1839
+
+This is frame counter 1840
+
+This is frame counter 1841
+
+This is frame counter 1842
+
+This is frame counter 1843
+
+This is frame counter 1844
+
+This is frame counter 1845
+
+This is frame counter 1846
+
+This is frame counter 1847
+H
+
+This is frame counter 1848
+III
+
+This is frame counter 1849
+
+This is frame counter 1850
+
+This is frame counter 1851
+T
+W
+
+This is frame counter 1852
+
+This is frame counter 1853
+W
+
+This is frame counter 1854
+W
+
+This is frame counter 1855
+H
+
+This is frame counter 1856
+I
+
+This is frame counter 1857
+H
+
+This is frame counter 1858
+M
+
+This is frame counter 1859
+H
+
+This is frame counter 1860
+H
+
+This is frame counter 1861
+TO
+
+This is frame counter 1862
+H
+
+This is frame counter 1863
+H
+
+This is frame counter 1864
+TO
+
+This is frame counter 1865
+X
+
+This is frame counter 1866
+H
+
+This is frame counter 1867
+III
+
+This is frame counter 1868
+W
+
+This is frame counter 1869
+HQ!
+
+This is frame counter 1870
+HUI
+
+This is frame counter 1871
+III
+
+This is frame counter 1872
+FU
+
+This is frame counter 1873
+M
+
+This is frame counter 1874
+HOT
+
+This is frame counter 1875
+HILL
+
+This is frame counter 1876
+HOT
+
+This is frame counter 1877
+Furniti
+
+This is frame counter 1878
+UFFI
+
+This is frame counter 1879
+
+This is frame counter 1880
+CAN
+
+This is frame counter 1881
+um
+
+This is frame counter 1882
+
+This is frame counter 1883
+Furni
+ICE
+
+This is frame counter 1884
+
+This is frame counter 1885
+177
+
+This is frame counter 1886
+Furnitul
+177
+
+This is frame counter 1887
+Kumili
+urnit re 0.70
+
+This is frame counter 1888
+OFFICE
+
+This is frame counter 1889
+Furniture
+
+This is frame counter 1890
+Furniture o
+177
+
+This is frame counter 1891
+can
+Furniture O
+
+This is frame counter 1892
+Furr ture 6.
+
+This is frame counter 1893
+Furniture
+un itu 0.61
+
+This is frame counter 1894
+Fun iture 0.61
+
+This is frame counter 1895
+urniture 0.61
+
+This is frame counter 1896
+IST
+urhiture 0.61
+
+This is frame counter 1897
+urniture 0.61
+
+This is frame counter 1898
+Furniture 0.61
+
+This is frame counter 1899
+iture 0.62
+KII
+rimiture 0.61
+
+This is frame counter 1900
+Furniture 0.62
+
+This is frame counter 1901
+Furniture 0.62
+
+This is frame counter 1902
+111
+Furniture 0.62
+
+This is frame counter 1903
+111
+Furniture 0.62
+
+This is frame counter 1904
+Furniture 0.62
+
+This is frame counter 1905
+iture
+0.62
+iture 0.63
+
+This is frame counter 1906
+Furr ture 0.63
+
+This is frame counter 1907
+am iture 0.63
+
+This is frame counter 1908
+um ture 0.63
+
+This is frame counter 1909
+138
+urriture 0.63
+-
+
+This is frame counter 1910
+um ture 0.63
+
+This is frame counter 1911
+urriture 0.63
+
+This is frame counter 1912
+rriture 0.63
+
+This is frame counter 1913
+III
+Furniture 0,63
+
+This is frame counter 1914
+Fu miture 0,63
+
+This is frame counter 1915
+IN
+Furniture o.
+u
+riture 0.63
+
+This is frame counter 1916
+H
+Furniture o.
+
+This is frame counter 1917
+
+This is frame counter 1918
+Fumil 1re (
+
+This is frame counter 1919
+umiture 0
+
+This is frame counter 1920
+niture
+o
+
+This is frame counter 1921
+
+This is frame counter 1922
+Fum-ure (
+
+This is frame counter 1923
+um
+
+This is frame counter 1924
+Fumi
+
+This is frame counter 1925
+Fumit
+
+This is frame counter 1926
+Fum
+
+This is frame counter 1927
+Furni
+
+This is frame counter 1928
+Furnit
+
+This is frame counter 1929
+Fum
+
+This is frame counter 1930
+
+This is frame counter 1931
+umi
+EM
+
+This is frame counter 1932
+Furnit
+
+This is frame counter 1933
+Furni
+Fum
+
+This is frame counter 1934
+
+This is frame counter 1935
+
+This is frame counter 1936
+Fumi
+0
+
+This is frame counter 1937
+
+This is frame counter 1938
+Fum
+
+This is frame counter 1939
+Furnit ure
+
+This is frame counter 1940
+Furniture
+
+This is frame counter 1941
+Furnit ure C
+I
+
+This is frame counter 1942
+The
+Fun
+
+This is frame counter 1943
+Fumit
+
+This is frame counter 1944
+Fumit ure (
+
+This is frame counter 1945
+Fumit ure (
+
+This is frame counter 1946
+Fumit
+11
+
+This is frame counter 1947
+Fumil
+HE
+
+This is frame counter 1948
+Fun
+
+This is frame counter 1949
+Furnit
+
+This is frame counter 1950
+Door 0.55
+Fumi
+T
+
+This is frame counter 1951
+Door 0.55
+
+This is frame counter 1952
+0.55
+GAS
+
+This is frame counter 1953
+dise
+
+This is frame counter 1954
+B
+
+This is frame counter 1955
+poor
+0.55
+
+This is frame counter 1956
+⑉
+
+This is frame counter 1957
+Door 0.57
+
+This is frame counter 1958
+Door D.- 7
+
+This is frame counter 1959
+Door 0.81
+Door 0.57
+
+This is frame counter 1960
+0.816
+
+This is frame counter 1961
+D.N
+
+This is frame counter 1962
+DeproPe8"
+
+This is frame counter 1963
+Door 0.85
+GAOS
+
+This is frame counter 1964
+Door 0.85
+C-405
+
+This is frame counter 1965
+G405
+
+This is frame counter 1966
+Door 0,58
+ONE
+G405
+
+This is frame counter 1967
+G405
+
+This is frame counter 1968
+Door D.
+GASE
+G405
+
+This is frame counter 1969
+Door
+0.1
+G491
+G405
+
+This is frame counter 1970
+G405
+-
+
+This is frame counter 1971
+G405
+
+This is frame counter 1972
+0.00
+G405
+G405
+
+This is frame counter 1973
+Door
+0.7
+GASA
+G405
+
+This is frame counter 1974
+CAR
+G405
+
+This is frame counter 1975
+Door 0.83
+GAUS
+G405
+
+This is frame counter 1976
+Door 0.88
+GASS
+G405
+
+This is frame counter 1977
+Door
+0.00
+GALL
+G405
+
+This is frame counter 1978
+Door
+0.66
+GA05
+G405
+
+This is frame counter 1979
+G405
+
+This is frame counter 1980
+0.5
+G405
+G405
+
+This is frame counter 1981
+Door 0.
+G405
+G405
+
+This is frame counter 1982
+Door 0.59
+G485
+G405
+
+This is frame counter 1983
+G405
+G405
+
+This is frame counter 1984
+DA
+G405
+G40s
+
+This is frame counter 1985
+D.
+G405
+G405
+
+This is frame counter 1986
+0.72
+G405
+G405
+
+This is frame counter 1987
+G405
+G405
+
+This is frame counter 1988
+B7
+G405
+G405
+
+This is frame counter 1989
+G405
+G405
+
+This is frame counter 1990
+Door 0.60
+GA05
+G405
+
+This is frame counter 1991
+G405
+G405
+
+This is frame counter 1992
+0.55
+G405
+G405
+
+This is frame counter 1993
+0.6
+G405
+G405
+-
+
+This is frame counter 1994
+Door 0.04
+G405
+G405
+
+This is frame counter 1995
+0.75
+G405
+G405
+
+This is frame counter 1996
+G405
+G405
+
+This is frame counter 1997
+Door 0.6
+G405
+G405
+
+This is frame counter 1998
+, 000 0.
+G405
+G405
+
+This is frame counter 1999
+0000
+0.75
+G405
+G405
+
+This is frame counter 2000
+0.75
+G405
+G405
+
+This is frame counter 2001
+76
+G405
+G405
+
+This is frame counter 2002
+Door
+De
+G405
+G405
+
+This is frame counter 2003
+Doo
+0.
+0405
+G405
+
+This is frame counter 2004
+17733
+G405
+G405
+
+This is frame counter 2005
+Door 0.70
+G405
+G405
+
+This is frame counter 2006
+Door 0.50
+G405
+G405
+
+This is frame counter 2007
+1883
+G405
+G405
+
+This is frame counter 2008
+G405
+G405
+
+This is frame counter 2009
+G405
+G405
+
+This is frame counter 2010
+G405
+G405
+
+This is frame counter 2011
+a.m
+G405
+G405
+
+This is frame counter 2012
+G405
+G405
+
+This is frame counter 2013
+Door
+G405
+G405
+
+This is frame counter 2014
+G405
+G405
+
+This is frame counter 2015
+Door
+13
+G405
+G405
+
+This is frame counter 2016
+G405
+G405
+
+This is frame counter 2017
+G405
+G405
+
+This is frame counter 2018
+G405
+G405
+
+This is frame counter 2019
+G405
+G405
+P
+0.56
+
+This is frame counter 2020
+OO
+79
+G405
+G405
+0.56
+
+This is frame counter 2021
+who
+G405
+
+This is frame counter 2022
+G405
+G405
+-
+
+This is frame counter 2023
+G405
+G405
+
+This is frame counter 2024
+G405
+G405
+0.60
+
+This is frame counter 2025
+oor
+G405
+G405
+0.60
+
+This is frame counter 2026
+G405
+G405
+
+This is frame counter 2027
+G405
+G405
+0.63
+-
+
+This is frame counter 2028
+G405
+G405
+
+This is frame counter 2029
+oor
+G405
+G405
+
+This is frame counter 2030
+Door
+G405
+G405
+
+This is frame counter 2031
+G405
+G405
+.86
+W
+
+This is frame counter 2032
+G405
+G405
+anel
+1.79
+
+This is frame counter 2033
+Joor II
+G405
+G405
+
+This is frame counter 2034
+G405
+G405
+anel
+.80
+
+This is frame counter 2035
+oor 0.81
+G405
+G405
+
+This is frame counter 2036
+Joor
+79
+G405
+G405
+
+This is frame counter 2037
+G405
+G405
+82
+
+This is frame counter 2038
+Door 0.70
+G405
+G405
+
+This is frame counter 2039
+G405
+G405
+One
+82
+
+This is frame counter 2040
+oor
+in
+G405
+G405
+M
+
+This is frame counter 2041
+oor 0.85
+G405
+G405
+"
+
+This is frame counter 2042
+001
+70
+G405
+G405
+and
+%
+
+This is frame counter 2043
+G405
+G405
+onel-0186
+%
+
+This is frame counter 2044
+OOI
+G405
+G405
+-
+as
+
+This is frame counter 2045
+oor
+O.
+G405
+G405
+%
+
+This is frame counter 2046
+G405
+G405
+MATTER
+is
+O
+
+This is frame counter 2047
+001
+G405
+G405
+%
+
+This is frame counter 2048
+G405
+G405
+mame
+
+This is frame counter 2049
+oor
+O.
+G405
+G405
+
+This is frame counter 2050
+oor U.B
+G405
+G405
+SINCE manga
+
+This is frame counter 2051
+Door
+G405
+G405
+MATTER
+%
+
+This is frame counter 2052
+G405
+G405
+FROM Codes PRACTICE
+%
+
+This is frame counter 2053
+oor
+DA
+G405
+G405
+MACTO
+
+This is frame counter 2054
+Door D.r
+G405
+G405
+20
+
+This is frame counter 2055
+G405
+G405
+was CATES STATE
+as
+
+This is frame counter 2056
+oor 0.69
+G405
+G405
+and CAZ40 MATTER
+
+This is frame counter 2057
+oor
+G405
+G405
+PROVICE
+%
+
+This is frame counter 2058
+G405
+G405
+PAN LAZES
+SS
+
+This is frame counter 2059
+G405
+G405
+SS
+
+This is frame counter 2060
+G405
+G405
+%
+
+This is frame counter 2061
+G405
+G405
+HOALTICE
+%
+
+This is frame counter 2062
+poor DA
+G405
+G405
+BANK
+
+This is frame counter 2063
+G405
+G405
+NAME Laber PRACTICE
+#
+
+This is frame counter 2064
+G405
+G405
+RISSI CADES
+SS
+
+This is frame counter 2065
+oor 0.61
+G405
+G405
+FRICE HANCTICE
+
+This is frame counter 2066
+Door DA
+G405
+G405
+MINISH PRACTICE
+
+This is frame counter 2067
+G405
+G405
+HERE CADES POATHER
+
+This is frame counter 2068
+G405
+G405
+*** CAGA
+
+This is frame counter 2069
+G405
+G405
+- CASHS DESCRIBED
+%
+
+This is frame counter 2070
+G405
+G405
+CALES
+%
+
+This is frame counter 2071
+G405
+G405
+RASK LATE POATES
+
+This is frame counter 2072
+G405
+G405
+anet-02
+BIRDS Cross
+%
+
+This is frame counter 2073
+Door DATE
+G405
+G405
+INMITY
+%
+
+This is frame counter 2074
+G405
+G405
+CADES SOUTH
+%
+
+This is frame counter 2075
+oor 0.61
+G405
+G405
+100 INDACTION
+%
+
+This is frame counter 2076
+poor
+G405
+G405
+KRO CASH:
+%
+
+This is frame counter 2077
+oor 0.60
+G405
+G405
+ROKE CADES Internct
+%
+
+This is frame counter 2078
+G405
+G405
+- CADRE
+%
+
+This is frame counter 2079
+G405
+G405
+**** CADE
+%
+
+This is frame counter 2080
+G405
+G405
+anet
+e:
+*** CADE
+%
+
+This is frame counter 2081
+OO
+G405
+G405
+*** CARD
+S
+
+This is frame counter 2082
+Door 0.55
+G405
+G405
+MADE DEATHO
+%
+
+This is frame counter 2083
+JOO 0.55
+G405
+G405
+MADE CADES PRINTING
+se
+
+This is frame counter 2084
+OO
+G405
+G405
+ARE CASH
+%
+
+This is frame counter 2085
+G405
+G405
+FREE CAJRE INSURED
+%
+
+This is frame counter 2086
+oor
+0.61
+G405
+G405
+*** TEACHER
+ss
+
+This is frame counter 2087
+G405
+G405
+- DEACTION
+ss
+
+This is frame counter 2088
+G405
+G405
+- PENCTION
+%
+
+This is frame counter 2089
+oor
+O.D
+G405
+G405
+****
+ss
+
+This is frame counter 2090
+JOOL
+G405
+G405
+PRINTING
+ss
+
+This is frame counter 2091
+oor
+G405
+G405
+se
+
+This is frame counter 2092
+Door 0.66
+G405
+G405
+%
+
+This is frame counter 2093
+G405
+G405
+is
+
+This is frame counter 2094
+G405
+G405
+DOACTION
+%
+
+This is frame counter 2095
+G405
+G405
+**** PORTAGE
+os
+
+This is frame counter 2096
+G405
+G405
+CATED TRANCTION
+
+This is frame counter 2097
+G405
+G405
+CAJED CHANCY
+se
+
+This is frame counter 2098
+OO
+G405
+G405
+CLASS HOATICE
+%
+
+This is frame counter 2099
+G405
+G405
+DEACTOR
+%
+
+This is frame counter 2100
+Door 0.70
+G405
+G405
+- CODE
+:
+
+This is frame counter 2101
+G405
+G405
+tax CANES SIGNATURE
+=
+
+This is frame counter 2102
+G405
+G405
+X
+-
+:
+
+This is frame counter 2103
+G405
+G405
+mames
+%
+
+This is frame counter 2104
+G405
+G405
+care CA345 INMACTICE
+se
+
+This is frame counter 2105
+G405
+G405
+PRACTICE
+
+This is frame counter 2106
+G405
+G405
+=
+
+This is frame counter 2107
+OOL
+G405
+G405
+FROG CADES
+as
+
+This is frame counter 2108
+OOOL
+G405
+G405
+PROCEDURE
+as
+
+This is frame counter 2109
+OOOL
+G405
+G405
+PROCICATES INSACTION
+as
+
+This is frame counter 2110
+G405
+G405
+BIRTH LADAR ROACTER
+ss
+
+This is frame counter 2111
+Door
+D.C
+G405
+G405
+MATTER
+
+This is frame counter 2112
+OO
+G405
+G405
+CATES
+
+This is frame counter 2113
+G405
+G405
+10900 CATES
+ss
+
+This is frame counter 2114
+G405
+G405
+K
+BACK CA342 INSACTIVE
+%
+
+This is frame counter 2115
+G405
+G405
+RACE CAJAS INTACTION
+ss
+
+This is frame counter 2116
+G405
+G405
+**** CA342 DESACTION
+se
+
+This is frame counter 2117
+G405
+G405
+*** LIFE
+%
+
+This is frame counter 2118
+G405
+G405
+of
+
+This is frame counter 2119
+G405
+G405
+*** CADAS
+ss
+
+This is frame counter 2120
+G405
+G405
+FACE CASH
+ss
+
+This is frame counter 2121
+G405
+G405
+- CADES
+
+This is frame counter 2122
+G405
+G405
+****
+%
+
+This is frame counter 2123
+G405
+G405
+tape CATRI palement
+:
+
+This is frame counter 2124
+G405
+G405
+- CADES PRACTICE
+%
+
+This is frame counter 2125
+G405
+G405
+- CADES
+
+This is frame counter 2126
+G405
+G405
+CASHS
+
+This is frame counter 2127
+G405
+G405
+- CAPAT ROACHES
+ss
+
+This is frame counter 2128
+DOO
+G405
+G405
+-
+SS
+
+This is frame counter 2129
+Door
+0.65
+G405
+G405
+
+This is frame counter 2130
+Door 0.71
+G405
+G405
+-
+SS
+
+This is frame counter 2131
+Door 0.76
+G405
+G405
+Text
+SS
+
+This is frame counter 2132
+OOOL 0.89
+G405
+G405
+-
+S
+and
+
+This is frame counter 2133
+OOO 0.78
+G405
+G405
+-
+I
+
+This is frame counter 2134
+boo
+G405
+G405
+-
+
+This is frame counter 2135
+Door 0.92
+G405
+G405
+
+This is frame counter 2136
+Door 0.82
+G405
+G405
+GXI
+
+This is frame counter 2137
+Door
+G415
+G405
+
+This is frame counter 2138
+G415
+G405
+
+This is frame counter 2139
+Door
+G415
+G405
+
+This is frame counter 2140
+Door
+Sals
+G405
+
+This is frame counter 2141
+
+This is frame counter 2142
+Doo
+
+This is frame counter 2143
+BOOF
+
+This is frame counter 2144
+
+This is frame counter 2145
+
+This is frame counter 2146
+
+This is frame counter 2147
+
+This is frame counter 2148
+D.
+
+This is frame counter 2149
+or 0.79
+
+This is frame counter 2150
+r
+0.79
+
+This is frame counter 2151
+or O.
+4
+
+This is frame counter 2152
+or 0.79
+
+This is frame counter 2153
+oor U.
+70
+
+This is frame counter 2154
+Door D 79
+
+This is frame counter 2155
+Door
+OF
+79
+
+This is frame counter 2156
+Woll
+0.89
+
+This is frame counter 2157
+
+This is frame counter 2158
+Wall 0.95
+
+This is frame counter 2159
+Wall 0.95
+
+This is frame counter 2160
+Wall 0.90
+
+This is frame counter 2161
+-
+Wall 0,90
+
+This is frame counter 2162
+Well 8,94
+
+This is frame counter 2163
+Wall 0.04
+
+This is frame counter 2164
+
+This is frame counter 2165
+
+This is frame counter 2166
+
+This is frame counter 2167
+
+This is frame counter 2168
+
+This is frame counter 2169
+
+This is frame counter 2170
+0.71
+
+This is frame counter 2171
+0.71
+I
+
+This is frame counter 2172
+all 0,71
+E
+
+This is frame counter 2173
+Vall 0.71
+G
+
+This is frame counter 2174
+all 0.71
+
+This is frame counter 2175
+all 0.71
+
+This is frame counter 2176
+all 0.71
+
+This is frame counter 2177
+Wall 0.71
+
+This is frame counter 2178
+
+This is frame counter 2179
+Woll 0.71
+
+This is frame counter 2180
+wall 0.71
+
+This is frame counter 2181
+Wall 0.71
+
+This is frame counter 2182
+¥all 0.71
+
+This is frame counter 2183
+Wall 0.71
+11
+
+This is frame counter 2184
+Wall 0,71
+
+This is frame counter 2185
+Wall 0.71
+
+This is frame counter 2186
+wall 0.71
+
+This is frame counter 2187
+Wall 0.71
+
+This is frame counter 2188
+Wall 0.71
+
+This is frame counter 2189
+¥all 0.71
+
+This is frame counter 2190
+Wall 0.71
+
+This is frame counter 2191
+Wall 0.71
+
+This is frame counter 2192
+Wall 0,71
+
+This is frame counter 2193
+Wall 0.71
+11
+
+This is frame counter 2194
+Wall 0.71
+III
+
+This is frame counter 2195
+JOI 0.71
+II
+
+This is frame counter 2196
+Wall 0.71
+
+This is frame counter 2197
+0,71
+II
+
+This is frame counter 2198
+Wall 0.71
+
+This is frame counter 2199
+Wall 0.71
+
+This is frame counter 2200
+Wall 0.71
+III
+
+This is frame counter 2201
+Wall 0.71
+IIII
+
+This is frame counter 2202
+Wall 0.71
+III
+
+This is frame counter 2203
+Wall 0.71
+
+This is frame counter 2204
+Wall 0.71
+
+This is frame counter 2205
+Wall 0.71
+
+This is frame counter 2206
+Wall 0.71
+
+This is frame counter 2207
+Wall 0.71
+
+This is frame counter 2208
+Wall 0.71
+Switch 0.59
+
+This is frame counter 2209
+Switch 0.59
+III
+
+This is frame counter 2210
+Switch 0.59
+the
+Keep
+III
+
+This is frame counter 2211
+Switch 0.59
+
+This is frame counter 2212
+Switch 0.59
+III
+
+This is frame counter 2213
+Switch 0.59
+III
+
+This is frame counter 2214
+Switch 0.59
+III
+
+This is frame counter 2215
+Switch 0.59
+
+This is frame counter 2216
+Switch 0.59
+III
+
+This is frame counter 2217
+witch 0.59
+
+This is frame counter 2218
+Switch 0.59
+
+This is frame counter 2219
+Switch 0.59
+
+This is frame counter 2220
+Switch 0.59
+III
+
+This is frame counter 2221
+Switch 0.59
+III
+
+This is frame counter 2222
+Switch 0.59
+
+This is frame counter 2223
+Switch 0.59
+
+This is frame counter 2224
+Switch 0.59
+III
+
+This is frame counter 2225
+Switch 0.59
+
+This is frame counter 2226
+Switch 0.59
+III
+
+This is frame counter 2227
+Switch 0.59
+III
+
+This is frame counter 2228
+Switch 0.59
+
+This is frame counter 2229
+Switch 0.59
+
+This is frame counter 2230
+Switch 0.59
+III
+
+This is frame counter 2231
+Switch 0.59
+III
+
+This is frame counter 2232
+Switch 0.59
+III
+
+This is frame counter 2233
+Switch 0.59
+
+This is frame counter 2234
+Switch 0.59
+III
+
+This is frame counter 2235
+Switch 0.59
+
+This is frame counter 2236
+Switch 0.59
+III
+
+This is frame counter 2237
+Switch 0.59
+
+This is frame counter 2238
+Switch 0.59
+III
+
+This is frame counter 2239
+Switch 0.59
+III
+
+This is frame counter 2240
+Switch 0.59
+III
+
+This is frame counter 2241
+Switch 0.59
+
+This is frame counter 2242
+Switch 0.59
+III
+
+This is frame counter 2243
+Switch 0.59
+III
+
+This is frame counter 2244
+Switch 0.59
+III
+
+This is frame counter 2245
+Switch 0.59
+III
+
+This is frame counter 2246
+Switch 0.59
+III
+
+This is frame counter 2247
+Switch 0.59
+III
+
+This is frame counter 2248
+Switch 0.59
+III
+
+This is frame counter 2249
+Switch 0.59
+III
+
+This is frame counter 2250
+Switch 0.59
+III
+
+This is frame counter 2251
+Switch 0.59
+III
+
+This is frame counter 2252
+Switch 0.59
+III
+
+This is frame counter 2253
+Switch 0.59
+III
+
+This is frame counter 2254
+Switch 0.59
+
+This is frame counter 2255
+Switch 0.59
+
+This is frame counter 2256
+Switch 0.59
+
+This is frame counter 2257
+
+This is frame counter 2258
+tother
+0.55
+
+This is frame counter 2259
+0.55
+
+This is frame counter 2260
+HOME
+0.55
+
+This is frame counter 2261
+emp 0.55
+--
+
+This is frame counter 2262
+app 0.55
+55
+
+This is frame counter 2263
+Lamp 0.55
+
+This is frame counter 2264
+Lamp 0.55
+
+This is frame counter 2265
+Lamp 0.55
+
+This is frame counter 2266
+Lamp 0.55
+
+This is frame counter 2267
+Lamp 0.55
+
+This is frame counter 2268
+amp 0.55
+
+This is frame counter 2269
+Lamp 0.55
+
+This is frame counter 2270
+grop
+0.55
+
+This is frame counter 2271
+Lamp 0.55
+as
+
+This is frame counter 2272
+Lamp 0.55
+
+This is frame counter 2273
+Lemp 0.55
+
+This is frame counter 2274
+H
+emp
+0.55
+
+This is frame counter 2275
+It
+amp 0.55
+
+This is frame counter 2276
+Storhe 0.55
+
+This is frame counter 2277
+Clarhe
+0.55
+
+This is frame counter 2278
+Hamp 0.55
+
+This is frame counter 2279
+Lamp 0.55
+
+This is frame counter 2280
+0.55
+
+This is frame counter 2281
+amp 0.55
+
+This is frame counter 2282
+gmp
+0.55
+0.62
+
+This is frame counter 2283
+or
+p
+0.62
+
+This is frame counter 2284
+an
+P
+0.62
+
+This is frame counter 2285
+dr
+0.62
+
+This is frame counter 2286
+0.62
+
+This is frame counter 2287
+
+This is frame counter 2288
+
+This is frame counter 2289
+
+This is frame counter 2290
+Lan
+D
+0.97
+ii
+
+This is frame counter 2291
+an
+H
+0.97
+
+This is frame counter 2292
+0,97
+
+This is frame counter 2293
+0.53
+
+This is frame counter 2294
+am 0.79
+iii
+
+This is frame counter 2295
+amb 0.79
+
+This is frame counter 2296
+0.79
+am
+0.82
+00
+BA
+
+This is frame counter 2297
+0.68
+
+This is frame counter 2298
+0.98
+
+This is frame counter 2299
+am
+0.98
+
+This is frame counter 2300
+am
+5
+8:38
+
+This is frame counter 2301
+OND
+
+This is frame counter 2302
+amb 0.69
+
+This is frame counter 2303
+Lamb 0.69
+
+This is frame counter 2304
+0.69
+
+This is frame counter 2305
+0.69
+
+This is frame counter 2306
+an
+b
+0.69
+II
+
+This is frame counter 2307
+achb
+0.69
+
+This is frame counter 2308
+ann 0.69
+
+This is frame counter 2309
+0.69
+
+This is frame counter 2310
+0.69
+
+This is frame counter 2311
+0.58
+0.69
+
+This is frame counter 2312
+0.58
+
+This is frame counter 2313
+
+This is frame counter 2314
+Lamp 0.82
+
+This is frame counter 2315
+am
+0.82
+
+This is frame counter 2316
+amp 0.82
+
+This is frame counter 2317
+am 0.82
+
+This is frame counter 2318
+amp 0.82
+
+This is frame counter 2319
+amp
+0.82
+
+This is frame counter 2320
+Lamp 0.82
+
+This is frame counter 2321
+am 0.82
+
+This is frame counter 2322
+0.82
+
+This is frame counter 2323
+am 0.82
+II
+
+This is frame counter 2324
+ara 0.82
+
+This is frame counter 2325
+am 0.82
+
+This is frame counter 2326
+Lamp 0.82
+
+This is frame counter 2327
+amp
+0.82
+
+This is frame counter 2328
+0.82
+
+This is frame counter 2329
+0.82
+
+This is frame counter 2330
+0.82
+
+This is frame counter 2331
+amp
+0.82
+
+This is frame counter 2332
+DABS4
+
+This is frame counter 2333
+Jory
+0.54
+
+This is frame counter 2334
+am D 0.74
+
+This is frame counter 2335
+am
+D
+0,74
+
+This is frame counter 2336
+polic
+am D 0.74
+
+This is frame counter 2337
+Lami 0.74
+
+This is frame counter 2338
+Lamb 0.74
+
+This is frame counter 2339
+Lamp 0.74
+
+This is frame counter 2340
+Lamb 0.74
+
+This is frame counter 2341
+Lamb 0.74
+
+This is frame counter 2342
+Lamb
+0.74
+
+This is frame counter 2343
+am 0.74
+
+This is frame counter 2344
+Lamb 0.74
+The
+
+This is frame counter 2345
+Lami
+0.74
+
+This is frame counter 2346
+Lamb 0.74
+
+This is frame counter 2347
+Lamb 0.74
+
+This is frame counter 2348
+and Lam b 0.74
+
+This is frame counter 2349
+- Lamb 0.74
+
+This is frame counter 2350
+amb 0.74
+
+This is frame counter 2351
+Lamb 0.74
+
+This is frame counter 2352
+Lamb 0.74
+
+This is frame counter 2353
+Lamb 0.7%
+
+This is frame counter 2354
+Lamb 0.74
+
+This is frame counter 2355
+am
+3
+0.74
+
+This is frame counter 2356
+amb
+0,74
+
+This is frame counter 2357
+am
+0.74
+
+This is frame counter 2358
+am
+74
+
+This is frame counter 2359
+amb
+0.74
+
+This is frame counter 2360
+am
+0
+74
+
+This is frame counter 2361
+amb
+0.74
+
+This is frame counter 2362
+Lamb 0.74
+
+This is frame counter 2363
+am
+0.74
+
+This is frame counter 2364
+Lamb 0.74
+
+This is frame counter 2365
+Lamp
+0.74
+
+This is frame counter 2366
+74
+
+This is frame counter 2367
+
+This is frame counter 2368
+
+This is frame counter 2369
+
+This is frame counter 2370
+
+This is frame counter 2371
+
+This is frame counter 2372
+
+This is frame counter 2373
+
+This is frame counter 2374
+
+This is frame counter 2375
+
+This is frame counter 2376
+
+This is frame counter 2377
+
+This is frame counter 2378
+
+This is frame counter 2379
+
+This is frame counter 2380
+
+This is frame counter 2381
+
+This is frame counter 2382
+0 74
+
+This is frame counter 2383
+0 74
+
+This is frame counter 2384
+.74
+
+This is frame counter 2385
+74
+
+This is frame counter 2386
+7
+
+This is frame counter 2387
+
+This is frame counter 2388
+
+This is frame counter 2389
+Lamb 0.74
+
+This is frame counter 2390
+Lam
+0.74
+
+This is frame counter 2391
+Lami 0.74
+
+This is frame counter 2392
+Lamb 0.74
+
+This is frame counter 2393
+Lamb
+0.74
+
+This is frame counter 2394
+Lam
+D
+O./
+
+This is frame counter 2395
+
+This is frame counter 2396
+
+This is frame counter 2397
+
+This is frame counter 2398
+
+This is frame counter 2399
+
+This is frame counter 2400
+
+This is frame counter 2401
+am
+S
+
+This is frame counter 2402
+Lam
+O.
+
+This is frame counter 2403
+Lamb
+0.
+
+This is frame counter 2404
+Lamb
+0.7
+Wall 0.66
+
+This is frame counter 2405
+Wall 0.66
+
+This is frame counter 2406
+Woll 0.66
+
+This is frame counter 2407
+as
+Wall 0.66
+
+This is frame counter 2408
+Wall
+0.66
+
+This is frame counter 2409
+
+This is frame counter 2410
+a
+Wall 0.63
+i
+
+This is frame counter 2411
+CHOC
+il
+
+This is frame counter 2412
+IN
+Wall
+0.60
+
+This is frame counter 2413
+Wall
+0.6-
+
+This is frame counter 2414
+Wall 16-1
+
+This is frame counter 2415
+P
+0.66
+
+This is frame counter 2416
+Wall 0.66
+
+This is frame counter 2417
+NEW
+all
+0.66
+HOT
+
+This is frame counter 2418
+8:85
+
+This is frame counter 2419
+an
+Wall 0.78
+i
+
+This is frame counter 2420
+Wall 0.78
+
+This is frame counter 2421
+
+This is frame counter 2422
+all 0.59
+I
+H
+
+This is frame counter 2423
+AZEL
+Wall 0.59
+
+This is frame counter 2424
+8:39
+1
+
+This is frame counter 2425
+¥all 0.80
+
+This is frame counter 2426
+Vall'0.70
+
+This is frame counter 2427
+Wall lo.70
+
+This is frame counter 2428
+No
+TAO.70
+1
+
+This is frame counter 2429
+0.70
+
+This is frame counter 2430
+IN
+8:75
+3.
+
+This is frame counter 2431
+0.75
+
+This is frame counter 2432
+0,75
+
+This is frame counter 2433
+all 0.75
+is
+
+This is frame counter 2434
+fall
+0.75
+il
+
+This is frame counter 2435
+Wall 0.75
+
+This is frame counter 2436
+Wall 0.75
+
+This is frame counter 2437
+Wall 0.75
+il
+
+This is frame counter 2438
+Wall 0.75
+
+This is frame counter 2439
+Wall 0.75
+
+This is frame counter 2440
+Wall 0.75
+
+This is frame counter 2441
+Wall 0.75
+I
+
+This is frame counter 2442
+Wall 0.75
+
+This is frame counter 2443
+
+This is frame counter 2444
+Wall 0.75
+II
+11
+
+This is frame counter 2445
+Wall 0.75
+
+This is frame counter 2446
+0.75
+
+This is frame counter 2447
+0.75
+Wall
+
+This is frame counter 2448
+
+This is frame counter 2449
+0.75
+
+This is frame counter 2450
+Wall
+0.75
+
+This is frame counter 2451
+Wall 0.75
+
+This is frame counter 2452
+0.75
+
+This is frame counter 2453
+0.75
+
+This is frame counter 2454
+Wall 0.75
+
+This is frame counter 2455
+0.75
+Wall
+
+This is frame counter 2456
+0.75
+Wall
+
+This is frame counter 2457
+0.15
+
+This is frame counter 2458
+0.15/11
+
+This is frame counter 2459
+0.15/1
+wall
+
+This is frame counter 2460
+Wall 0.7-
+
+This is frame counter 2461
+
+This is frame counter 2462
+Wall 0.75
+
+This is frame counter 2463
+Wall 0.75
+
+This is frame counter 2464
+Wall 0.75
+
+This is frame counter 2465
+
+This is frame counter 2466
+Wall 0.
+
+This is frame counter 2467
+Wall 0.75
+
+This is frame counter 2468
+Wall
+0.7
+
+This is frame counter 2469
+Wall
+0.75
+
+This is frame counter 2470
+Wall
+
+This is frame counter 2471
+Wall 0,75
+
+This is frame counter 2472
+Wall
+0
+
+This is frame counter 2473
+Wall
+
+This is frame counter 2474
+wall 0.75
+
+This is frame counter 2475
+Wall
+
+This is frame counter 2476
+0,8
+
+This is frame counter 2477
+
+This is frame counter 2478
+
+This is frame counter 2479
+Give
+
+This is frame counter 2480
+0.85
+1)
+
+This is frame counter 2481
+0.89
+0
+
+This is frame counter 2482
+
+This is frame counter 2483
+G408
+GIOS
+1)
+
+This is frame counter 2484
+0.95
+GIOS
+
+This is frame counter 2485
+GIOS
+
+This is frame counter 2486
+GADS
+0.59
+GIOS
+
+This is frame counter 2487
+Gate
+0.59
+GIOS
+1
+
+This is frame counter 2488
+GADB
+b.59
+GIOS
+
+This is frame counter 2489
+G405
+0.59
+GIOS
+
+This is frame counter 2490
+Lamp 0.59
+Gias
+0
+
+This is frame counter 2491
+G409
+6.59
+Glas
+
+This is frame counter 2492
+G408
+Lamp 0.59
+GIOS
+0
+
+This is frame counter 2493
+G40B
+Lamp
+0.59
+GIOS
+0
+
+This is frame counter 2494
+G408
+Lamp
+0,59
+GIOS
+
+This is frame counter 2495
+GAME
+Lamp 0.59
+Gras
+
+This is frame counter 2496
+G40B
+Lamp 0.59
+GIOS
+1
+
+This is frame counter 2497
+Lamp 0.59
+GIOS
+1
+
+This is frame counter 2498
+GAS
+Lamp 0.59
+GIOS
+0
+
+This is frame counter 2499
+GAU
+Lamp 0.59
+GIOS
+0
+
+This is frame counter 2500
+G40B
+Lamp 0.59
+G408
+1
+
+This is frame counter 2501
+Lamp 0.59
+G408
+
+This is frame counter 2502
+G423
+Lamp 0.59
+G408
+1
+
+This is frame counter 2503
+G40B
+Lamp
+0.59
+GIOS
+
+This is frame counter 2504
+amp
+0.59
+GIOS
+1
+
+This is frame counter 2505
+GAS
+Lamp
+0.59
+GIOS
+1
+
+This is frame counter 2506
+G408
+Lamp
+0.59
+G408
+
+This is frame counter 2507
+0408
+Lamp
+0.59
+G408
+
+This is frame counter 2508
+G408
+Lamp
+0.59
+G408
+
+This is frame counter 2509
+G408
+0.59
+G408
+
+This is frame counter 2510
+G408
+Lamp
+0.59
+G408
+1
+
+This is frame counter 2511
+G408
+Lamp
+0.59
+G408
+3
+
+This is frame counter 2512
+G408
+Lamp
+0.59
+G408
+0
+
+This is frame counter 2513
+G408
+Lamp
+0.59
+G408
+
+This is frame counter 2514
+G408
+0.59
+G408
+
+This is frame counter 2515
+G40B
+0.59
+G408
+
+This is frame counter 2516
+G408
+0.59
+G408
+
+This is frame counter 2517
+G408
+G408
+1
+
+This is frame counter 2518
+G408
+G408
+
+This is frame counter 2519
+G498
+GUA
+
+This is frame counter 2520
+G408
+G408
+
+This is frame counter 2521
+G400
+G408
+
+This is frame counter 2522
+G40S
+G408
+
+This is frame counter 2523
+G408
+0.58
+G408
+
+This is frame counter 2524
+0.58
+G408
+
+This is frame counter 2525
+G408
+Door 0.72
+G408
+
+This is frame counter 2526
+of
+Green
+Door 0.57
+G408
+I
+
+This is frame counter 2527
+Door 0.87
+G405
+G408
+
+This is frame counter 2528
+G405
+G408
+
+This is frame counter 2529
+Boor 0.80
+G408
+G408
+
+This is frame counter 2530
+por
+0.80
+G408
+G408
+
+This is frame counter 2531
+eer 0.59
+G408
+G408
+
+This is frame counter 2532
+USE
+G4U0
+G408
+
+This is frame counter 2533
+Door 0.62
+G4UD
+G408
+
+This is frame counter 2534
+2
+G4U
+G408
+
+This is frame counter 2535
+Door 0.59
+G4U
+G408
+
+This is frame counter 2536
+0.00
+G40
+G408
+
+This is frame counter 2537
+Door 0.50
+G4UD
+G408
+ext
+Panal
+0.80
+
+This is frame counter 2538
+A08
+Door 0.59
+G408
+ex
+70
+
+This is frame counter 2539
+Door 0.62
+C408
+Door 0.59
+G408
+ext
+Q.B
+SS
+
+This is frame counter 2540
+88F 6.89
+G400
+G408
+
+This is frame counter 2541
+Boor 0.71
+Door 0.69
+G408
+
+This is frame counter 2542
+Door 0.71
+Q4U
+G408
+I
+
+This is frame counter 2543
+Door 0.71
+Q400
+G408
+ext Panel
+W
+
+This is frame counter 2544
+G408
+G408
+SS
+-
+
+This is frame counter 2545
+Door 0.65
+G408
+G408
+Text PanalFO
+
+This is frame counter 2546
+G408
+G408
+ext Panel 0.69
+%
+
+This is frame counter 2547
+Door 0.83
+G408
+Wall 0.66
+G408
+ext Panel 0.
+ss
+
+This is frame counter 2548
+Door 0.57
+G4U0
+G408
+ext Panel 0.65
+°C
+
+This is frame counter 2549
+WBT
+G4U0
+G408
+ext Panel 0.80
+"
+
+This is frame counter 2550
+BeeF 0.6Z
+G400
+G408
+Text Panel 0.7
+CAMAITOR 18 INFORMATION
+
+This is frame counter 2551
+1663
+G40
+G408
+Text Panel 0.7
+as INFORMATICA
+:
+
+This is frame counter 2552
+G4U
+G408
+Text Panel 0.71
+
+This is frame counter 2553
+Door 0.67
+G402
+G408
+LISONATES INFORMATION
+00
+
+This is frame counter 2554
+oor 0.53
+G40
+G408
+Text Panel 0.77
+LIQUITOR INFORMATION
+00
+00
+
+This is frame counter 2555
+Door 0.63
+G4U
+G408
+ext Panel 0.76
+%
+
+This is frame counter 2556
+Reerates:
+G4U
+G408
+Text Panel # 0.68
+INFORMATICE
+..
+
+This is frame counter 2557
+Door 0.84
+G40
+G408
+batt
+GO
+
+This is frame counter 2558
+Door 0.85
+G40
+G408
+Text Panel 0.79
+CAROLATION in DEPARTMENT
+eg.
+
+This is frame counter 2559
+-
+-
+DOO THE
+joor 0.85
+G408
+Text Panel 0.56
+CAROMATOR
+
+This is frame counter 2560
+Door 0.87
+G400
+G408
+Cane Fishal Q.AE
+is
+98
+
+This is frame counter 2561
+Door 0.87
+G401
+Text Panel 0.67
+G408
+is
+
+This is frame counter 2562
+Door 0.61
+G408
+Text Panel 0.67
+G408
+Text Panel 0.74
+INTERNATION
+:
+
+This is frame counter 2563
+Door 0.68
+G408
+G408
+ext Panel 0.73
+of INFORMATICA
+:
+
+This is frame counter 2564
+Dear d.
+G408
+G408
+ext Panel 0.83
+
+This is frame counter 2565
+Dear d!
+G408
+G408
+Text Panel 0.73
+LANDRATUS OR HERMATICA
+a
+
+This is frame counter 2566
+Boof 0.312
+G408
+G408
+Text Panel 0.55
+Laborator 14 INTERNATION
+SS
+
+This is frame counter 2567
+Door 0.90
+G408
+G408
+rest Rent 0.55
+LABOLATOR # INFORMATICA
+
+This is frame counter 2568
+Door 0.90
+G408
+G408
+Text Ponel 0.77
+UNIVERSITY
+98
+
+This is frame counter 2569
+Deer 0.89
+G408
+G408
+Text Panel 0.69
+LABORATOR or INFORMATICA
+:
+
+This is frame counter 2570
+Door 0.66
+G408
+G408
+LABORATOR of INFORMATICA
+as
+
+This is frame counter 2571
+Door 0.PG
+G408
+Text Panel 0.60
+G408
+Text Panel 0.83
+LABORATOR DE INFORMATICA
+00
+
+This is frame counter 2572
+Door 0.99
+G408
+G408
+Text Panel 0.83
+LABORATOR DE INFORMATICA
+
+This is frame counter 2573
+Door 0.82
+G408
+Text Panel 0.63
+G408
+Lext Ponel 0.88
+LABORATOR DE INFORMATICA
+ee
+
+This is frame counter 2574
+Door 0.90
+G408
+Text Panel 0.63
+G408
+Text 0 Panel 0.77=
+LABORATOR DE INFORMATICA
+00
+00
+
+This is frame counter 2575
+Door 0.89
+G408
+G408
+tFRow #100787
+LABORATOR or INFORMATICA
+ee
+@@
+
+This is frame counter 2576
+Door 0.84
+G408
+Text Panel 0.61
+G408
+LABORATOR DE INFORMATICA
+go
+ce
+
+This is frame counter 2577
+Door 0.81
+G408
+G408
+Text Panel 0.86
+LABORATOR RE INFORMATICA
+ce
+
+This is frame counter 2578
+0.81
+G408
+G408
+Text Panel 0.81
+LABORATOR DE INFORMATICA
+
+This is frame counter 2579
+Door 0.91
+G408
+G408
+fort Panel 0.83
+LABORATOR ZIE INFORMATICA
+
+This is frame counter 2580
+Door 0.95
+G408
+G408
+East FRom 07631
+-
+
+This is frame counter 2581
+Door 0.98
+G40
+Text Panel 0.66
+G408
+Text Panel 0.57
+
+This is frame counter 2582
+Door 0.90
+G4
+G408
+
+This is frame counter 2583
+Door 0.88
+G4
+Text Panel 0.63
+G408
+
+This is frame counter 2584
+Door 0.99
+e
+G408
+Text Panel 0.84
+2
+
+This is frame counter 2585
+Door 0.97
+G408
+Text Panel 0.81
+
+This is frame counter 2586
+Door 0.92
+G408
+Text Panel 0.73
+%
+
+This is frame counter 2587
+Door 0.95
+G408
+Text Panel 0.77
+%
+
+This is frame counter 2588
+Door 0.83
+G408
+Text Ponel 0.77
+WAS
+
+This is frame counter 2589
+Door 0.66
+G408
+0.80
+0.65
+
+This is frame counter 2590
+Door 0.66
+G408
+%
+
+This is frame counter 2591
+G40
+
+This is frame counter 2592
+Door 0.57
+G4
+
+This is frame counter 2593
+0.57
+G4
+
+This is frame counter 2594
+0.57
+G40
+-
+
+This is frame counter 2595
+57
+Q
+
+This is frame counter 2596
+or
+
+This is frame counter 2597
+Q
+
+This is frame counter 2598
+G
+
+This is frame counter 2599
+
+This is frame counter 2600
+
+This is frame counter 2601
+
+This is frame counter 2602
+
+This is frame counter 2603
+
+This is frame counter 2604
+I
+
+This is frame counter 2605
+Wall 0.6
+
+This is frame counter 2606
+Wall 0.68
+
+This is frame counter 2607
+Wall 0.88
+
+This is frame counter 2608
+0.68
+
+This is frame counter 2609
+-
+- -
+S Wall 0.84
+I
+
+This is frame counter 2610
+0,87
+
+This is frame counter 2611
+
+This is frame counter 2612
+
+This is frame counter 2613
+
+This is frame counter 2614
+
+This is frame counter 2615
+
+This is frame counter 2616
+0.6
+Wall 0.78
+I
+
+This is frame counter 2617
+and
+Wall 0.78
+
+This is frame counter 2618
+Wall 0.78
+
+This is frame counter 2619
+Wall
+0.78
+
+This is frame counter 2620
+Wall
+
+This is frame counter 2621
+Wall o 78
+
+This is frame counter 2622
+Wall 0.78
+
+This is frame counter 2623
+Wall
+0.08
+
+This is frame counter 2624
+Wall 0.71 8
+
+This is frame counter 2625
+Wall 0.78
+
+This is frame counter 2626
+Wall 0.7
+
+This is frame counter 2627
+0.78
+
+This is frame counter 2628
+0.78
+
+This is frame counter 2629
+0.78
+
+This is frame counter 2630
+0,78
+
+This is frame counter 2631
+Wal
+0.78
+
+This is frame counter 2632
+Wall
+o,
+78
+
+This is frame counter 2633
+#all
+o
+78
+
+This is frame counter 2634
+Wall 0.78
+
+This is frame counter 2635
+Wa 0.78
+
+This is frame counter 2636
+Wall 0.78
+
+This is frame counter 2637
+times,
+Wall 0.78
+
+This is frame counter 2638
+#:11 0.78
+
+This is frame counter 2639
+Wo
+10.78
+
+This is frame counter 2640
+Wall0.78
+
+This is frame counter 2641
+Wc10.78
+
+This is frame counter 2642
+Wall 0.78
+
+This is frame counter 2643
+wd10.78
+
+This is frame counter 2644
+
+This is frame counter 2645
+Wall 0-78
+
+This is frame counter 2646
+.78
+
+This is frame counter 2647
+
+This is frame counter 2648
+
+This is frame counter 2649
+
+This is frame counter 2650
+70.78
+
+This is frame counter 2651
+
+This is frame counter 2652
+
+This is frame counter 2653
+
+This is frame counter 2654
+
+This is frame counter 2655
+
+This is frame counter 2656
+
+This is frame counter 2657
+
+This is frame counter 2658
+III
+
+This is frame counter 2659
+
+This is frame counter 2660
+
+This is frame counter 2661
+
+This is frame counter 2662
+
+This is frame counter 2663
+78
+
+This is frame counter 2664
+
+This is frame counter 2665
+78
+
+This is frame counter 2666
+
+This is frame counter 2667
+0.78
+
+This is frame counter 2668
+p.78
+
+This is frame counter 2669
+-
+0.78
+
+This is frame counter 2670
+0.78
+
+This is frame counter 2671
+
+This is frame counter 2672
+0.78
+
+This is frame counter 2673
+
+This is frame counter 2674
+
+This is frame counter 2675
+0.70
+10.78
+
+This is frame counter 2676
+fall 0,70
+
+This is frame counter 2677
+all 0,70
+
+This is frame counter 2678
+all 0,70
+
+This is frame counter 2679
+loll 0,70
+
+This is frame counter 2680
+loll 0,70
+
+This is frame counter 2681
+foll 0,70
+0.5
+
+This is frame counter 2682
+cure
+0.
+
+This is frame counter 2683
+70
+cure
+0
+
+This is frame counter 2684
+70
+
+This is frame counter 2685
+
+This is frame counter 2686
+I
+
+This is frame counter 2687
+
+This is frame counter 2688
+
+This is frame counter 2689
+Door
+0.71
+
+This is frame counter 2690
+
+This is frame counter 2691
+
+This is frame counter 2692
+
+This is frame counter 2693
+
+This is frame counter 2694
+
+This is frame counter 2695
+Door
+
+This is frame counter 2696
+Door
+
+This is frame counter 2697
+Door
+Door
+
+This is frame counter 2698
+Door
+
+This is frame counter 2699
+
+This is frame counter 2700
+
+This is frame counter 2701
+
+This is frame counter 2702
+
+This is frame counter 2703
+
+This is frame counter 2704
+
+This is frame counter 2705
+
+This is frame counter 2706
+
+This is frame counter 2707
+
+This is frame counter 2708
+
+This is frame counter 2709
+
+This is frame counter 2710
+
+This is frame counter 2711
+
+This is frame counter 2712
+
+This is frame counter 2713
+
+This is frame counter 2714
+
+This is frame counter 2715
+
+This is frame counter 2716
+
+This is frame counter 2717
+
+This is frame counter 2718
+
+This is frame counter 2719
+
+This is frame counter 2720
+
+This is frame counter 2721
+
+This is frame counter 2722
+
+This is frame counter 2723
+
+This is frame counter 2724
+CADE
+
+This is frame counter 2725
+DOOT 0.02
+
+This is frame counter 2726
+0.02
+
+This is frame counter 2727
+OX
+
+This is frame counter 2728
+JOOL 0.02
+
+This is frame counter 2729
+⑆802
+
+This is frame counter 2730
+0.04
+
+This is frame counter 2731
+Door 0.04
+
+This is frame counter 2732
+boor GA-ZZ
+
+This is frame counter 2733
+
+This is frame counter 2734
+
+This is frame counter 2735
+
+This is frame counter 2736
+Boor
+
+This is frame counter 2737
+Dear
+
+This is frame counter 2738
+1.82
+
+This is frame counter 2739
+Door
+
+This is frame counter 2740
+
+This is frame counter 2741
+
+This is frame counter 2742
+
+This is frame counter 2743
+
+This is frame counter 2744
+
+This is frame counter 2745
+
+This is frame counter 2746
+
+This is frame counter 2747
+
+This is frame counter 2748
+
+This is frame counter 2749
+Door BADE
+
+This is frame counter 2750
+Door 0.02
+
+This is frame counter 2751
+Door 0.82
+
+This is frame counter 2752
+Door 0.82
+
+This is frame counter 2753
+Door 0.02
+
+This is frame counter 2754
+Door 0.02
+
+This is frame counter 2755
+Door 0.82
+
+This is frame counter 2756
+DOO! 0.02
+
+This is frame counter 2757
+
+This is frame counter 2758
+
+This is frame counter 2759
+
+This is frame counter 2760
+Wall 0.65
+
+This is frame counter 2761
+Wall 0,65
+
+This is frame counter 2762
+Wall 0.65
+
+This is frame counter 2763
+Wall 0.65
+
+This is frame counter 2764
+Wall 0,65
+
+This is frame counter 2765
+Wall 0.65
+
+This is frame counter 2766
+Wall 0.65
+
+This is frame counter 2767
+Wall 0,65
+
+This is frame counter 2768
+Wall 0.65
+
+This is frame counter 2769
+Wall 0.65
+
+This is frame counter 2770
+Wall 0.65
+
+This is frame counter 2771
+well 0.65
+
+This is frame counter 2772
+all 0.57
+
+This is frame counter 2773
+001100359
+
+This is frame counter 2774
+Wall 0,89
+
+This is frame counter 2775
+Wall 0.89
+
+This is frame counter 2776
+Woll 0.89
+
+This is frame counter 2777
+Wall 0.89
+
+This is frame counter 2778
+0.89
+Voll 0.7
+
+This is frame counter 2779
+Wall 0.77
+
+This is frame counter 2780
+
+This is frame counter 2781
+0.79
+
+This is frame counter 2782
+Wall
+ORS
+
+This is frame counter 2783
+Wall 0.56
+
+This is frame counter 2784
+# P
+all 0.64
+
+This is frame counter 2785
+MBV
+
+This is frame counter 2786
+Madil
+
+This is frame counter 2787
+Wall aas
+
+This is frame counter 2788
+
+This is frame counter 2789
+0.85
+
+This is frame counter 2790
+Wall 0.61
+
+This is frame counter 2791
+Wall 0,61
+
+This is frame counter 2792
+
+This is frame counter 2793
+all 0,85
+
+This is frame counter 2794
+dplb(856
+
+This is frame counter 2795
+Hell e
+
+This is frame counter 2796
+
+This is frame counter 2797
+
+This is frame counter 2798
+
+This is frame counter 2799
+Wall 0.67
+
+This is frame counter 2800
+
+This is frame counter 2801
+all 0.69
+
+This is frame counter 2802
+0,69
+
+This is frame counter 2803
+Wall 0.69
+
+This is frame counter 2804
+Wall 0.69
+
+This is frame counter 2805
+Wall 0.69
+
+This is frame counter 2806
+Wall 0.69
+
+This is frame counter 2807
+Wall 0.69
+
+This is frame counter 2808
+Wall 0.69
+
+This is frame counter 2809
+all
+0.69
+
+This is frame counter 2810
+0.69
+
+This is frame counter 2811
+/all 0,69
+
+This is frame counter 2812
+all
+0.69
+
+This is frame counter 2813
+all 0.69
+
+This is frame counter 2814
+fall
+0,69
+
+This is frame counter 2815
+Wall
+0,69
+
+This is frame counter 2816
+0,69
+
+This is frame counter 2817
+all
+0.69
+
+This is frame counter 2818
+all
+0.69
+
+This is frame counter 2819
+all
+0.69
+
+This is frame counter 2820
+0,69
+
+This is frame counter 2821
+Cabinet 0.55
+0.69
+
+This is frame counter 2822
+Cabinet 0.55
+
+This is frame counter 2823
+Cabinet b.55
+
+This is frame counter 2824
+abinet 0.58
+
+This is frame counter 2825
+binet 0.55
+
+This is frame counter 2826
+binet 0.55
+
+This is frame counter 2827
+binet 0.55
+
+This is frame counter 2828
+C
+inet 0.55
+
+This is frame counter 2829
+CO inet 0.55
+
+This is frame counter 2830
+Cabinet
+
+This is frame counter 2831
+Cabinet
+
+This is frame counter 2832
+abinet 1,
+
+This is frame counter 2833
+binet
+0.7
+
+This is frame counter 2834
+binet 0.7
+
+This is frame counter 2835
+Cobinet 0.79
+
+This is frame counter 2836
+Cab net 0.79
+
+This is frame counter 2837
+Cobinet Q.79
+
+This is frame counter 2838
+Cabit t 0.79
+
+This is frame counter 2839
+Cabin t 0.79
+
+This is frame counter 2840
+Cabin : 0.79
+
+This is frame counter 2841
+Cabine 0.79
+
+This is frame counter 2842
+Cabinet 0.79
+
+This is frame counter 2843
+Cabin 7.79
+
+This is frame counter 2844
+Cabinet .79
+
+This is frame counter 2845
+cabinet 79
+
+This is frame counter 2846
+Babinet .79
+
+This is frame counter 2847
+Cabinet 0 .79
+
+This is frame counter 2848
+Cabinet 79
+
+This is frame counter 2849
+Cobinet
+79
+
+This is frame counter 2850
+Cabinet
+79
+
+This is frame counter 2851
+Cabinet
+9
+
+This is frame counter 2852
+Cabinet 0.79
+
+This is frame counter 2853
+Cabinet 017
+
+This is frame counter 2854
+Cabinet O.
+
+This is frame counter 2855
+Cabinet 0.79
+
+This is frame counter 2856
+Cabinet 0.79
+
+This is frame counter 2857
+Cabinet 0.79
+
+This is frame counter 2858
+
+This is frame counter 2859
+
+This is frame counter 2860
+
+This is frame counter 2861
+
+This is frame counter 2862
+
+This is frame counter 2863
+
+This is frame counter 2864
+
+This is frame counter 2865
+
+This is frame counter 2866
+
+This is frame counter 2867
+
+This is frame counter 2868
+
+This is frame counter 2869
+
+This is frame counter 2870
+
+This is frame counter 2871
+
+This is frame counter 2872
+
+This is frame counter 2873
+Wall
+
+This is frame counter 2874
+Wall
+O.
+
+This is frame counter 2875
+Wall
+0.
+
+This is frame counter 2876
+Wall 0.74
+
+This is frame counter 2877
+Wall 0.73
+
+This is frame counter 2878
+Wall 0,73
+
+This is frame counter 2879
+Wall 0,73
+
+This is frame counter 2880
+cabine
+
+This is frame counter 2881
+Cabinet
+
+This is frame counter 2882
+Cabinet 0.57
+
+This is frame counter 2883
+Cabinet 0.57
+
+This is frame counter 2884
+Easinet 8837
+
+This is frame counter 2885
+Cabinet
+0.93
+
+This is frame counter 2886
+Cabinet - 0.
+
+This is frame counter 2887
+BOBMOF BA 2
+
+This is frame counter 2888
+
+This is frame counter 2889
+
+This is frame counter 2890
+
+This is frame counter 2891
+
+This is frame counter 2892
+
+This is frame counter 2893
+
+This is frame counter 2894
+
+This is frame counter 2895
+
+This is frame counter 2896
+
+This is frame counter 2897
+
+This is frame counter 2898
+
+This is frame counter 2899
+
+This is frame counter 2900
+
+This is frame counter 2901
+
+This is frame counter 2902
+
+This is frame counter 2903
+
+This is frame counter 2904
+
+This is frame counter 2905
+
+This is frame counter 2906
+
+This is frame counter 2907
+
+This is frame counter 2908
+
+This is frame counter 2909
+
+This is frame counter 2910
+
+This is frame counter 2911
+
+This is frame counter 2912
+
+This is frame counter 2913
+
+This is frame counter 2914
+
+This is frame counter 2915
+
+This is frame counter 2916
+
+This is frame counter 2917
+
+This is frame counter 2918
+
+This is frame counter 2919
+
+This is frame counter 2920
+
+This is frame counter 2921
+
+This is frame counter 2922
+
+This is frame counter 2923
+
+This is frame counter 2924
+
+This is frame counter 2925
+
+This is frame counter 2926
+
+This is frame counter 2927
+
+This is frame counter 2928
+
+This is frame counter 2929
+
+This is frame counter 2930
+
+This is frame counter 2931
+
+This is frame counter 2932
+
+This is frame counter 2933
+
+This is frame counter 2934
+
+This is frame counter 2935
+
+This is frame counter 2936
+
+This is frame counter 2937
+
+This is frame counter 2938
+
+This is frame counter 2939
+
+This is frame counter 2940
+
+This is frame counter 2941
+
+This is frame counter 2942
+
+This is frame counter 2943
+
+This is frame counter 2944
+
+This is frame counter 2945
+
+This is frame counter 2946
+
+This is frame counter 2947
+
+This is frame counter 2948
+
+This is frame counter 2949
+
+This is frame counter 2950
+
+This is frame counter 2951
+
+This is frame counter 2952
+
+This is frame counter 2953
+
+This is frame counter 2954
+
+This is frame counter 2955
+
+This is frame counter 2956
+
+This is frame counter 2957
+
+This is frame counter 2958
+
+This is frame counter 2959
+
+This is frame counter 2960
+
+This is frame counter 2961
+
+This is frame counter 2962
+
+This is frame counter 2963
+
+This is frame counter 2964
+
+This is frame counter 2965
+
+This is frame counter 2966
+
+This is frame counter 2967
+
+This is frame counter 2968
+Cabine t AL N
+
+This is frame counter 2969
+Cabinet 0 M -
+
+This is frame counter 2970
+F
+Co
+
+This is frame counter 2971
+Cabinet 0. ZEE
+
+This is frame counter 2972
+Cabinet 0.6
+
+This is frame counter 2973
+Cabinet 0,54
+
+This is frame counter 2974
+Cabinet C
+
+This is frame counter 2975
+Cabinet 0
+
+This is frame counter 2976
+Cabinet I
+G404
+1
+<<<
+
+This is frame counter 2977
+Cabinet 0
+G484
+G404
+1
+:
+
+This is frame counter 2978
+Cabinet 0.64
+G404
+do
+L
+
+This is frame counter 2979
+Cabinet 0.64
+G404
+G404
+do
+
+This is frame counter 2980
+Cabinet 0.64
+G404
+
+This is frame counter 2981
+Cabinet 0.64
+G404
+Door 0.68
+G404
+
+This is frame counter 2982
+G404
+00628
+G404
+
+This is frame counter 2983
+borro?
+G404
+do
+
+This is frame counter 2984
+0404
+do
+
+This is frame counter 2985
+G404
+G404
+do
+
+This is frame counter 2986
+G404
+0.88
+G404
+
+This is frame counter 2987
+G404
+ags
+G404
+
+This is frame counter 2988
+GALL
+Dear
+di-fos
+G404
+
+This is frame counter 2989
+GASA
+Dear
+did
+G404
+
+This is frame counter 2990
+G404
+loor
+0.80
+G404
+the
+
+This is frame counter 2991
+Door 0.93
+G4/44
+G404
+do
+
+This is frame counter 2992
+ONEW
+G404
+G404
+do
+
+This is frame counter 2993
+oor
+0.08
+G404
+G404
+do
+
+This is frame counter 2994
+Door 0.18
+G404
+G404
+do
+
+This is frame counter 2995
+BeeF
+0.89
+G404
+G404
+do
+
+This is frame counter 2996
+Joor
+0.66
+G404
+G404
+do
+
+This is frame counter 2997
+Door 0.88
+G404
+G404
+do
+
+This is frame counter 2998
+Dear
+G404
+G404
+do
+
+This is frame counter 2999
+Door 0.84
+G404
+G404
+do
+
+This is frame counter 3000
+oor 0.74
+G404
+G404
+do
+
+This is frame counter 3001
+Door 0.74
+G404
+G404
+do
+
+This is frame counter 3002
+(4404)
+Door 0.74
+G404
+
+This is frame counter 3003
+.....
+Door 0.74
+G404
+
+This is frame counter 3004
+0.80
+G404
+G404
+
+This is frame counter 3005
+0.98
+G404
+G404
+
+This is frame counter 3006
+DOOR 0.57
+G404
+G404
+
+This is frame counter 3007
+-
+poor 0.57
+G404
+G404
+81
+
+This is frame counter 3008
+G404
+G404
+G
+
+This is frame counter 3009
+I
+G404
+
+This is frame counter 3010
+G404
+I
+G404
+K
+
+This is frame counter 3011
+G404
+0.68
+G404
+my
+
+This is frame counter 3012
+poor 0.56
+G404
+G404
+
+This is frame counter 3013
+poor 0.55
+G404
+G404
+de
+
+This is frame counter 3014
+I
+G404
+I
+
+This is frame counter 3015
+poor oss
+G404
+G404
+1
+do
+
+This is frame counter 3016
+G404
+G404
+
+This is frame counter 3017
+poor 9.93
+G404
+G404
+do
+
+This is frame counter 3018
+DOCTOR
+G404
+G404
+e
+111
+
+This is frame counter 3019
+LES
+G404
+G404
+e
+
+This is frame counter 3020
+Door way
+G404
+G404
+do
+
+This is frame counter 3021
+ear
+01996
+G404
+G404
+a
+
+This is frame counter 3022
+88F 6.96
+G404
+G404
+1
+do
+
+This is frame counter 3023
+B88F 8.34
+G404
+G404
+1
+do
+
+This is frame counter 3024
+88F BMS
+G404
+G404
+1
+
+This is frame counter 3025
+our
+USA
+G404
+G404
+do
+
+This is frame counter 3026
+G404
+G404
+1
+do
+
+This is frame counter 3027
+OXI
+G404
+G404
+1
+do
+
+This is frame counter 3028
+POOT 0.77
+G404
+G404
+a
+
+This is frame counter 3029
+G404
+
+This is frame counter 3030
+0560
+G404
+G404
+do
+
+This is frame counter 3031
+AND
+G404
+G404
+1
+I
+
+This is frame counter 3032
+0.70
+G404
+G404
+
+This is frame counter 3033
+m
+G404
+G404
+do
+
+This is frame counter 3034
+-
+G404
+G404
+do
+
+This is frame counter 3035
+m
+G404
+G404
+do
+
+This is frame counter 3036
+-
+G404
+G404
+
+This is frame counter 3037
+G404
+G404
+
+This is frame counter 3038
+G404
+G404
+
+This is frame counter 3039
+ua
+G404
+G404
+do
+
+This is frame counter 3040
+pool 0.88
+G404
+G404
+
+This is frame counter 3041
+0.89
+G404
+G404
+-
+
+This is frame counter 3042
+G404
+G404
+
+This is frame counter 3043
+G404
+G404
+
+This is frame counter 3044
+poor 0.89
+G404
+G404
+
+This is frame counter 3045
+G404
+G404
+
+This is frame counter 3046
+w
+G404
+G404
+
+This is frame counter 3047
+DOOR
+1.8.
+G404
+G404
+
+This is frame counter 3048
+DOOR
+0.89
+G404
+G404
+
+This is frame counter 3049
+poor 0.90
+G404
+G404
+
+This is frame counter 3050
+DOOR 0.97
+G404
+G404
+
+This is frame counter 3051
+u
+G404
+G404
+
+This is frame counter 3052
+ONE
+G404
+G404
+
+This is frame counter 3053
+G404
+G404
+SS
+
+This is frame counter 3054
+0.80
+G404
+G404
+
+This is frame counter 3055
+G404
+G404
+
+This is frame counter 3056
+G404
+G404
+
+This is frame counter 3057
+DATE
+G404
+G404
+CADA
+
+This is frame counter 3058
+DOOR 0.95
+G404
+G404
+
+This is frame counter 3059
+986ru3184
+G404
+G404
+
+This is frame counter 3060
+were
+G404
+G404
+SS
+
+This is frame counter 3061
+your COP
+G404
+G404
+SS
+
+This is frame counter 3062
+Door 0.93
+G404
+G404
+C404
+=
+
+This is frame counter 3063
+Door 0.95
+G404
+G404
+CADE
+%
+
+This is frame counter 3064
+BEEF 8.53
+G404
+G404
+GADA
+-
+#
+
+This is frame counter 3065
+0:03
+G404
+G404
+G404
+$5
+
+This is frame counter 3066
+G404
+G404
+C404
+$$
+
+This is frame counter 3067
+boor 0.95
+G404
+G404
+67
+-
+%
+
+This is frame counter 3068
+Door 0.96
+G404
+G404
+on
+
+This is frame counter 3069
+Door 0.94
+G404
+G404
+"
+
+This is frame counter 3070
+Door 0.86
+G404
+G404
+en
+
+This is frame counter 3071
+Door 0.86
+G404
+G404
+%
+
+This is frame counter 3072
+P
+loor 0.90
+G404
+G404
+DEMATED
+as
+
+This is frame counter 3073
+poor 0.76
+G404
+G404
+PRACTICE
+se
+
+This is frame counter 3074
+Door 0.70
+G404
+G404
+SINCE CARE DESALTICS
+98
+
+This is frame counter 3075
+G404
+G404
+MANACTICS
+%
+
+This is frame counter 3076
+Door 0.78
+G404
+G404
+- CATE
+SS
+
+This is frame counter 3077
+Door 0.73
+G404
+G404
+HALF
+on
+
+This is frame counter 3078
+BEEF 8.69
+G404
+G404
+NIKE CAFES MATTER
+THE
+
+This is frame counter 3079
+poor 0.68
+G404
+G404
+INVOICEMENT
+SS
+e
+
+This is frame counter 3080
+Joer 0.73
+G404
+G404
+MEXICANE EXPIRATION
+SS
+.
+
+This is frame counter 3081
+coor
+0.70
+G404
+G404
+ss
+
+This is frame counter 3082
+Door 0.83
+G404
+G404
+CRISS
+00
+
+This is frame counter 3083
+Door 0.80
+G404
+G404
+oo
+
+This is frame counter 3084
+poor 0.60
+G404
+G404
+*** CADE DISACTION
+00
+
+This is frame counter 3085
+poor U.BT
+G404
+THE
+G404
+BROU CADES EXPACTICE
+
+This is frame counter 3086
+DOOT 0.86
+G404
+G404
+HEROU CANES POLICE
+:
+
+This is frame counter 3087
+poor 0.7
+G404
+G404
+FREE
+ERRO CATHE EXPACTICE
+:
+
+This is frame counter 3088
+poor 0.00
+G404
+G404
+#IROU CADES DIDACTICE
+
+This is frame counter 3089
+P
+Door 0.66
+G404
+G404
+#BOU CADEL DIDACTICS
+
+This is frame counter 3090
+-
+B88F 6.83
+G404
+G404
+E.
+ERROL CADES DIBACTICE
+
+This is frame counter 3091
+P
+1
+poor DUE
+G404
+G404
+EROU CADES DIDACTION
+
+This is frame counter 3092
+P
+poor
+0.02
+G404
+G404
+BIRDE CADES DIAACTICK
+
+This is frame counter 3093
+P
+B88F 6:69
+G404
+G404
+FROD CADES DIDACTICE
+
+This is frame counter 3094
+P
+Door
+0.71
+G404
+G404
+FROU CATHE DIDACTICE
+00
+..
+
+This is frame counter 3095
+-
+poor 0.74
+G404
+G404
+EMIL-
+RIDD CADES DIRACTICE
+00
+00
+
+This is frame counter 3096
+Deer 0.74
+G404
+G404
+Pan
+BERT
+BIROU CADRE DIRACTICE
+
+This is frame counter 3097
+P
+Door 0.86
+G404
+G404
+Pan
+BIROU CADRE DIRACTICE
+
+This is frame counter 3098
+-
+poer 9.65
+G404
+G404
+Pan
+ENTO
+BIRDE CADRE DIRACTICE
+:
+
+This is frame counter 3099
+the
+Poor 0.80
+G404
+G404
+BIRD CAINS DIDACTICE
+:
+
+This is frame counter 3100
+Door 0.80
+G404
+G404
+Pan
+FOR
+BIROU CADRE DIRACTICE
+
+This is frame counter 3101
+-
+G404
+G404
+BIRDD CATRE DISACTICE
+00
+
+This is frame counter 3102
+G404
+G404
+BROS CADRE DEDACTICE
+08
+or
+
+This is frame counter 3103
+G404
+G404
+BIROU CADE DIDACTICE
+00
+00
+
+This is frame counter 3104
+G404
+G404
+EMILT
+BIROU CADRE DIDACTICE
+:
+
+This is frame counter 3105
+G404
+G404
+Pan 5:00-
+BIROU CADRE DIDACTICE
+88
+
+This is frame counter 3106
+G404
+G404
+Pan
+BIROU CADRE DIDACTICE
+ee
+
+This is frame counter 3107
+G404
+G404
+BIRGU CADRE DIDACTICE
+"
+
+This is frame counter 3108
+G404
+G404
+Pan
+BURGER CADRE DIDACTICE
+oo
+
+This is frame counter 3109
+Door 0.35
+G404
+G404
+Pan
+EXIT
+BURDE CADRE EXPACTICE
+:
+
+This is frame counter 3110
+Door 0.35
+G404
+G404
+BIRDH CADRE DIDACTICE
+00
+ce
+
+This is frame counter 3111
+G404
+G404
+BIROU CADRE DEDACTION
+:
+
+This is frame counter 3112
+-
+Door 0.59
+G404
+G404
+Pan
+BIRDU CADRE DIDACTION
+00
+00
+
+This is frame counter 3113
+poor
+0.59
+G404
+G404
+Pan
+KIROU CADE DIDACTICE
+:
+
+This is frame counter 3114
+G404
+G404
+BIROU CADRE DIDACTICE
+00
+08
+
+This is frame counter 3115
+G404
+G404
+was
+From
+CADRI DISACTICE
+°C
+
+This is frame counter 3116
+G404
+G404
+INDACTION
+"
+
+This is frame counter 3117
+G404
+G404
+Hame
+TOACTICE
+
+This is frame counter 3118
+G404
+G404
+on
+08
+
+This is frame counter 3119
+D.OZ
+G404
+G404
+From -
+on
+
+This is frame counter 3120
+G404
+G404
+Pan
+
+This is frame counter 3121
+G404
+G404
+Pa
+E.
+
+This is frame counter 3122
+conviction
+9.00
+G40
+G404
+Par ERIT
+%
+
+This is frame counter 3123
+G4
+G404
+2
+
+This is frame counter 3124
+COF 8397
+G
+G404
+THE
+2
+
+This is frame counter 3125
+Text Panel 0.66
+G404
+
+This is frame counter 3126
+Text Panel 0.68
+G404
+
+This is frame counter 3127
+G404
+xt
+%
+
+This is frame counter 3128
+Text Panel 0.68
+G404
+z
+
+This is frame counter 3129
+Text Panel 0.68
+G404
+THE
+O
+
+This is frame counter 3130
+Cross 0.55
+G404
+<<00
+
+This is frame counter 3131
+Cross 0.55
+G404
+LI
+=
+
+This is frame counter 3132
+Cross 0.68
+G40
+TO Pancl or
+
+This is frame counter 3133
+Cross 0.00
+
+This is frame counter 3134
+Cross 0.68
+
+This is frame counter 3135
+Cross 0.68
+
+This is frame counter 3136
+Cross 0.68
+S
+
+This is frame counter 3137
+Cross 0.68
+
+This is frame counter 3138
+
+This is frame counter 3139
+Wall 0.88
+
+This is frame counter 3140
+Wall 0,88
+
+This is frame counter 3141
+Wall 0,90
+
+This is frame counter 3142
+-
+Wall 0.79
+
+This is frame counter 3143
+-
+Wall 0.79
+
+This is frame counter 3144
+I Wall 0,73
+
+This is frame counter 3145
+Vall 0.80
+
+This is frame counter 3146
+-
+R fall 0.76
+
+This is frame counter 3147
+Wall 0.74
+
+This is frame counter 3148
+
+This is frame counter 3149
+10.72
+
+This is frame counter 3150
+
+This is frame counter 3151
+- 11.10
+
+This is frame counter 3152
+
+This is frame counter 3153
+
+This is frame counter 3154
+
+This is frame counter 3155
+
+This is frame counter 3156
+
+This is frame counter 3157
+
+This is frame counter 3158
+
+This is frame counter 3159
+P
+
+This is frame counter 3160
+
+This is frame counter 3161
+
+This is frame counter 3162
+1.78
+
+This is frame counter 3163
+
+This is frame counter 3164
+
+This is frame counter 3165
+
+This is frame counter 3166
+
+This is frame counter 3167
+
+This is frame counter 3168
+
+This is frame counter 3169
+8.04
+
+This is frame counter 3170
+
+This is frame counter 3171
+
+This is frame counter 3172
+
+This is frame counter 3173
+
+This is frame counter 3174
+
+This is frame counter 3175
+
+This is frame counter 3176
+
+This is frame counter 3177
+09
+
+This is frame counter 3178
+
+This is frame counter 3179
+11
+Door 0.60
+
+This is frame counter 3180
+Door 0.68
+!
+
+This is frame counter 3181
+BeeF 8.09
+I
+
+This is frame counter 3182
+88F
+8.63
+!
+
+This is frame counter 3183
+BeeF
+8.75
+
+This is frame counter 3184
+Door
+0.88
+I
+
+This is frame counter 3185
+Beef
+0.88
+$409
+
+This is frame counter 3186
+
+This is frame counter 3187
+Door 0.76
+409
+C
+
+This is frame counter 3188
+G409
+Door 0.80
+G409
+C
+
+This is frame counter 3189
+Door 0.85
+G409
+G409
+
+This is frame counter 3190
+G409
+G409
+
+This is frame counter 3191
+Door
+0.86
+G409
+G409
+C
+T
+
+This is frame counter 3192
+ser 0.66
+GAGA
+G409
+J.
+1
+
+This is frame counter 3193
+G409
+Door 0.99
+G409
+
+This is frame counter 3194
+bear 0.02
+G409
+C
+T
+
+This is frame counter 3195
+G409
+1990
+G409
+-
+C
+T
+
+This is frame counter 3196
+Door
+0.86
+G409
+G409
+-
+G
+T
+
+This is frame counter 3197
+G409
+Door 0.93
+G409
+-
+G
+T
+
+This is frame counter 3198
+G409
+peer 0.92
+G409
+G
+T
+
+This is frame counter 3199
+Door 0.53
+G409
+G409
+C
+T
+
+This is frame counter 3200
+G409
+Door 0.88
+G409
+C
+T
+
+This is frame counter 3201
+Door 0.65
+G409
+G409
+C
+T
+
+This is frame counter 3202
+0.65
+G409
+G409
+G
+T
+
+This is frame counter 3203
+Door 0.83
+G409
+G409
+C
+
+This is frame counter 3204
+Door
+0.88
+G409
+G409
+1
+T
+
+This is frame counter 3205
+Door 0.88
+G409
+G409
+1
+T
+
+This is frame counter 3206
+BB9
+G409
+G409
+T
+
+This is frame counter 3207
+G409
+G409
+T
+
+This is frame counter 3208
+Door
+0.82
+G409
+G409
+T
+
+This is frame counter 3209
+Door 0.80
+G409
+G409
+
+This is frame counter 3210
+Door 0.88
+G409
+G409
+C
+T
+
+This is frame counter 3211
+0.86
+G409
+G409
+T
+
+This is frame counter 3212
+Door 0.85
+G409
+G409
+T
+
+This is frame counter 3213
+G409
+6.78
+G409
+T
+
+This is frame counter 3214
+Door 0.89
+G409
+G409
+
+This is frame counter 3215
+0.56
+G409
+G409
+C
+Y
+
+This is frame counter 3216
+G409
+Door 0.73
+G409
+G
+T
+
+This is frame counter 3217
+G409
+Door 0.83
+G409
+Q
+T
+
+This is frame counter 3218
+G409
+Door 0.62
+G409
+C
+T
+
+This is frame counter 3219
+G409
+Door
+0.88
+G409
+T
+
+This is frame counter 3220
+G409
+Beer
+0.35
+G409
+G
+
+This is frame counter 3221
+O.M
+G409
+G409
+T
+
+This is frame counter 3222
+Deer
+0.82
+G409
+G409
+G
+T
+
+This is frame counter 3223
+G409
+poor 0.82
+G409
+G
+T
+
+This is frame counter 3224
+G409
+BeeF 0.82
+G409
+1
+T
+
+This is frame counter 3225
+G409
+888F 8.79
+G409
+T
+
+This is frame counter 3226
+pear
+G409
+G409
+G
+T
+
+This is frame counter 3227
+Door
+0.88
+G409
+G409
+T
+and
+
+This is frame counter 3228
+G409
+Door 0.82
+G409
+Y
+
+This is frame counter 3229
+G409
+Door 0.89
+G409
+C
+T
+
+This is frame counter 3230
+G409
+Door 0.80
+G409
+T
+
+This is frame counter 3231
+G409
+Door 0.68
+G409
+C
+T
+I
+
+This is frame counter 3232
+G409
+.66
+G409
+
+This is frame counter 3233
+Door 0.68
+G409
+G409
+Y
+I
+
+This is frame counter 3234
+G409
+Door 0.65
+G409
+
+This is frame counter 3235
+G409
+Door 0.55
+G409
+
+This is frame counter 3236
+Door 0.58
+G409
+G409
+T
+
+This is frame counter 3237
+Door 0.88
+G409
+G409
+
+This is frame counter 3238
+G409
+Door 0.69
+G409
+T
+
+This is frame counter 3239
+bear di68
+G409
+G409
+T
+
+This is frame counter 3240
+oor 0.80
+G409
+G409
+T
+
+This is frame counter 3241
+Joor 0.80
+G409
+G409
+T
+
+This is frame counter 3242
+13:34
+G409
+G409
+T
+and
+
+This is frame counter 3243
+poor
+0.81
+G409
+G409
+1
+a
+Y
+
+This is frame counter 3244
+B88F
+0.84
+G409
+G409
+T
+
+This is frame counter 3245
+Dear dief
+G409
+G409
+T
+
+This is frame counter 3246
+G409
+Dear digits
+G409
+T
+
+This is frame counter 3247
+per
+au
+G409
+G409
+Y
+
+This is frame counter 3248
+oor 0.0 9
+G409
+G409
+C
+T
+
+This is frame counter 3249
+589
+0.01
+G409
+1
+C
+T
+
+This is frame counter 3250
+G409
+G409
+C
+T
+
+This is frame counter 3251
+poor 0.00
+G409
+G409
+T
+
+This is frame counter 3252
+G409
+G409
+Q
+T
+
+This is frame counter 3253
+BAS
+G409
+G409
+C
+Y
+
+This is frame counter 3254
+G409
+G409
+T
+
+This is frame counter 3255
+-
+poor PAID
+G409
+G409
+a
+Y
+
+This is frame counter 3256
+G409
+G409
+T
+
+This is frame counter 3257
+G409
+G409
+I
+T
+
+This is frame counter 3258
+0.83
+G409
+G409
+Y
+
+This is frame counter 3259
+G409
+G409
+Y
+
+This is frame counter 3260
+G409
+G409
+T
+
+This is frame counter 3261
+OF
+G409
+G409
+Y
+
+This is frame counter 3262
+U.ST
+G409
+G409
+V
+
+This is frame counter 3263
+Self
+0.96
+G409
+G409
+Y
+
+This is frame counter 3264
+G409
+G409
+Y
+
+This is frame counter 3265
+G409
+G409
+Y
+
+This is frame counter 3266
+G409
+G409
+Y
+
+This is frame counter 3267
+BOOF 8.00
+G409
+G409
+T
+
+This is frame counter 3268
+B68F 8.18
+G409
+G409
+T
+
+This is frame counter 3269
+G409
+G409
+Y
+
+This is frame counter 3270
+500
+Dobr6.87
+G409
+G409
+Y
+
+This is frame counter 3271
+poor 0.00
+G409
+G409
+SS
+Y
+
+This is frame counter 3272
+- -
+poor
+G409
+G409
+"
+Y
+
+This is frame counter 3273
+Door
+0.88
+G409
+G409
+SS
+Y
+
+This is frame counter 3274
+Door 0.88
+G409
+G409
+SS
+Y
+
+This is frame counter 3275
+-
+0.00
+G409
+G409
+0.67
+St
+Y
+
+This is frame counter 3276
+poor 0.92
+G409
+G409
+0.67
+SS
+Y
+
+This is frame counter 3277
+of
+1
+Joor
+0.08
+G409
+G409
+SS
+Y
+
+This is frame counter 3278
+Door 0.89
+G409
+G409
+66
+SS
+Y
+
+This is frame counter 3279
+poor 0.89
+G409
+G409
+.66
+SS
+1
+
+This is frame counter 3280
+G409
+G409
+SS
+1
+
+This is frame counter 3281
+and
+G409
+G409
+0.63
+W
+Y
+
+This is frame counter 3282
+Door 0.69
+G409
+G409
+163
+SS
+1
+
+This is frame counter 3283
+0.00
+G409
+G409
+65
+SS
+1
+
+This is frame counter 3284
+Door 0.82
+G409
+G409
+1.55
+%
+Y
+
+This is frame counter 3285
+got 6:83
+G409
+G409
+SS
+1
+
+This is frame counter 3286
+Door 0.97
+G409
+G409
+=
+Y
+
+This is frame counter 3287
+Joor 0.87
+G409
+G409
+%
+1
+
+This is frame counter 3288
+DOOR 0.79
+G409
+G409
+%
+I
+
+This is frame counter 3289
+G409
+G409
+6
+SS
+V
+
+This is frame counter 3290
+poor 0.78
+G409
+G409
+SS
+V
+
+This is frame counter 3291
+poor 0.80
+G409
+G409
+SS
+V
+
+This is frame counter 3292
+0.80
+G409
+G409
+SS
+V
+
+This is frame counter 3293
+Joor 0.81
+G409
+G409
+LIMITATION
+SS
+V
+
+This is frame counter 3294
+poor 0.80
+G409
+G409
+V
+
+This is frame counter 3295
+poor 0.82
+G409
+G409
+INFORMATION
+:
+V
+
+This is frame counter 3296
+poor 0.00
+G409
+G409
+LABILATES in INTERNATION
+1
+
+This is frame counter 3297
+poor 0.77
+G409
+G409
+or INTERNATION
+%
+Y
+
+This is frame counter 3298
+poor 0.77
+G409
+G409
+- INTERMATICA
+Y
+
+This is frame counter 3299
+9494
+G409
+G409
+INFORMATICA
+%
+V
+
+This is frame counter 3300
+poor 0.76
+G409
+G409
+15 SPOUNTY
+%
+
+This is frame counter 3301
+Door 0.78
+G409
+G409
+LANDMARK
+%
+10
+
+This is frame counter 3302
+Poor 0.60
+G409
+G409
+LANGGATER P PRODUCATION
+of
+
+This is frame counter 3303
+Door 0.60
+G409
+G409
+DE
+:
+of
+
+This is frame counter 3304
+0.80
+G409
+G409
+LABORATOR 10 INFORMATION
+
+This is frame counter 3305
+P
+poor
+UW
+G409
+G409
+14 INFORMATION
+:
+
+This is frame counter 3306
+Poor 0.75
+G409
+G409
+LABORATOR 14 INFORMATION
+:
+
+This is frame counter 3307
+-
+Door 0.76
+G409
+G409
+14 INFORMATION
+:
+
+This is frame counter 3308
+poor 0.80
+G409
+G409
+LABORATER DO SPORMATICA
+:
+1
+.
+
+This is frame counter 3309
+1
+poor 0.73
+G409
+G409
+LABORATES 14 INFORMATICA
+:
+1
+K
+THE
+
+This is frame counter 3310
+Door 0.67
+G409
+G409
+LARGUATES INFORMATION
+%
+8
+
+This is frame counter 3311
+Joor 0.60
+G409
+G409
+LABORATOR INFORMATION
+%
+1
+
+This is frame counter 3312
+Door 0.50
+G409
+G409
+LARGEATOR or PRODUCATION
+%
+1
+
+This is frame counter 3313
+Door 0.68
+G409
+G409
+LARGEATED or INFORMATICA
+1
+
+This is frame counter 3314
+Door 0.66
+G409
+G409
+LABORATED x
+
+This is frame counter 3315
+the
+Door 0.75
+G409
+G409
+LABORATOR to -
+ss
+
+This is frame counter 3316
+Joor as
+G409
+G409
+LABORATOR 14 INFORMATION
+:
+8
+THE
+
+This is frame counter 3317
+Door 0.00
+G409
+G409
+LABORATOR 14 INFORMATION
+%
+8
+
+This is frame counter 3318
+Door
+0.65
+G409
+G409
+LABORATOR 14 INFORMATICA
+I
+
+This is frame counter 3319
+-
+BOOF 8.88
+G409
+G409
+LANCRAPES 16 INFORMATICA
+8
+
+This is frame counter 3320
+BOOF B.02
+G409
+G409
+LANDSATER 00
+%
+8
+
+This is frame counter 3321
+Door 0.62
+G409
+G409
+LABORATOR 14 INFORMATION
+of
+8
+
+This is frame counter 3322
+serving
+G409
+G409
+is INFORMATION
+%
+1
+*
+
+This is frame counter 3323
+Door 0.80
+G409
+G409
+INFORMATION
+I
+A
+
+This is frame counter 3324
+Door 0.89
+G409
+G409
+INFORMATION
+
+This is frame counter 3325
+the
+Door O.W.
+G409
+G409
+9
+.
+
+This is frame counter 3326
+Door 0.58
+G409
+G409
+INFORMATION
+9
+
+This is frame counter 3327
+B88F 8.88
+G409
+G409
+LABORATOR INFORMATION
+-
+9
+*
+
+This is frame counter 3328
+Door 0.8$
+G409
+G409
+LABORATOR INFORMATION
+%
+-
+-
+0
+.
+=
+
+This is frame counter 3329
+Door 0.68
+G409
+G409
+6X
+LABORATOR to INFORMATION
+:
+THE
+O
+*
+
+This is frame counter 3330
+-
+Door 0.66
+G409
+G409
+GKU
+LABORATOR of INFORMATION
+.
+
+This is frame counter 3331
+G409
+G409
+to INVOICATION
+V
+9
+
+This is frame counter 3332
+-
+G409
+G409
+LABORATE# or INTORNATICA
+1
+
+This is frame counter 3333
+G409
+G409
+LABORATOR of INFORMATICA
+-
+1
+
+This is frame counter 3334
+Door 0.55
+G409
+G409
+LABORATOR to INFORMATION
+%
+9
+
+This is frame counter 3335
+1
+Door 0.58
+G409
+G409
+LARGEATOR 14 INFORMATICA
+oo
+9
+
+This is frame counter 3336
+-
+Door 0.58
+G409
+G409
+LABORATOR 14 INFORMATICA
+%
+9 .
+and
+
+This is frame counter 3337
+G409
+G409
+LAPORATTE or INFORMATICA
+%
+-
+and
+0
+1
+
+This is frame counter 3338
+G409
+G409
+N
+LANIRATOR THE INFORMATICA
+%
+-
+-
+9
+:
+
+This is frame counter 3339
+-
+Door 0.57
+G409
+G409
+T
+LANDRATOR to INFORMATION
+%
+- D
+
+This is frame counter 3340
+peer 6.52
+G409
+G409
+LANGRATES INFORMATICA
+:
+-
+
+This is frame counter 3341
+Deer 0.86
+G409
+G409
+LABORATOR INFORMATICA
+:
+-
+. D
+
+This is frame counter 3342
+Door 0.56
+G409
+G409
+LABORATOR INFORMATION
+:
+-0
+
+This is frame counter 3343
+asy
+G409
+G409
+LAPERATER to INTOBNATICA
+of
+O .
+
+This is frame counter 3344
+Deer 0.87
+G409
+G409
+G409
+LABORATOR 14 INFORMATION
+:
+O .
+
+This is frame counter 3345
+Door 0.73
+G409
+G409
+LABORATOR INFORMATION
+:
+.
+
+This is frame counter 3346
+oor 0.04
+G409
+G409
+LARERATON INFORMATION
+:
+'D .
+
+This is frame counter 3347
+the
+P
+poor
+C.US
+G409
+G409
+LABORATOR INFORMATION
+
+This is frame counter 3348
+0.04
+G409
+G409
+LABORATION INFORMATION
+:
+A
+
+This is frame counter 3349
+RU' 0.88
+G409
+G409
+LARGEATOR to ARTIMATICA
+A
+-
+
+This is frame counter 3350
+oor 0.65
+G409
+G409
+LABORATOR is INFORMATICA
+:
+e -
+a
+
+This is frame counter 3351
+oor 0.87
+G409
+G409
+LARSKATOI to INFORMATICA
+%
+e - -
+E
+
+This is frame counter 3352
+ooor 0.72
+G409
+G409
+LABORATE to IMPERMATICAL
+1
+- - a
+
+This is frame counter 3353
+oor 0.68
+G409
+G409
+LABORATOR " INFORMATION
+A -
+I
+
+This is frame counter 3354
+bor
+0.68
+G409
+G409
+LABORATOR 11 INFORMATION
+%
+A
+$
+
+This is frame counter 3355
+Door 0.70
+G409
+G409
+LANDINATOR or INFORMATIO
+A - -
+or
+
+This is frame counter 3356
+Door 0.69
+G409
+G409
+LABORATOR " INFORMATION
+A -
+a
+
+This is frame counter 3357
+G409
+II
+G409
+LABORATOR 14 INFORMATION
+%
+- - D
+a
+
+This is frame counter 3358
+Door 0.02
+G409
+G409
+LABORATOR DE INFORMATION
+%
+
+This is frame counter 3359
+-
+poor O.SJ
+G409
+G409
+LANIRATOR If
+%
+
+This is frame counter 3360
+bor 0.59
+G409
+G409
+LABORATOR 14 INFORMATICA
+:
+- -
+-
+
+This is frame counter 3361
+Door 0.57
+G409
+G409
+LABORATOR 04 INFORMATICA
+of
+

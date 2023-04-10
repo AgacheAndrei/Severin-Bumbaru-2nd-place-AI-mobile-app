@@ -1,0 +1,22 @@
+Person
+Advertisement
+Shoe
+Indoors
+Disposable Cup
+Backpack
+Switch
+Staircase
+Hardwood
+Sliding Door
+Door
+Poster
+Cup
+White Board
+Floor
+Text
+Document
+Mailbox
+Plant
+Potted Plant
+Window
+Table

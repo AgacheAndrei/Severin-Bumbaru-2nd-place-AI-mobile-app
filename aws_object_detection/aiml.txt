@@ -1,0 +1,2723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    //variabila user = numeUser
+//INCEPUT ----Categoriile de interactiune primara
+
+
+    <category>
+        <pattern>*</pattern>
+        <template>OOPS! You didn't choose an valid option. Please try again!
+        </template>
+    </category>
+     <category>
+        <pattern>^ EXIT ^</pattern>
+       
+        <template>Have a nice day, keep doing human things!
+         <think><set name="topic"></set></think>
+        </template>
+    </category>
+    //SINONIME SRAI
+     <category>
+        <pattern>^ BUNA ^</pattern>
+            <template>
+                 
+                <!--<think><set name="numeUser">unknown</set>.</think>-->
+                <think><set name="topic"></set></think>
+                <image>https://i.pinimg.com/564x/59/6a/1e/596a1e02d10f57e8617922e2263e0d02.jpg</image>
+                <random>
+                    <li>Hi! 😊 </li> 
+                    <li>Hello!😊 </li>
+                    <li>Hello!😊 </li>
+                    <li>Hei! 😊 </li> 
+                </random>
+                I'm Amiri, a chatbot build by a student for students. My purpose is to give you information about React.
+                <delay>1</delay>
+                When you are done with me, type EXIT.
+                <srai>initialbuttons</srai>
+            </template>
+    </category>
+    
+    <category>
+        <pattern>initialbuttons</pattern>
+        <template>
+            <button>
+                <text>I want to learn!</text>
+                     <postback>^ LEARN ^</postback>
+                    
+                 </button>
+                 <button>
+                     <text>Who is you creator?</text>
+                     <postback>^ CREATOR ^</postback>
+                 </button>
+                 <button>
+                     <text>How old are you?</text>
+                     <postback>^ OLD ^</postback>
+                 </button>
+                 <button>
+                     <text>How was your day?</text>
+                     <postback>^ DAY ^</postback>
+                 </button>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ LEARN ^</pattern>
+            <template>
+                 Welcome to the learning zone, first of all, can you tell me your name?
+                <delay>1</delay>
+                    If the name you typed is wrong, type again!
+                
+                 
+                 <learn>
+                     <category>
+                        <pattern>^ MY NAME ^</pattern>
+                             <template>
+                            <condition name="numeUser">
+                             <li value="unknown">You didn't tell me your name</li>
+                             <li value="*">My memory is not this short, you told me your name is <get name="numeUser"/>!</li>
+                        </condition>
+                        
+                            </template>
+                    </category>
+                 </learn>
+                 
+                 <think><think><set name="topic">name</set></think></think>
+                 
+                 <button>
+                    <text>Return main menu!</text>
+                    <postback>^ RETURN TO MAIN MENU ^</postback>
+                 </button>
+            </template>
+        
+       
+    </category>
+     <category>
+            <pattern>^ RETURN TO MAIN MENU ^</pattern>
+            <template><srai>^ BUNA ^</srai></template>
+        </category>
+     <category>
+        <pattern>^ DAY ^</pattern>
+        <template>My day was good, thank you for asking! Nobody cares about the life of a chatbot... 
+        <delay>1</delay>
+        How are you? 
+            <learn>
+                <category>
+                    <pattern>^ I AM ^</pattern>
+                    <template>
+                        Thanks, for sharing with me!
+                        <learn>
+                            <category>
+                                <pattern>^ HOW AM I ^</pattern>
+                                <template>You told me you were <eval><star index="2"/></eval></template>
+                            </category>
+                        </learn>
+                    </template>
+                </category>
+            </learn> 
+            <button>
+                <text>Return main menu!</text>
+                <postback>^ RETURN TO MAIN MENU ^</postback>
+            </button>
+        </template>
+            
+    </category>
+    
+    
+    <category>
+        <pattern>^ CREATOR ^</pattern>
+        <template>I was build by this dude, <bot name="father"/>
+        <button>
+                <text>Return main menu!</text>
+                <postback>^ RETURN TO MAIN MENU ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ OLD ^</pattern>
+        <template><bot name="age"/> <delay/>
+        How old are you?
+        <learn>
+            <category>
+                
+                    <pattern>^ I AM ^</pattern>
+                    <template>
+                        Thanks, for sharing with me!
+                        <learn>
+                            <category>
+                                <pattern>^ MY AGE ^</pattern>
+                                <template>You told me you were <eval><star index="2"/></eval></template>
+                            </category>
+                             <category>
+                                <pattern>^ HOW OLD ^</pattern>
+                                <template>You told me you were <eval><star index="2"/></eval></template>
+                            </category>
+                        </learn>
+                    </template>
+                </category>
+                <category>
+                    <pattern>*</pattern>
+                    <template>
+                        Thanks, for sharing with me!
+                        <learn>
+                            <category>
+                                <pattern>^ MY AGE ^</pattern>
+                                <template>You told me you were <eval><star/></eval></template>
+                            </category>
+                             <category>
+                                <pattern>^ HOW OLD ^</pattern>
+                                <template>You told me you were <eval><star index="1"/></eval></template>
+                            </category>
+                        </learn>
+                    </template>
+                </category>
+        </learn>
+        <button>
+                <text>Return main menu!</text>
+                <postback>^ RETURN TO MAIN MENU ^</postback>
+            </button>
+        </template>
+        
+    </category>
+    
+    //eng
+    <category>
+        <pattern>^ HELLO ^</pattern>
+            <template>
+                 <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+    <category>
+        <pattern>^ GOOD EVENING ^</pattern>
+            <template>
+                 <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+    <category>
+        <pattern>^ GOOD MORNING ^</pattern>
+            <template>
+                 <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+     <category>
+        <pattern>^ HI ^</pattern>
+            <template>
+                <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+     <category>
+        <pattern>^ GREETINGS ^</pattern>
+            <template>
+                <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+    <category>
+        <pattern>^ MORNING ^</pattern>
+            <template>
+                <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+     <category>
+        <pattern>^ HEY ^</pattern>
+            <template>
+                <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+    <category>
+        <pattern>^ HEI ^</pattern>
+            <template>
+                <srai>^ BUNA ^</srai>
+            </template>
+    </category>
+ 
+//FINAL ---- Categoriile de interactiune primara
+
+  //Categoriile de interactiune cu user-ul pe baza numelui 
+ <topic name="name">
+    
+    //eng 
+
+    <category>
+        <pattern>^ MY NAME IS *</pattern>
+            <template> <think>
+            <set name="numeUser"> <star index="2"/> </set>.
+            </think>
+             <srai>gotoreactsection</srai>
+             </template>
+    </category>
+    
+    <category>
+        <pattern>^ I AM *</pattern>
+            <template> <think>
+            <set name="numeUser"><star index="2"/> </set>.
+            </think>
+             <srai>gotoreactsection</srai>
+             </template>
+    </category>
+    
+    <category>
+        <pattern>*</pattern>
+            <template> 
+            <think>
+             <set name="numeUser"> <star/> </set>.
+            </think>
+            <srai>gotoreactsection</srai>
+             </template>
+    </category>
+    
+    <category>
+        <pattern>gotoreactsection</pattern>
+        <template>
+            <condition name="numeUser">
+                <li value="unknown">Please tell me your name!</li>
+                <li value="*">Nice to meet you<get name="numeUser"></get>, I will guide you in your learning journey.
+                Please select one of the fallowing sections:
+                </li>
+             </condition>
+                <button>
+                    <text>General information about React</text>
+                    <postback>^ GENERAL ^</postback>
+                </button>
+                  <button>
+                    <text>Tehnical information about React</text>
+                    <postback>^ TEHNIC ^</postback>
+                </button>
+                 <button>
+                     <text>Return main menu!</text>
+                     <postback>^ RETURN TO MAIN MENU ^</postback>
+                </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>welcomeback</pattern>
+       <template>
+            <condition name="numeUser">
+                <li value="unknown">Please tell me your name!</li>
+                <li value="*">Hi,<get name="numeUser"></get>! Please select one of the following sections:</li>
+             </condition>
+                <button>
+                    <text>General information about React</text>
+                    <postback>^ GENERAL ^</postback>
+                </button>
+                <button>
+                    <text>Technical information about React</text>
+                    <postback>^ TEHNIC ^</postback>
+                </button>
+                <button>
+                     <text>Return main menu!</text>
+                     <postback>^ RETURN TO MAIN MENU ^</postback>
+                </button>
+        </template>
+    </category>
+    
+  
+    <category>
+        <pattern>^ GENERAL ^</pattern>
+        <template>
+            Welcome to General information about react. <split/> Please choose one of the fallowing categories:
+            <think><set name="topic">REACTGEN</set></think>
+            <srai>reactgeneralbuttons</srai>
+        </template>
+    </category>
+    
+     <category>
+        <pattern>^ TEHNIC ^</pattern>
+        <template>
+            Welcome to Tehnical information about react. <split/> Please choose one of the fallowing categories:
+           <think><set name="topic">REACTTEH</set></think>
+            <srai>reacttehnicalbuttons</srai>
+        </template>
+    </category>
+ </topic>
+    
+<topic name="REACTGEN">
+    <category>
+        <pattern>reactgeneralbuttons</pattern>
+        <template>
+             <button>
+                 <text>What is React?</text>
+                 <postback>^ REACT ^></postback>
+             </button>
+             <button>
+                 <text>Who created React?</text>
+                 <postback>^ CREATED REACT ^></postback>
+             </button>
+              <button>
+                 <text>Who maintains React?</text>
+                 <postback>^ MAINTAINS REACT ^></postback>
+             </button>
+              <button>
+                 <text>What is "software"?</text>
+                 <postback>^ SOFTWARE ^></postback>
+             </button>
+             <button>
+                 <text>Is React popular?</text>
+                 <postback>^ POPULAR ^></postback>
+             </button>
+              <button>
+                 <text>What is the usage of React?</text>
+                 <postback>^ USAGE ^></postback>
+             </button>
+              <button>
+                 <text>What can I build with React?</text>
+                 <postback>^ BUILD ^></postback>
+             </button>
+             <button>
+                <text>Return to the welcoming area! </text>
+                <postback>^ WELCOME ^</postback>
+                </button>
+              <button>
+                    <text>Exit the chat!</text>
+                    <postback>^ EXIT ^</postback>
+              </button>
+        </template>
+    </category>
+    <category>
+        <pattern>^ MAINTAINS REACT ^</pattern>
+        <template>
+            React is currently maintained by Facebook and a community of individual developers.
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        
+        </template>
+    </category>
+    //Who created React?
+    <category>
+        <pattern>^ CREATED REACT ^</pattern>
+        <template>
+        React was created by a group of researcher at Facebook.
+         <image>https://lh3.googleusercontent.com/RRoj2ZB8dmaJdja3VsFtGEHF6vxxODhqPmHZ7hpMqEb-tK4TXgB9oMr3TMJ9JGjX30-JXvRLsh8MFLy8rqnldX5rqAS8ITen-f1YVuZ5</image>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    //What can i build with React?
+    <category>
+        <pattern>^ BUILD ^</pattern>
+        <template>
+            <link>
+                <text>Exemples</text>
+                <url>https://www.fastcomet.com/blog/what-can-i-build-with-react-jshttps://www.fastcomet.com/blog/what-can-i-build-with-react-js</url>
+            </link>
+            React can be used to build a variety of applications including:
+            <delay>1</delay>
+            <ul>
+                <li>Web apps</li>
+                <li>Mobile apps</li>
+                <li>Desktop apps</li>
+            </ul>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    
+    //What is the USAGE OF REACT?
+    <category>
+        <pattern>^ USAGE ^</pattern>
+        <template>Building complex UIs by breaking them smaller and reusable components!
+         <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button></template>
+    </category>
+    
+    //IS REACT POPULAR?
+    <category>
+        <pattern>^ POPULAR ^</pattern>
+        <template>
+            Yes, React is widly used in the tech comunity to build fast and robust apps.
+            <delay>1</delay>
+            Is used by a wide range of developers!
+            <delay>1</delay>
+            Big companies like:
+            <carousel>
+                <card>
+                    <image>https://lh3.googleusercontent.com/RRoj2ZB8dmaJdja3VsFtGEHF6vxxODhqPmHZ7hpMqEb-tK4TXgB9oMr3TMJ9JGjX30-JXvRLsh8MFLy8rqnldX5rqAS8ITen-f1YVuZ5</image>
+                    <title>Facebook</title>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/kgv6L1O4mUZTp5KpbxroTz9EcLlybKiZ9fdMBZOmwV9nH5gxdMMruELfSTFKJOMQ8CzDHSUn2elOqT2JYEf5L9_ZTch8z3ShTxA76i0jNQ</image>
+                    <title>Netflix</title>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/-fxWy6JwDu5K2t6J1aGZuIwEr-0QDH8XE98OkKkyn8mAPf_hU2Mp17ZmKrpX5_smjCGi05lARWwweDlhqLt0uTv2KUmTrpOCgrb1MeL6</image>
+                    <title>Airbnb</title>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/mkHLMVrGbUaXONh1b00NjrI_lx-QCkGRcFLEqvnb2zw88idsGkmFcjaVZeRnxZ6vhp6lRi1BEb161VBM8AvEPqEb_skLv_fF4EqIGwy9</image>
+                    <title>More Companies</title>
+                    <button>
+                        <text>More!</text>
+                        <url>https://www.bigscal.com/blogs/frontend-technology/top-companies-using-react-js-services-to-their-best/</url>
+                    </button>
+                </card>
+            </carousel>
+            <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    
+    ///WHAT IS SOFTWARE
+    <category>
+        <pattern>^ SOFTWARE ^</pattern>
+        <template>
+            The software is  a set of instructions or programs with the purpose to tell a electronic what to do.
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    //WHAT IS REACT BRANCH
+    <category>
+        <pattern>^ REACT ^ </pattern>
+        <template>
+          React is a front-end JavaScript library for building user interfaces!
+           <button>
+                <text>Learn more about front-end </text>
+                <postback>^ FRONTEND ^</postback>
+            </button>
+            <button>
+                <text>Learn more about libraries </text>
+                <postback>^ LIBRARY ^</postback>
+            </button>
+            <button>
+                <text>Learn more about user interfaces </text>
+                <postback>^ USER INTERFACE ^</postback>
+            </button>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ FRONTEND ^</pattern>
+        <template>Front-end means the development of the UI by building graphical components of a software.
+        <button>
+                <text>Learn more about graphical components </text>
+                <postback>^ GRAPHICAL COMPONENTS ^</postback>
+            </button>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+       
+    </category>
+    
+    <category>
+        <pattern>^ GRAPHICAL COMPONENTS ^</pattern>
+        <template>The graphical component are a set of basic visual elements of the graphic.
+        
+        <button>
+            <text>Learn more about visual elements</text>
+            <postback>^ VISUAL ELEMENTS ^</postback>
+        </button>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+     <category>
+        <pattern>^ VISUAL ELEMENTS ^</pattern>
+        <template>
+        The visual elements are used to display and interact with the UI.
+         <button>
+            <text>Learn more about how the visual elements display</text>
+            <postback>^ DISPLAY VISUAL ELEMENTS ^</postback>
+        </button>
+        <button>
+            <text>Learn more about how the visual elements interact</text>
+            <postback>^ INTERACT VISUAL ELEMENTS ^</postback>
+        </button>
+        <button>
+            <text>Exemples of visual elements </text>
+            <postback>^ EXEMPLES VISUAL ELEMENTS ^</postback>
+        </button>
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    <category>
+        <pattern>^ DISPLAY VISUAL ELEMENTS ^</pattern>
+        <template>
+            Visual elemets display:
+            <delay>1</delay>
+            <ul>
+                <li>Information</li>
+                <li>Data</li>
+                <li>Functionality</li>
+            </ul>
+            <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+
+        
+    </category>
+    <category>
+        <pattern>^ INTERACT VISUAL ELEMENTS ^</pattern>
+        <template>
+            Visual elemets engage with the app and manipulate the app.
+            <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ EXEMPLES VISUAL ELEMENTS ^</pattern>
+        <template>
+            <carousel>
+                <card>
+                    <image>https://lh3.googleusercontent.com/K1vG_nYRvjGhFTc9PXsRzVYf2ECf00teXpjUWZ0VGOKCNp9S8n9Z2aUwxNJd3MwYSZBWbx1-MzcO-NyvT1MnHbcHiZR-uawQ3GCQJNMwPA</image>
+                    <title>Line</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/3yfvoglyoG5tqkBX-a0AihouGsnGBvE9fWp-Oj9cc3GZ3Z5UJiTZZfU19-seFjLUi86CR3VDahsYxbqwf8sEaI0KV-EBXBXWCF3fDOQ</image>
+                    <title>Form</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/eKPBPyex5sJVgaGaFcMS4d8sfhOnClkkUSFpdPxWcSmhK70LyUUwQ-_2I4V6pv-N4YUvjq3MVU06tk7Xdg4cnt6GYHfrT5-J3iLCT60</image>
+                    <title>Color</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                 <card>
+                    <image>https://lh3.googleusercontent.com/UjFjtYYlHoKiGh5IxLHyBX4v34wGinzNN9fz2W8ThUPDRk20jqEiksVfaPfwf9l-EpPybOpeFgieZDurm5UjddwdqNsmacqkcir4vFDe</image>
+                    <title>Shape</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                 <card>
+                    <image>https://lh3.googleusercontent.com/zyR9lszSaRfAkxz1OuNwRufDIx84HVwsGM2Igw6nX4W3ci_sKSVXn50GgPFMeatIum-35o6D3wCMZDsocL9A5YBLAw2fucmvBsCBt0ks4w</image>
+                    <title>Space</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                  <card>
+                    <image>https://lh3.googleusercontent.com/0LmqgWMHVgYH-dqOQI7yE5G3IuhdcrRIvasq5QlWqDt52EmjFlaNjmN_IeNdzoFD3D6RKolpUnh7MRZ-ycB05_qsyxojjHtDf4VaZNdn</image>
+                    <title>Texture</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+                <card>
+                    <image>https://lh3.googleusercontent.com/6b34NowvDlNbbILv0bN0gRuZA6vgtPwu-WlIARu6IupPQ6BW4jWuudqGSW1eozkuDTZqJW_pTmPRoYKpkR2V1CE13hSq-WbzviCmaPgWMg</image>
+                    <title>Value</title>
+                    <button>
+                        <text>More info!</text>
+                        <url>https://en.wikipedia.org/wiki/Visual_design_elements_and_principles</url>
+                    </button>
+                </card>
+            </carousel>
+            <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+    <category>
+        <pattern>^ LIBRARY ^</pattern>
+        <template>A library is a collection of pre-written code that can be used to simplify the development of software applications.
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+       
+    </category>
+    <category>
+        <pattern>^  USER INTERFACE ^</pattern>
+        <template> User Interface (UI), is the visual part of a software application that users interact with.
+        <button>
+            <text>Return to the general area!</text>
+            <postback>reactgeneralbuttons</postback>
+        </button>
+        
+        <button>
+            <text>Exit the chat!</text>
+            <postback>^ EXIT ^</postback>
+        </button>
+        </template>
+    </category>
+        //return to welcome back area
+    <category>
+        <pattern>^ WELCOME ^</pattern>
+        <template>
+            <think><set name="topic">name</set></think>
+            <srai>welcomeback</srai>
+        </template>
+    </category>
+    
+</topic>
+
+
+
+<topic name="REACTTEH">
+    <category>
+        <pattern>reacttehnicalbuttons</pattern>
+    
+           <template>
+             
+             <button>
+                <text>What are the proprieties of React?</text>
+                <postback>^ PROPRIETIES ^</postback>
+            </button>
+            
+            <button>
+                <text>The modern way to build apps</text>
+                <postback>^ MODERN ^</postback>
+            </button>
+             
+             <button>
+                <text>Return to the welcoming area! </text>
+                <postback>^ WELCOME ^</postback>
+                </button>
+
+              <button>
+                    <text>Exit the chat!</text>
+                    <postback>^ EXIT ^</postback>
+              </button>
+        </template>
+    </category>
+    
+    
+    //The modern way to build apps
+    <category>
+        <pattern>^ MODERN ^</pattern>
+        <template>
+            React is a modern way to build apps with beutifuls UIs with componets created with the JSX synatx and by respecting an programming model.
+            
+             <button>
+               <text>What is JSX?</text>
+                <postback>^ JSX ^</postback>
+            </button>
+            
+             <button>
+               <text>What is an programing method?</text>
+                <postback>^ programing method ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+      //What is an programing method?
+    <category>
+        <pattern>^ programing method ^</pattern>
+        <template>
+            
+            A programming model refers to the conceptual framework and the set of rules that govern the way software components interact with each other to achieve a specific objective.
+            
+            <button>
+               <text>The programing model used in React</text>
+                <postback>^ programming model ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //The programing model used in React
+    <category>
+        <pattern>^ programming model ^</pattern>
+        <template>
+            
+            The programming model used in React is called Virtual DOM.
+            
+            <button>
+               <text>What is the virtual DOM?</text>
+                <postback>^ virtual DOM ^</postback>
+            </button>
+            
+            <button>
+               <text>Usage of virtual DOM</text>
+                <postback>^ usage ^ virtual DOM ^</postback>
+            </button>
+            
+             <button>
+               <text>Virtual DOM behavior</text>
+                <postback>^ behavior ^ Virtual DOM  ^</postback>
+            </button>
+            
+            <button>
+               <text>What are the virtual DOM advantages?</text>
+                <postback>^ advantages ^ Virtual DOM  ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What are the virtual DOM advantages?
+    <category>
+        <pattern>^ advantages ^ Virtual DOM  ^</pattern>
+        <template>
+            Efficiently update the UI giving benefits like faster rendering and improved performance.
+            
+             <button>
+               <text>How the virtual DOM works?</text>
+                <postback>^ virtual DOM works ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>^ virtual DOM works ^</pattern>
+        <template>
+            The process consist in comparing the previos and current states of the UI only to render the necessary changes.
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    //Virtual DOM behavior
+    <category>
+        <pattern>^ behavior ^ virtual DOM  </pattern>
+        <template>
+            
+            Enables efficient updates to the UI and minimizing the number of changes that need to be made to the actual DOM.
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+           
+            
+        </template>
+    </category>
+    
+    //Usage of virtual DOM
+    <category>
+        <pattern>^ usage ^ virtual DOM ^</pattern>
+        <template>
+           Is used by React to update the UI efficiently.
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            </template>
+    </category>
+    
+    //What is the virtual DOM?
+    <category>
+        <pattern>^ virtual DOM ^</pattern>
+        <template>
+            Represent a lightweight copy of the actual DOM, capable of hot reload.
+            
+            <button>
+               <text>What is Hot Reload</text>
+                <postback>^ Hot Reload ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            </template>
+    </category>
+    
+    //What is Hot Reload
+    <category>
+        <pattern>^ Hot Reload ^</pattern>
+        <template>
+            The process consist in comparing the previos and current states of the UI only to render the necessary changes.
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+     //What is JSX?
+    <category>
+        <pattern>^ JSX ^</pattern>
+        <template>
+            JSX is a extension for JavaScript used to write HTML-like code within their JavaScript code by developers.
+            
+            <button>
+               <text>What is JSX syntax?</text>
+                <postback>^ JSX SYNTAX ^</postback>
+            </button>
+            
+             <button>
+               <text>What the HTML like tags do?</text>
+                <postback>^ HTML like tags ^</postback>
+            </button>
+            
+            <button>
+               <text>Benefits of JSX</text>
+                <postback>^ Benefits of JSX ^</postback>
+            </button>
+            
+             <button>
+               <text>Limitations of JSX</text>
+                <postback>^ Limitations of JSX ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    
+     //Limitations of JSX
+    <category>
+        <pattern>^ Limitations of JSX ^</pattern>
+        <template>
+            In JSX can be harder to separate concerns. 
+            <split/>
+            Concerns = set of information that has an effect on the code of a computer program
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+     //Benefits of JSX
+    <category>
+        <pattern>^ Benefits of JSX ^</pattern>
+        <template>
+            The benefits of using JSX are: 
+            <split/>
+            <ul>
+                <li>Help you write more concise </li>
+                <li>Readable code and easy maintain.</li>
+            </ul>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What the HTML-like tags do?
+    <category>
+        <pattern>^ HTML like tags ^</pattern>
+        <template>
+            The HTMl-like tags define the structure of the components and the content of them.
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What is JSX syntax?
+    <category>
+        <pattern>^ JSX SYNTAX ^</pattern>
+        <template>
+            JSX use HTML-like tags that are translated into JS functions calls.
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    
+    //What are the proprieties of React?
+    <category>
+        <pattern>^ PROPRIETIES ^</pattern>
+        <template>
+            React is a modern way to buil UI white proprieties like:
+            <split/>
+            Chose one button to learn more about the topic you are interested in! 
+            <split/>
+            <button>
+                <text>Easy to learn</text>
+                <postback>^ EASY TO LEARN ^</postback>
+            </button>
+            <button>
+                <text>Learn once, write anyware</text>
+                <postback>^ Learn once, write anyware ^</postback>
+            </button>
+            <button>
+                <text>Component base arhitecture</text>
+                <postback>^ component base arhitecture ^</postback>
+            </button>
+            <button>
+                <text>With one-way data flow</text>
+                <postback>^ With one way data flow ^</postback>
+            </button>
+            <button>
+                <text>Declarative library</text>
+                <postback>^ Declarative ^</postback>
+            </button>
+             <button>
+                <text>Hooks</text>
+                <postback>^ HOOKS ^</postback>
+            </button>
+            <button>
+                <text>State management for efficiency</text>
+                <postback>^ State management ^</postback>
+            </button>
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //Learn once, write anyware
+    <category>
+        <pattern>^ Learn once, write anyware ^</pattern>
+        <template>
+            "Learn once, write anywhere" is a slogan that suggests that once you learn React, you can use that knowledge to build applications for various platforms. 
+            <delay>1</delay>
+            Such as web, mobile, and desktop, without needing to learn a new programming language or framework.
+            
+            <button>
+                <text>How does React achieve "learn once, write anywhere"?</text>
+                <postback>^ react achive ^ learn once, write anywhere ^</postback>
+            </button>
+            
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    //How does React achieve "learn once, write anywhere"?
+        <category>
+            <pattern>^ react achive ^ learn once, write anywhere ^</pattern>
+            <template>
+                React achieves "learn once, write anywhere" by using a declarative programming model and a component-based architecture that allows you to reuse code across different platforms.
+                <delay>1</delay>
+                Like developing new feutures for your apps, server side rendering with Node.js, and powers de development of mobile apps using React Native.
+            
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            </template>
+        </category>
+        
+        //What is component-base arhitecture?
+        <category>
+            <pattern>^ component base arhitecture ^</pattern>
+            <template>
+               In React component-base arhitecture means the process of breaking complex Uis into smaller and reusable react components making easy to maintain large-scale applications.
+
+            <button>
+                <text>How React achive the component base arhitecture?</text>
+                <postback>^ React achive ^ component base arhitecture ^</postback>
+            </button>
+            
+            <button>
+                <text>What are React components?</text>
+                <postback>^ React components ^</postback>
+            </button>
+            
+            <button>
+                <text>What types of React components exist?</text>
+                <postback>^ types ^ React components ^</postback>
+            </button>
+            
+             <button>
+                <text>Learn more about the own state of React components</text>
+                <postback>^ own state ^ React components ^</postback>
+            </button>
+            
+             <button>
+                <text>Benefits React components</text>
+                <postback>^ Benefits ^ React components ^</postback>
+            </button>
+            
+            <button>
+                <text>Error handeling in React</text>
+                <postback>^ Error ^ React ^</postback>
+            </button>
+            
+            <button>
+                <text>Lifecycle in React</text>
+                <postback>^ Lifecycle ^ React ^</postback>
+            </button>
+            
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        //Lifecycle in React
+        <category>
+            <pattern>^ Lifecycle ^ React ^</pattern>
+            <template>
+                The lifecycle in React refers to the series of stages that a React component goes through during its existence.
+            
+             <button>
+                <text>How the lifecycle works in React?</text>
+                <postback>^ lifecycle ^ works ^ React ^</postback>
+            </button> 
+            
+             <button>
+                <text>What are the stateges of an react component?</text>
+                <postback>^ stateges ^ React ^</postback>
+            </button> 
+            
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        //What are the stateges of an react component?
+        <category>
+            <pattern>^ stateges ^ React ^</pattern>
+            <template>
+              These stages include creation, mounting, updating, and unmounting of each component.
+            
+            <button>
+                <text>More about creation</text>
+                <postback>^ creation ^</postback>
+            </button>
+            
+             <button>
+                <text>More about mounting</text>
+                <postback>^ mount ^</postback>
+            </button>
+            
+             <button>
+                <text>More about updating</text>
+                <postback>^ update ^</postback>
+            </button> 
+            
+             <button>
+                <text>More about unmounting</text>
+                <postback>^ unmount ^</postback>
+            </button> 
+              
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        
+        //What is unmount of an component?
+        <category>
+            <pattern>^ unmount ^</pattern>
+            <template>
+              Is the moment when the component is removed from the DOM, in other words deleted.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        
+        //What is update of an component?
+        <category>
+            <pattern>^ update ^</pattern>
+            <template>
+              Is the moment when a component state or props change and we need to re-render the component.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        
+        //What is mount of an component?
+        <category>
+            <pattern>^ mount ^</pattern>
+            <template>
+               Is the moment when the component is inserted into the DOM
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        
+        //What is creation of an component?
+        <category>
+            <pattern>^ creation ^</pattern>
+            <template>
+                Is the moment when a special function called constructor is invoked and the componets is created whit the necessary data.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+            </template>
+        </category>
+        
+        //How the lifecycle works in React?
+        <category>
+            <pattern>^ lifecycle ^ works ^ React ^</pattern>
+            <template>
+                The lifecycle functions are invoked automatically by React.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        
+        //Error handeling in React
+        <category>
+            <pattern>^ Error ^ React ^</pattern>
+            <template>
+                Error handling in React refers to the process of detecting, reporting, and handling errors that occur during the execution of a React application. 
+                <delay>1</delay>
+                These errors can occur due to a variety of reasons such as network failures, runtime errors, or invalid user input. 
+                <delay>1</delay>
+                React provides various mechanisms for handling errors in a controlled manner, preventing the application from crashing and ensuring a better user experience.
+            
+            <button>
+                <text>How the error handeling is managed?</text>
+                <postback>^ error ^ handeling ^</postback>
+            </button>
+            
+             <button>
+                <text>Whice are the stages of execution in a react app?</text>
+                <postback>^ stages ^ executions ^</postback>
+            </button>
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        //How the error handeling is managed?
+        <category>
+            <pattern>^ error ^ handeling ^</pattern>
+            <template>
+                The error handeling is managed by using functions like componentDidCatch and getDerivedStateFromError.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        
+        //Whice are the stages of execution in a react app?
+        <category>
+            <pattern>^ stages ^ executions ^</pattern>
+            <template>
+               The stages are rendering (creation)  of the UI elements, updating Ui elementrs, unmounting means deleting the UI elements 
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+                
+            </template>
+        </category>
+        
+        //Benefits React components
+        <category>
+            <pattern>^ Benefits ^ React components ^</pattern>
+            <template>
+                React components benefits are:
+                <ul>
+                    <li>reusability</li>
+                    <li>properties are inputs in the components that are passed down from the parent component</li>
+                    <li>read-only properties cannot be modiefied by the components itself</li>
+                </ul>
+                
+            <button>
+                <text>More about properties in React components</text>
+                <postback>^ Properties ^ React components ^</postback>
+            </button>
+            
+            <button>
+                <text>More about reusability in React components</text>
+                <postback>^ reusability ^ React components ^</postback>
+            </button>
+            
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+            </template>
+        </category>
+        //More about reusability in React components
+        
+        <category>
+            <pattern>^ reusability ^ React components ^</pattern>
+            <template>
+                Reusability means that can the component can be used across multiple applications.
+                <delay>1</delay>
+                Can be combined to create complex Uis by the developers who can build modualr applications whice are scalable and can be easy maintained.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+            </template>
+        </category>
+        
+         //Properties React components
+        <category>
+            <pattern>^ Properties ^ React components ^</pattern>
+            <template>
+                Properties are inputs to the component that are passed down from the parent component. 
+                <delay>1</delay>
+                They are read-only properties, which means they cannot be modified by the component itself.
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+            </template>
+        </category>
+        //Learn more about the own state of React components
+        <category>
+            <pattern>^ own state ^ React components ^</pattern>
+            <template>
+                The state is used to represent the current state of the component, such as data that may change over time based on user interactions or other events. 
+                <delay>1</delay>
+                It is updated using the setState method, which triggers a re-render of the component and its children.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        
+        //What are React components?
+        <category>
+            <pattern>^ React components ^</pattern>
+            <template>
+                
+                React components are building blocks of a React application that represent a reusable piece of UI, which can be composed together to form a larger UI. 
+                <delay>1</delay>
+                They can be defined as either functional or class components.
+                <delay>1</delay>
+                Are responsible for rendering the user interface based on the input props and the internal state of the component.
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        //What types of React components exist?
+        <category>
+            <pattern>^ types ^ React components ^</pattern>
+            <template>
+                We can find 2 basic types of react components like class components and functional components.
+                <delay>1</delay>
+                A functional component can be an HOC component.
+                
+             <button>
+                <text>Learn more about React functional components</text>
+                <postback>^ functional components ^</postback>
+            </button>
+            
+             <button>
+                <text>Learn more about HOC</text>
+                <postback>^ HOC ^</postback>
+            </button>
+            
+             <button>
+                <text>Learn more about React class components</text>
+                <postback>^ class components ^</postback>
+            </button>
+            
+            <button>
+                <text>What are the diffrence between functional components and class components?</text>
+                <postback>^ diffrence ^ functional components ^ class components ^</postback>
+            </button>
+            
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>   
+            </template>
+        </category>
+        //What are the diffrence between functional components and class components?
+        <category>
+            <pattern>^ diffrence ^ functional components ^ class components ^</pattern>
+            <template>
+                
+                Functional components are defined as functions and have no state or lifecycle methods (before React v16.8).
+                 <delay>1</delay>
+                They're shorter and easier to read, and used for simple components. 
+                <delay>1</delay>
+                Class components are defined as classes and have state and lifecycle methods.
+                 <delay>1</delay>
+                They're longer and more complex, and used for more complex components.
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>   
+                
+            </template>
+        </category>
+        //Learn more about React class components
+        <category>
+            <pattern>^ class components ^</pattern>
+            <template>
+                Class components are a type of React component that is defined as a JavaScript class. 
+                <delay>1</delay>
+                Is responsible for rendering a part of the UI based on the input props and the internal state of the component generating complex components.
+            
+            <button>
+                <text>What kind of elements can be built using class components?</text>
+                <postback>^ elements built ^ class components ^</postback>
+            </button> 
+             
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>   
+                
+            </template>
+        </category>
+        //What kind of elements can be built using class components?
+        <category>
+            <pattern>^ elements built ^ class components ^</pattern>
+            <template>
+                Class components can be used to build large and complex elements of a UI, as well as elements with dynamic behavior that respond to user interaction. 
+                 <delay>1</delay>
+                They are often used to build forms, animations, and other interactive elements of a web application.
+                
+            <button>
+                <text>What is the purpose of the state in class components?</text>
+                <postback>^ state ^ class components ^</postback>
+            </button>   
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+                
+            </template>
+        </category>
+        //What is the purpose of the state in class components?
+        <category>
+            <pattern>^ state ^ class components ^</pattern>
+            <template>
+                The state in class components represents the current state of the component, and is used to store data that can change over time. 
+                <delay>1</delay>
+                It allows the component to update the UI based on changes to the data, without requiring a page refresh by using methods that update the state.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+                
+            </template>
+        </category>
+        
+        
+        //Learn more about HOC
+        <category>
+            <pattern>^ HOC ^</pattern>
+            <template>
+                In react HOC are function that takes a component and returns a new component with enhanced functionality.
+            
+            <button>
+                <text>Where do we use HOC?</text>
+                <postback>^ use ^ HOC ^</postback>
+            </button>
+            
+            <button>
+                <text>HOC acronym</text>
+                <postback>^ HOC acronym ^</postback>
+            </button>
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+                
+            </template>
+        </category>
+        
+        //where do we use HOC
+        <category>
+            <pattern>^ use ^ HOC ^</pattern>
+            <template>
+                HOC are used to share common functionality between components, having the benefit of stoping the code repetions from the components.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+                
+            </template>
+        </category>
+        
+        //HOC acronym
+        <category>
+            <pattern>^ HOC acronym ^</pattern>
+            <template>
+                HOC is an acronym for higher-order component.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>  
+                
+            </template>
+        </category>
+        
+        
+        //Lear more about React functional components
+        <category>
+            <pattern>^ functional components ^</pattern>
+            <template>
+                
+                React functional componets are simple components written as functions that take prorietes as inputs and return React elements that describe the UIs.
+                
+            <button>
+                <text>What react functional components build?</text>
+                <postback>^ functional components build ^</postback>
+            </button>
+            
+  
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>   
+            </template>
+        </category>
+        
+        //What react functional components build?
+        <category>
+            <pattern>^ functional components build ^</pattern>
+            <template>
+                The react functional components build small elements and simple elements of the UI.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>   
+                
+            </template>
+        </category>
+        
+        //How React achive the component base arhitecture?
+        <category>
+            <pattern>^ React achive ^ component base arhitecture ^</pattern>
+            <template>
+                
+                React achive the arhitecture by building small encapsualted components which can manage their own state.
+                <delay>1</delay>
+                The logic is written in JavaScript which helps in passing rich data components easily and keep the state out of DOM.
+                
+                
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button> 
+                
+            </template>
+        </category>
+        
+     //easy to learn  
+    <category>
+        <pattern>^ EASY TO LEARN ^</pattern>
+        <template>
+            React is considered beginer friendly and easy to learn. 
+            <split/>
+            The library has a great documentation with an active comunilty and is very easy to find answers online.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+
+    //With one-way data flow
+    <category>
+        <pattern>^ With one way data flow ^</pattern>
+        <template>
+         The one-way data flow is represented within a rule,  data flows from the parent component to its child components and not vice versa.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Declarative library 
+    <category>
+        <pattern>^ Declarative ^</pattern>
+        <template>
+           Declarative code in React is code that describes what should happen, rather than how it should happen.
+           
+            <button>
+                <text>Properties of declarative code in React</text>
+                <postback>^ Properties of declarative code ^</postback>
+            </button>
+
+             <button>
+                <text>Where is declarative code used to?</text>
+                <postback>^ declarative code used ^</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Where is declarative code used to?
+     <category>
+        <pattern>^ declarative code used ^</pattern>
+        <template>
+            In creating in a easy way interactiv UIs and designs.
+            
+            <button>
+               <text>How does declarative code make it easy to create interactive UIs in React?</text>
+                <postback>^ create interactive UIs in React ^</postback>
+            </button>
+            <button>
+               <text>What declarative code design?</text>
+                <postback>^ declarative code design ^</postback>
+            </button>
+            
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What declarative code design?
+    <category>
+        <pattern>^ declarative code design ^</pattern>
+        <template>
+          The declative code design simple views whice are used present information to user a easy way to understand and interact.
+            
+             <button>
+               <text>What is a view?</text>
+                <postback>^ view ^</postback>
+            </button>
+            
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What is a view?
+     <category>
+        <pattern>^ view ^</pattern>
+        <template>
+          View refers to a graphical represenation in a UI of data and information.
+           <button>
+               <text>Exemples of simple views?</text>
+                <postback>^ exemples of views ^</postback>
+            </button>
+            
+             <button>
+               <text>Where are the views used or created?</text>
+                <postback>^ views used or created ^</postback>
+            </button>
+             
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Where are the views used or created?
+     <category>
+        <pattern>^ views used or created ^</pattern>
+        <template>
+          The views are created or used for each app state.
+          
+            <button>
+               <text>What is app state?</text>
+                <postback>^ app state ^</postback>
+            </button>
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //What is app state?
+     <category>
+        <pattern>^ app state ^</pattern>
+        <template>
+         The app state is the curent condition of a software application.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Exemples of simple views?
+     <category>
+        <pattern>^ exemples of views ^</pattern>
+        <template>
+          The most used simple views are:
+          <carousel>
+              <card>
+                  <image>https://lh3.googleusercontent.com/8dLj6U7GmUvJgkOjExL6uwnB48VFtfuefYoiOLF1XuFNKsAGGwLa7KG1riZysfkAhmAlhJW021iQtPfiQeZqsC8vKWOr8xXtHfw_nc49</image>
+                  <title>Form</title>
+              </card>
+               <card>
+                  <image>https://lh3.googleusercontent.com/5lokohajrGZbv5rrKZ5Fa23KKQFwJFiBawVzGfM79g-7Ug6PtWx2Y6ry3q5G4s6ztgoOGS58SNH_-q14MRFEcU4VOlOya6K993wbuO6x</image>
+                  <title>Chart</title>
+              </card>
+               <card>
+                  <image>https://lh3.googleusercontent.com/KdJia1stV6Neh0MmlGFyGs7BAnTqpu3pFe1IVXKbyA1LL2_PPZagwuSxen5Tgts3AtvcBIDLHXD98Iqm0t0CZFll1_Nhib_8CYTUWqzn</image>
+                  <title>Table</title>
+              </card>
+               <card>
+                  <image>https://lh3.googleusercontent.com/ikeZIeh6DX5DsJlnY57wTMo0V1Kc8wU1zS6V9Q_pfEYNgtaYcz4AKsymuPDUFaU65XEQXDjqEdycNc8QsZMT5b7DXG_LFu90FLFS5PKV</image>
+                  <title>Other visual elemets</title>
+                  <button>
+                      <text>More visual elements!</text>
+                      <url>https://uxplanet.org/7-visual-elements-of-design-bbd56eb063e9</url>
+                  </button>
+              </card>
+          </carousel>
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //How does declarative code make it easy to create interactive UIs in React?
+     <category>
+        <pattern>^ create interactive UIs in React ^</pattern>
+        <template>
+           Declarative code makes it easy to create interactive UIs in React because it allows developers to define the behavior of the UI
+           <split/>
+           Without having to write complex code to achieve it.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //Properties of declarative code in React
+     <category>
+        <pattern>^ Properties of declarative code ^</pattern>
+        <template>
+            The properties of declarative code in React include improved:
+            <delay>1</delay>
+            <ul>
+                <li>readability</li>
+                <li>reusability</li>
+                <li>maintainability</li>
+            </ul>
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What are hooks in React?
+    <category>
+        <pattern>^ HOOKS ^</pattern>
+        <template>
+           Hooks are functions in React that allow you to use state and other React features in functional components.
+           <delay>1</delay>
+           Instead of needing to use class components and having benefits like reducing the boilerplate.
+           <delay>1</delay>
+           Reuse of stateful logic and making code more modular.
+           
+           <button>
+                <text>Where are hooks used?</text>
+                <postback>^ HOOKS USED ^</postback>
+            </button>
+           
+           <button>
+                <text>What hooks exist in React?</text>
+                <postback>^ HOOKS EXIST ^</postback>
+            </button>
+           
+           <button>
+                <text>The rules of the React Hooks API</text>
+                <postback>^ RULES OF HOOKS ^</postback>
+            </button>
+            
+            <button>
+                <text>When were hooks introduced in React?</text>
+                <postback>^ INTRODUCTION OF HOOKS ^</postback>
+            </button>
+            
+            <button>
+                <text>Benefits of hooks</text>
+                <postback>^ BENEFITS OF HOOKS ^</postback>
+            </button>
+            
+             <button>
+                <text>What hooks achieve in react?</text>
+                <postback>^ ACHIVE OF HOOKS ^</postback>
+            </button>
+            
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //achivement of hooks
+     <category>
+        <pattern>^ ACHIVE OF HOOKS ^</pattern>
+        <template>
+            The hooks achieve the reuse stateful logic across multiple components.
+            
+              <button>
+               <text>How do hooks allow for the reuse of stateful logic in React?</text>
+                <postback>^ reuse of stateful logic ^</postback>
+            </button>
+            
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //How do hooks allow for the reuse of stateful logic in React?
+    <category>
+        <pattern>^ reuse of stateful logic ^</pattern>
+        <template>
+            Hooks allow for the reuse of stateful logic across multiple components in React by creating custom hooks.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //benefits of hooks
+     <category>
+        <pattern>^ BENEFITS OF HOOKS ^</pattern>
+        <template>
+            The benefits of using hooks in React include more concise and reusable code (simplifying the code). 
+            <delay>1</delay>
+            Improved performance,  easier testing and is easy to understand the logic behind.
+            
+             <button>
+               <text>How do hooks simplify the code in React?</text>
+                <postback>^  hooks simplify ^</postback>
+            </button>
+            
+            <button>
+               <text>How do hooks reduce the amount of boilerplate in React?</text>
+                <postback>^ hooks reduce ^</postback>
+            </button>
+            
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //How do hooks reduce the amount of boilerplate in React?
+     <category>
+        <pattern>^ hooks reduce ^</pattern>
+        <template>
+           Hooks reduce the amount of boilerplate required in class components in React by allowing state and other React features to be used in functional components.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //How do hooks simplify the code in React?
+     <category>
+        <pattern>^  hooks simplify ^</pattern>
+        <template>
+            Hooks simplify the code in React by removing the need for class components and lifecycle methods.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //When were hooks introduced in React?
+     <category>
+        <pattern>^ INTRODUCTION OF HOOKS ^</pattern>
+        <template>
+            Hooks were introduced in React version 16.8.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //The rules of the React Hooks API
+     <category>
+        <pattern>^  RULES OF HOOKS ^</pattern>
+        <template>
+            The rules of the React Hooks API include only using hooks at the top level of a functional component and never inside loops or conditions.
+             
+             <button>
+               <text>Why the rules of React Hook Api where created?</text>
+                <postback>^ WHY RULES OF HOOKS ^</postback>
+            </button>
+            
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Why the rules of React Hook Api where created?
+     <category>
+        <pattern>^ WHY RULES OF HOOKS ^</pattern>
+        <template>
+           To help the developers to avoid bugs and maintain the correct component lifecycle.
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //What hooks exist in React?
+    <category>
+        <pattern>^ HOOKS EXIST ^</pattern>
+        <template>
+            <!--carousel-->
+            The hooks that exist in  React are: useState, useEffect, useContext, useRef, useMemo, useCallback
+            <delay>1</delay>
+            <link>
+                <text>Code exemples for them!</text>
+                <url>https://react-hooks-cheatsheet.com/</url>
+            </link>
+            Learn more about the purpose of:
+            <button>
+                <text>useState</text>
+                <postback>^ useState ^</postback>
+            </button>
+            
+            <button>
+                <text>useEffect</text>
+                <postback>^ useEffect ^</postback>
+            </button>
+            
+             <button>
+                <text>useContext</text>
+                <postback>^ useContext ^</postback>
+            </button>
+            
+            <button>
+                <text>useRef</text>
+                <postback>^ useRef ^</postback>
+            </button>
+            
+            <button>
+                <text>useMemo</text>
+                <postback>^ useMemo ^</postback>
+            </button>
+            
+              <button>
+                <text>useCallback</text>
+                <postback>^ useCallback ^</postback>
+            </button>
+             
+             <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpsoe of useCallback
+    <category>
+        <pattern>^ useCallback ^</pattern>
+        <template>
+            The purpose of useCallback in React is to memoize a function so that it is only recreated when one of its dependencies changes.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpose  of useMemo
+    <category>
+        <pattern>^ useMemo ^</pattern>
+        <template>
+            The purpose of useMemo in React is to memoize the result of a function so that it is only recomputed when necessary, improving performance.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpose of useRef
+     <category>
+        <pattern>^ useRef ^</pattern>
+        <template>
+           The purpose of useRef in React is to create a reference to a DOM element, which can be used to manipulate the element directly.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpose of useContext
+     <category>
+        <pattern>^ useContext ^</pattern>
+        <template>
+            The purpose of useContext in React is to allow functional components to access data from a parent component using context.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpose of useEffect
+     <category>
+        <pattern>^ useEffect ^</pattern>
+        <template>
+            The purpose of useEffect in React is to add side effects, such as fetching data from an API or manipulating the DOM, to a functional component.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //purpose of useState
+    <category>
+        <pattern>^ useState ^</pattern>
+        <template>
+            The purpose of useState in React is to add state to a functional component and allow it to be updated and accessed.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    //Where are hooks used?
+    <category>
+        <pattern>^ HOOKS USED ^</pattern>
+        <template>
+             Hooks are  used in functional components.
+             <button>
+                <text>Learn more about functional components</text>
+                <postback>^ hooks in functional components ^</postback>
+            </button>
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //Learn more about functional components
+    <category>
+        <pattern>^ hooks in functional components ^</pattern>
+        <template>
+             A functional component is a type of simple component in React that is defined as a function instead of a class.
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //State management for efficiency
+    <category>
+        <pattern>^ State management ^</pattern>
+        <template>
+           State management in React refers to the process of managing the data and behavior of components in an application.
+             <button>
+                <text>Where the state management is used in React?</text>
+                <postback>^ USAGE OF STATE MANAGEMENT ^</postback>
+            </button>
+             <button>
+                <text>How the state management is build?</text>
+                <postback>^ BUILD OF STATE MANAGEMENT ^</postback>
+            </button>
+             <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    //How the state management is build?
+    <category>
+        <pattern>^ BUILD OF STATE MANAGEMENT ^</pattern>
+        <template>
+            By using different approaches like:
+            <button>
+                <text>Props in React</text>
+                <postback>^ PROPS ^</postback>
+            </button>
+             <button>
+                <text>Local state in React</text>
+                <postback>^ LOCAL STATE ^</postback>
+            </button>
+             <button>
+                <text>Context in React</text>
+                <postback>^ CONTEXT ^</postback>
+            </button>
+             <button>
+                <text>Redux in React</text>
+                <postback>^ REDUX ^</postback>
+            </button>
+           
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    
+    //What is Redux in React?
+    <category>
+        <pattern>^ REDUX ^</pattern>
+        <template>
+            <link>
+                <text>More information!</text>
+                <url>https://redux.js.org/</url>
+            </link>
+            Redux is a state management library for JavaScript applications, including those built with React.
+            
+             <button>
+                <text>What is the purpose of Redux in React?</text>
+                <postback>^ PURPOSE OF REDUX ^</postback>
+            </button>
+            
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+     //What is the purpose of Redux in React?
+    <category>
+        <pattern>^ PURPOSE OF REDUX ^</pattern>
+        <template>
+              <link>
+                <text>More information!</text>
+                <url>https://redux.js.org/</url>
+            </link>
+            The purpose of Redux in React is to manage global state that needs to be shared between components.
+            <delay>1</delay>
+            Which can be difficult to achieve using only props and state.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+        </template>
+    </category>
+    
+    
+    //What is the context in React?
+    <category>
+        <pattern>^ CONTEXT ^</pattern>
+        <template>
+            Context is a way to share data between components without having to pass props manually down the component tree.
+            
+             <button>
+                <text>How does context allow data to be passed down?</text>
+                <postback>^ CONTEXT PASSED DOWN ^</postback>
+            </button>
+            
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+     //How does context allow data to be passed down?
+    <category>
+        <pattern>^ CONTEXT PASSED DOWN ^</pattern>
+        <template>
+           Context allows data to be passed down the component hierarchy by providing a way to store and retrieve data at any level in the component tree.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    
+     //What is local state in React?
+    <category>
+        <pattern>^ LOCAL STATE ^</pattern>
+        <template>
+            Local state in React is data that is managed within a component and not shared with other components.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    //What are props in React?
+    <category>
+        <pattern>^ PROPS ^</pattern>
+        <template>
+            Props are short for "properties" and they are a way to pass data from a parent component to a child component in React.
+            
+            <button>
+                <text>How are props used in React?</text>
+                <postback>^ USAGE OF PROPS ^</postback>
+            </button>
+            
+            <button>
+               <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+     //How are props used in React?
+    <category>
+        <pattern>^ USAGE OF PROPS ^</pattern>
+        <template>
+            Props are passed down from a parent component to a child component.
+            <delay>1</delay>
+            Can be used to manage the state of the child component.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    //Where the state management is used in React?
+    <category>
+        <pattern>^ USAGE OF STATE MANAGEMENT ^</pattern>
+        <template>
+            The state management in React is used in the User Interface of a React application.
+            <button>
+                <text>Return to the technical area! </text>
+                <postback>reacttehnicalbuttons</postback>
+            </button>
+            <button>
+                <text>Exit the chat!</text>
+                <postback>^ EXIT ^</postback>
+            </button>
+            
+        </template>
+    </category>
+    
+    //return to welcome back area
+             <category>
+                 
+                    <pattern>^ WELCOME ^</pattern>
+                    <template>
+                    <think><set name="topic">name</set></think>
+                    <srai>welcomeback</srai>
+                    </template>
+            </category>
+    
+</topic>
+
+
+
+<!--<topic name="hooks">-->
+<!--    <category>-->
+<!--        <pattern>^</pattern>-->
+<!--        <template>-->
+<!--             bine te am gasit in react hooks-->
+<!--                <button>-->
+<!--                        <text>Aici apasa pe mine daca vrei sa te intorci <think><set name="topic">REACTGEN</set></think></text>-->
+<!--                        <postback>reactgen</postback>-->
+<!--                </button>-->
+<!--                <button>-->
+<!--                        <text>Aici apasa pe mine daca vrei sa te intorci la inceput</text>-->
+<!--                        <postback><think><set name="topic">intro</set></think></postback>-->
+<!--                </button>-->
+
+<!--        </template>-->
+<!--    </category>-->
+<!--</topic>-->
+
+
+<!--<topic name="introv2">-->
+    
+<!--     <category>-->
+<!--        <pattern>^</pattern>-->
+<!--            <template> <think>-->
+<!--            <set name="imp"> <star/> </set>.-->
+<!--            </think>-->
+<!--            <condition name="imp">-->
+<!--                <li value="da">merge cu steve</li>-->
+<!--                <li value="*">Nice to meet you <get name="numeUser"></get></li>-->
+                
+<!--             </condition>-->
+<!--             </template>-->
+<!--    </category>-->
+    
+<!--</topic>-->
+
+
+
+
+
+</aiml>
