@@ -1,4 +1,4 @@
-![cli](https://github.com/AgacheAndrei/Severin-Bumbaru-2nd-place-AI-mobile-app/assets/36128809/90d2ff63-f80d-4d6b-b4a1-defc3501726d)# Severin Bumbaru Competition - 2nd place 
+# Severin Bumbaru Competition - 2nd place 
 ## Section AI and mobile app
 ## Problem
 <pre>
