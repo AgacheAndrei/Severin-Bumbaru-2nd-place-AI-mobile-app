@@ -2,10 +2,10 @@
 ## Section AI and mobile app
 ## Problem
 <pre>
-Mobile application for the visually impaired to facilitate orientation within a facility. 
-Objects of interest: door label, stairs, elevator, door, table, person, wall, etc. Text-to-speech and speech-to-text components (in EN or RO). 
-Input: uploaded video, !not real time!.
-Output: audio guidance (text-to-speech) with object detection and/or object recognition instructions.
+Mobile application for the visually impaired to facilitate orientation within a facility 👀. 
+Objects of interest: door label🏷️, stairs, elevator🛗, door🚪, table, person🕴️, wall🧱, etc. Text-to-speech and speech-to-text components (in EN or RO) . 
+Input: uploaded video 🎥, !not real time!.
+Output: audio guidance (text-to-speech) with object detection and/or object recognition instructions 👂.
 </pre>
 
 **! 48 hours to resolve this problem !**
@@ -24,9 +24,9 @@ Output: audio guidance (text-to-speech) with object detection and/or object reco
 <br>  
 
 ### APP
-Mobile application built with React Native and expo. 
+Mobile application built with React Native and expo - **THE APP NAME -> EYES 👀**. 
 
-The layout and the app UI in the following photos.
+The layout and the app UI in the following photos📸.
 <br>
 !!! For voice command  **video** -> the video of the final output will be presented.
 <br>
