@@ -10,6 +10,12 @@ Output: audio guidance (text-to-speech) with object detection and/or object reco
 
 **! 48 hours to resolve this problem !**
 
+## Install
+npm install
+<br>
+expo star
+<br>
+**For expo doc, check the website https://expo.dev/**
 ## Solution
 
 ### Programing languages and technology used
@@ -47,7 +53,6 @@ The instructions of how to use the app are presented in one of the photos.
 
 #### The pipeline of the output
 The input video is analyzed frame by frame to detect the objects using Rekognition -> After the metadata is saved in a file and manipulated -> filter the noise and the anomalies from detection-> Create the border on the object and put the label and the confidence of the AI model -> The analyzed frames are put together in one video -> From this video the text visible in the frames is detected by the ocr system and the text-to-speach create the audio file with that data -> The analyzed video and the audio are put toghter in one final output 🏆🏆🏆
-
 
 ## Input video
 https://github.com/AgacheAndrei/Severin-Bumbaru-2nd-place-AI-mobile-app/assets/36128809/a5e1f35a-a99b-4231-b865-bfb0741b28e7
